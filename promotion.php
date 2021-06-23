@@ -160,9 +160,37 @@ include("navmain.php");
 
     <br>
     <br>
+    <div class="container">
+        <div class="row">
+            <div class="col-sm">
+                <img class="img-fluid" src="img/promotion/promotionmain.jpg" alt="" />
+            </div>
+            <div class="col-sm">
+                <img class="img-fluid" src="img/promotion/promotionmain.jpg" alt="" />
+            </div>
+            <div class="col-sm">
+                <img class="img-fluid" src="img/promotion/promotionmain.jpg" alt="" />
+            </div>
+            <div class="col-sm">
+                <img class="img-fluid" src="img/promotion/promotionmain.jpg" alt="" />
+            </div>
+        </div>
 
-
-
+        <div class="row">
+            <div class="col-sm">
+                <img class="img-fluid" src="img/promotion/promotionmain.jpg" alt="" />
+            </div>
+            <div class="col-sm">
+                <img class="img-fluid" src="img/promotion/promotionmain.jpg" alt="" />
+            </div>
+            <div class="col-sm">
+                <img class="img-fluid" src="img/promotion/promotionmain.jpg" alt="" />
+            </div>
+            <div class="col-sm">
+                <img class="img-fluid" src="img/promotion/promotionmain.jpg" alt="" />
+            </div>
+        </div>
+    </div>
     <br>
     <br>
 
