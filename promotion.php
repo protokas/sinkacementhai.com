@@ -162,11 +162,11 @@ include("navmain.php");
     <br>
 
 
+
     <br>
     <br>
 
     <div class="container">
-
         <h3 class="text-center" style="color:#F21D1D">Lorem ipsum</h3>
         <p class="text-center">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Commodi in numquam, assumenda rem voluptatum dicta similique voluptatibus dolorem id natus! Voluptates est dolore ipsa ullam totam a itaque debitis. Quos!</p>
         <br>
