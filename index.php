@@ -74,17 +74,6 @@
 
     <br>
     <br>
-    <div class="container">
-        <h1 class="text-center" style="color:#F21D1D">ทุกไอเดียครบจบที่นี่</h1>
-        <br>
-
-        <!-- โชว์เชื่อมการค้า -->
-        <div class="embed-responsive embed-responsive-16by9">
-            <iframe class="embed-responsive-item" src="https://momento360.com/e/u/80611ee9f9204e75a748f1705919a33e?utm_campaign=embed&utm_source=other&heading=260.18&pitch=9.98&field-of-view=82.5&size=medium"></iframe>
-        </div>
-        <!-- ปิดโชว์ภาพ -->
-    </div>
-
     <!-- Projects-->
     <section class="projects-section bg-light" id="projects">
         <div class="container">

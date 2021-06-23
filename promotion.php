@@ -19,10 +19,6 @@
     <link href="css/styles.css" rel="stylesheet" />
     <link href="css/custom.css" rel="stylesheet" />
 
-    <!-- Start of HubSpot Embed Code ของคุณโบว์ ฝากให้แปะไว้ -->
-    <script type="text/javascript" id="hs-script-loader" async defer src="//js.hs-scripts.com/5827949.js"></script>
-    <!-- End of HubSpot Embed Code -->
-
 </head>
 
 <!-- Masthead-->
