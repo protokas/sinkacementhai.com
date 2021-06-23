@@ -36,7 +36,7 @@ include("navmain.php");
     <br>
     <br>
     <br>
-    
+
     <div class="container">
 
         <h1 class="text-center" style="color:#F21D1D">สินค้าลดราคา</h1>
@@ -165,7 +165,6 @@ include("navmain.php");
     <br>
     <br>
 
-    
 
     <br>
     <br>
