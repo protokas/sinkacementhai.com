@@ -92,9 +92,25 @@
             </div>
     </section>
 
+    <section class="hotspots--wrapper ">
+        <img src="img/p2.png" class="hotspots--figure">
+        <a class="hotspot hotspot--iphone" href="#">
+            <span class="hotspot--title kanit ">กระเบื้องพื้น</span>
+            <span class="hotspot--cta"></span>
+        </a>
+        <a class="hotspot hotspot--macbook" href="#">
+            <span class="hotspot--title kanit ">หลังคา & รางน้ำ</span>
+            <span class="hotspot--cta"></span>
+        </a>
+        <a class="hotspot hotspot--watch" href="#">
+            <span class="hotspot--title hotspot--title__right kanit">โครงหลังคา</span>
+            <span class="hotspot--cta"></span>
+        </a>
+    </section>
+
     <main class="container">
 
-        <div class="h1 text-center kanit" id="pageHeaderTitle" style="color:#F21D1D" >บริการของเรา</div>
+        <div class="h1 text-center kanit" id="pageHeaderTitle" style="color:#F21D1D">บริการของเรา</div>
 
         <article class="postcard blue">
             <a class="postcard__img_link" href="#">

@@ -861,7 +861,6 @@ div {
 }
 
 /*---------------------------- hproj ------------------------------------*/
-@import url('https://fonts.googleapis.com/css?family=Maven+Pro:500&display=swap');
 
 .hotspots--wrapper {
   position: relative;
@@ -941,17 +940,17 @@ div {
 }
 
 .hotspot--iphone {
-  top: 62%;
-  right: 68%;
+  top: 78%;
+  right: 50%;
 }
 
 .hotspot--macbook {
-  top: 22%;
+  top: 8%;
   right: 48%;
 }
 
 .hotspot--watch {
-  top: 72%;
+  top: 40%;
   left: 45%;
 }
 
