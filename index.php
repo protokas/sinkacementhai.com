@@ -93,7 +93,8 @@
     </section>
 
     <main class="container">
-        <div class="h1 text-center" id="pageHeaderTitle">Our Service</div>
+
+        <div class="h1 text-center kanit" id="pageHeaderTitle" style="color:#F21D1D" >บริการของเรา</div>
 
         <article class="postcard blue">
             <a class="postcard__img_link" href="#">
@@ -209,136 +210,6 @@
     <br>
     <br>
 
-    <h1 class="text-center" style="color:#F21D1D">สินค้าลดราคา</h1>
-    <br>
-    <div class="container mydiv">
-        <div class="row">
-            <div class="col-md-4">
-                <!-- bbb_deals -->
-                <div class="bbb_deals">
-                    <div class="ribbon ribbon-top-right"><span><small class="cross">x </small>4</span></div>
-                    <div class="bbb_deals_title">HOT</div>
-                    <div class="bbb_deals_slider_container">
-                        <div class=" bbb_deals_item">
-                            <div class="bbb_deals_image"><img src="https://th-test-11.slatic.net/p/e26ae43d939a7b657a1a2b622cdb48ad.png_400x400q80.jpg_.webp" alt=""></div>
-                            <div class="bbb_deals_content">
-                                <div class="bbb_deals_info_line d-flex flex-row justify-content-start">
-                                    <div class="bbb_deals_item_category"><a href="#">สว่านกระแทกไร้สาย</a></div>
-                                    <div class="bbb_deals_item_price_a ml-auto"><strike>฿3,590</strike></div>
-                                </div>
-                                <div class="bbb_deals_info_line d-flex flex-row justify-content-start">
-                                    <div class="bbb_deals_item_name">BOSCH GSB120-LI Gen3 [เครื่อง]</div>
-                                    <div class="bbb_deals_item_price ml-auto">฿3,390</div>
-                                </div>
-                                <div class="available">
-                                    <div class="text-center justify-content-start">
-                                        <a class="buttonb js-scroll-trigger" href="https://www.facebook.com/SCGHOMEBoonthavornWarin/">SHOP NOW</a>
-                                    </div>
-                                    <div class="available_bar"><span style="width:17%"></span></div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-4">
-                <!-- bbb_deals -->
-                <div class="bbb_deals">
-                    <div class="ribbon ribbon-top-right"><span><small class="cross">x </small>2</span></div>
-                    <div class="bbb_deals_title">HOT</div>
-                    <div class="bbb_deals_slider_container">
-                        <div class=" bbb_deals_item">
-                            <div class="bbb_deals_image"><img src="https://th-test-11.slatic.net/p/3ce081bbb3d4928e8879d4473497d333.png_400x400q80.jpg_.webp" alt=""></div>
-                            <div class="bbb_deals_content">
-                                <div class="bbb_deals_info_line d-flex flex-row justify-content-start">
-                                    <div class="bbb_deals_item_category"><a href="#">สว่านไฟฟ้า</a></div>
-                                    <div class="bbb_deals_item_price_a ml-auto"><strike>฿2,990</strike></div>
-                                </div>
-                                <div class="bbb_deals_info_line d-flex flex-row justify-content-start">
-                                    <div class="bbb_deals_item_name">สว่านไฟฟ้า GBM 13 RE BOSCH</div>
-                                    <div class="bbb_deals_item_price ml-auto">฿2,735</div>
-                                </div>
-                                <div class=" available">
-                                    <div class="text-center justify-content-start">
-                                        <a class="buttonb js-scroll-trigger" href="https://www.facebook.com/SCGHOMEBoonthavornWarin/">SHOP NOW</a>
-                                    </div>
-                                    <div class="available_bar"><span style="width:17%"></span></div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-4">
-                <!-- bbb_deals -->
-                <div class="bbb_deals">
-                    <div class="ribbon ribbon-top-right"><span><small class="cross">x </small>3</span></div>
-                    <div class="bbb_deals_title">HOT</div>
-                    <div class="bbb_deals_slider_container">
-                        <div class=" bbb_deals_item">
-                            <div class="bbb_deals_image"><img src="https://th-test-11.slatic.net/p/2db5515e99e4b64ea003d1a49266ab8d.png_400x400q80.jpg_.webp" alt=""></div>
-                            <div class="bbb_deals_content">
-                                <div class="bbb_deals_info_line d-flex flex-row justify-content-start">
-                                    <div class="bbb_deals_item_category"><a href="#">เครื่องเป่าลม</a></div>
-                                    <div class="bbb_deals_item_price_a ml-auto"><strike>฿2,690</strike></div>
-                                </div>
-                                <div class="bbb_deals_info_line d-flex flex-row justify-content-start">
-                                    <div class="bbb_deals_item_name">เครื่องเป่าลม BOSCH GBL-82-270 [เครื่อง]</div>
-                                    <div class="bbb_deals_item_price ml-auto">฿2,390</div>
-                                </div>
-                                <div class="available">
-                                    <div class="text-center justify-content-start">
-                                        <a class="buttonb js-scroll-trigger" href="https://www.facebook.com/SCGHOMEBoonthavornWarin/">SHOP NOW</a>
-                                    </div>
-                                    <div class="available_bar"><span style="width:17%"></span></div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-
-    <br>
-    <br>
-
-
-    <div class="container">
-
-        <div class="carousel slide" id="main-carousel" data-ride="carousel">
-            <ol class="carousel-indicators">
-                <li data-target="#main-carousel" data-slide-to="0" class="active"></li>
-                <li data-target="#main-carousel" data-slide-to="1"></li>
-                <li data-target="#main-carousel" data-slide-to="2"></li>
-            </ol><!-- /.carousel-indicators -->
-
-            <div class="carousel-inner">
-                <div class="carousel-item active">
-                    <img class="d-block img-fluid" src="img/Braner1.png" alt="">
-                </div>
-                <div class="carousel-item">
-                    <img class="d-block img-fluid" src="img/Braner1.png" alt="">
-                </div>
-                <div class="carousel-item">
-                    <img class="d-block img-fluid" src="img/Braner1.png" alt="">
-                </div>
-            </div><!-- /.carousel-inner -->
-
-            <a href="#main-carousel" class="carousel-control-prev" data-slide="prev">
-                <span class="carousel-control-prev-icon"></span>
-                <span class="sr-only" aria-hidden="true">Prev</span>
-            </a>
-            <a href="#main-carousel" class="carousel-control-next" data-slide="next">
-                <span class="carousel-control-next-icon"></span>
-                <span class="sr-only" aria-hidden="true">Next</span>
-            </a>
-        </div><!-- /.carousel -->
-    </div><!-- /.container -->
-
-    <br>
-    <br>
-
     <!-- cardb -->
     <div class="container">
         <h1 class="text-center" style="color:#F21D1D">บทความน่าสนใจ</h1>
@@ -421,41 +292,6 @@
     </div>
 
     <!-- end card -->
-    <br>
-    <br>
-
-    <div class="container">
-
-        <div class="carousel slide" id="main-carousel" data-ride="carousel">
-            <ol class="carousel-indicators">
-                <li data-target="#main-carousel" data-slide-to="0" class="active"></li>
-                <li data-target="#main-carousel" data-slide-to="1"></li>
-                <li data-target="#main-carousel" data-slide-to="2"></li>
-            </ol><!-- /.carousel-indicators -->
-
-            <div class="carousel-inner">
-                <div class="carousel-item active">
-                    <img class="d-block img-fluid" src="img/Braner1.png" alt="">
-                </div>
-                <div class="carousel-item">
-                    <img class="d-block img-fluid" src="img/Braner1.png" alt="">
-                </div>
-                <div class="carousel-item">
-                    <img class="d-block img-fluid" src="img/Braner1.png" alt="">
-                </div>
-            </div><!-- /.carousel-inner -->
-
-            <a href="#main-carousel" class="carousel-control-prev" data-slide="prev">
-                <span class="carousel-control-prev-icon"></span>
-                <span class="sr-only" aria-hidden="true">Prev</span>
-            </a>
-            <a href="#main-carousel" class="carousel-control-next" data-slide="next">
-                <span class="carousel-control-next-icon"></span>
-                <span class="sr-only" aria-hidden="true">Next</span>
-            </a>
-        </div><!-- /.carousel -->
-    </div><!-- /.container -->
-    <br>
     <br>
     <br>
     <!-- Signup-->
