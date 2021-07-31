@@ -20,7 +20,7 @@
     <link href="css/custom.css" rel="stylesheet" />
 
 </head>
-
+ 
 <!-- Masthead-->
 <header class="masthead">
     <div class="container d-flex h-100 align-items-center">
@@ -94,15 +94,15 @@
 
     <section class="hotspots--wrapper ">
         <img src="img/p2.png" class="hotspots--figure">
-        <a class="hotspot hotspot--iphone" href="#">
+        <a class="hotspot hotspot--1" href="#">
             <span class="hotspot--title kanit ">กระเบื้องพื้น</span>
             <span class="hotspot--cta"></span>
         </a>
-        <a class="hotspot hotspot--macbook" href="#">
+        <a class="hotspot hotspot--2" href="#">
             <span class="hotspot--title kanit ">หลังคา & รางน้ำ</span>
             <span class="hotspot--cta"></span>
         </a>
-        <a class="hotspot hotspot--watch" href="#">
+        <a class="hotspot hotspot--3" href="#">
             <span class="hotspot--title hotspot--title__right kanit">โครงหลังคา</span>
             <span class="hotspot--cta"></span>
         </a>

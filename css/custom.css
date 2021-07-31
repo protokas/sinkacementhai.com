@@ -939,17 +939,17 @@ div {
   100% {transform: scale(0.4);}
 }
 
-.hotspot--iphone {
+.hotspot--1 {
   top: 78%;
   right: 50%;
 }
 
-.hotspot--macbook {
+.hotspot--2 {
   top: 8%;
   right: 48%;
 }
 
-.hotspot--watch {
+.hotspot--3 {
   top: 40%;
   left: 45%;
 }
