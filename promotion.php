@@ -163,31 +163,31 @@ include("navmain.php");
     <div class="container">
         <div class="row">
             <div class="col-sm">
-                <img class="img-fluid" src="img/promotion/promotionmain.jpg" alt="" />
+                <img class="img-fluid" src="img/promotion/promotionmain.png" alt="" />
             </div>
             <div class="col-sm">
-                <img class="img-fluid" src="img/promotion/promotionmain.jpg" alt="" />
+                <img class="img-fluid" src="img/promotion/promotionmain.png" alt="" />
             </div>
             <div class="col-sm">
-                <img class="img-fluid" src="img/promotion/promotionmain.jpg" alt="" />
+                <img class="img-fluid" src="img/promotion/promotionmain.png" alt="" />
             </div>
             <div class="col-sm">
-                <img class="img-fluid" src="img/promotion/promotionmain.jpg" alt="" />
+                <img class="img-fluid" src="img/promotion/promotionmain.png" alt="" />
             </div>
         </div>
-
+        <br>
         <div class="row">
             <div class="col-sm">
-                <img class="img-fluid" src="img/promotion/promotionmain.jpg" alt="" />
+                <img class="img-fluid" src="img/promotion/promotionmain.png" alt="" />
             </div>
             <div class="col-sm">
-                <img class="img-fluid" src="img/promotion/promotionmain.jpg" alt="" />
+                <img class="img-fluid" src="img/promotion/promotionmain.png" alt="" />
             </div>
             <div class="col-sm">
-                <img class="img-fluid" src="img/promotion/promotionmain.jpg" alt="" />
+                <img class="img-fluid" src="img/promotion/promotionmain.png" alt="" />
             </div>
             <div class="col-sm">
-                <img class="img-fluid" src="img/promotion/promotionmain.jpg" alt="" />
+                <img class="img-fluid" src="img/promotion/promotionmain.png" alt="" />
             </div>
         </div>
     </div>
