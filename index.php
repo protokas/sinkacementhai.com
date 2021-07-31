@@ -95,15 +95,19 @@
     <section class="hotspots--wrapper ">
         <img src="img/p2.png" class="hotspots--figure">
         <a class="hotspot hotspot--1" href="#">
-            <span class="hotspot--title kanit ">กระเบื้องพื้น</span>
+            <span class="hotspot--title hotspot--title__right kanit ">กระเบื้องพื้น</span>
             <span class="hotspot--cta"></span>
         </a>
         <a class="hotspot hotspot--2" href="#">
-            <span class="hotspot--title kanit ">หลังคา & รางน้ำ</span>
+            <span class="hotspot--title kanit ">งานหลังคา & รางน้ำ</span>
             <span class="hotspot--cta"></span>
         </a>
         <a class="hotspot hotspot--3" href="#">
-            <span class="hotspot--title hotspot--title__right kanit">โครงหลังคา</span>
+            <span class="hotspot--title hotspot--title__right kanit">งานโครงหลังคา</span>
+            <span class="hotspot--cta"></span>
+        </a>
+        <a class="hotspot hotspot--4" href="#">
+            <span class="hotspot--title hotspot--title__right kanit">งานผนัง</span>
             <span class="hotspot--cta"></span>
         </a>
     </section>

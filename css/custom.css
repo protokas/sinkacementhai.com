@@ -885,7 +885,7 @@ div {
   color: #ff0000;
   text-transform: uppercase;
   line-height: 50px;
-  font-size: 12px;
+  font-size: 25px;
   letter-spacing: 1px;
   transition: all cubic-bezier(.8,0,.2,1) .4s;
 }
@@ -900,8 +900,8 @@ div {
   position: relative;
   float: none ;
   display: inline-block;
-  width: 50px;
-  height: 50px;
+  width: 20px;
+  height: 20px;
   border-radius: 50%;
   background: #ff0000;
   transition: all cubic-bezier(.8,0,.2,1) .4s;
@@ -952,6 +952,11 @@ div {
 .hotspot--3 {
   top: 40%;
   left: 45%;
+}
+
+.hotspot--4 {
+  top: 65%;
+  left: 83%;
 }
 
 @media screen and (max-width: 640px) {
