@@ -247,19 +247,19 @@
     <!-- kit -->
     <section class="hotspots--wrapper ">
         <img src="img/kitchen.jpg" class="hotspots--figure">
-        <a class="hotspot hotspot--4" href="https://www.facebook.com/SCGHOMEBoonthavornWarin/">
+        <a class="hotspot hotspot--5" href="https://www.facebook.com/SCGHOMEBoonthavornWarin/">
             <span class="hotspot--title hotspot--title__right kanit" style="background-color:rgba(120, 174, 151, 0.4);" >ตัวดูดควัน</span>
             <span class="hotspot--cta"></span>
         </a>
-        <a class="hotspot hotspot--5" href="https://www.facebook.com/SCGHOMEBoonthavornWarin/">
+        <a class="hotspot hotspot--6" href="https://www.facebook.com/SCGHOMEBoonthavornWarin/">
             <span class="hotspot--title kanit" style="background-color:rgba(120, 174, 151, 0.4);" >ก๊อกน้ำ & ซิ้งครัว</span>
             <span class="hotspot--cta"></span>
         </a>
-        <a class="hotspot hotspot--6" href="https://www.facebook.com/SCGHOMEBoonthavornWarin/">
+        <a class="hotspot hotspot--7" href="https://www.facebook.com/SCGHOMEBoonthavornWarin/">
             <span class="hotspot--title hotspot--title__right kanit" style="background-color:rgba(120, 174, 151, 0.4);") >เตาแก๊ส</span>
             <span class="hotspot--cta"></span>
         </a>
-        <a class="hotspot hotspot--7" href="https://www.facebook.com/SCGHOMEBoonthavornWarin/">
+        <a class="hotspot hotspot--8" href="https://www.facebook.com/SCGHOMEBoonthavornWarin/">
             <span class="hotspot--title hotspot--title__right kanit" style="background-color:rgba(120, 174, 151, 0.4);" >เคาท์เตอร์ครัวสำเร็จรูป</span>
             <span class="hotspot--cta"></span>
         </a>
@@ -269,19 +269,19 @@
     <!-- bart -->
     <section class="hotspots--wrapper ">
         <img src="img/bathroom.jpg" class="hotspots--figure">
-        <a class="hotspot hotspot--8" href="https://www.facebook.com/SCGHOMEBoonthavornWarin/">
+        <a class="hotspot hotspot--9" href="https://www.facebook.com/SCGHOMEBoonthavornWarin/">
             <span class="hotspot--title hotspot--title__right kanit" style="background-color:rgba(120, 174, 151, 0.4);" >ห้องอาบน้ำ & อ่างอาบน้ำ</span>
             <span class="hotspot--cta"></span>
         </a>
-        <a class="hotspot hotspot--9" href="https://www.facebook.com/SCGHOMEBoonthavornWarin/">
+        <a class="hotspot hotspot--10" href="https://www.facebook.com/SCGHOMEBoonthavornWarin/">
             <span class="hotspot--title kanit" style="background-color:rgba(120, 174, 151, 0.4);" >ก๊อกน้ำ & ซิ้งห้องน้ำ</span>
             <span class="hotspot--cta"></span>
         </a>
-        <a class="hotspot hotspot--10" href="https://www.facebook.com/SCGHOMEBoonthavornWarin/">
+        <a class="hotspot hotspot--11" href="https://www.facebook.com/SCGHOMEBoonthavornWarin/">
             <span class="hotspot--title hotspot--title__right kanit" style="background-color:rgba(120, 174, 151, 0.4);") >สุขภัณฑ์</span>
             <span class="hotspot--cta"></span>
         </a>
-        <a class="hotspot hotspot--11" href="https://www.facebook.com/SCGHOMEBoonthavornWarin/">
+        <a class="hotspot hotspot--12" href="https://www.facebook.com/SCGHOMEBoonthavornWarin/">
             <span class="hotspot--title hotspot--title__right kanit" style="background-color:rgba(120, 174, 151, 0.4);" >กระเบื้อง & ผนัง</span>
             <span class="hotspot--cta"></span>
         </a>
