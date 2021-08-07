@@ -246,7 +246,7 @@
 
     <!-- kit -->
     <section class="hotspots--wrapper ">
-        <img src="img/p2.png" class="hotspots--figure">
+        <img src="img/kitchen.jpg" class="hotspots--figure">
         <a class="hotspot hotspot--1" href="https://www.facebook.com/SCGHOMEBoonthavornWarin/">
             <span class="hotspot--title hotspot--title__right kanit" style="background-color:rgba(120, 174, 151, 0.4);" >กระเบื้องพื้น</span>
             <span class="hotspot--cta"></span>
@@ -268,7 +268,7 @@
 
     <!-- bart -->
     <section class="hotspots--wrapper ">
-        <img src="img/p2.png" class="hotspots--figure">
+        <img src="img/bathroom.jpg" class="hotspots--figure">
         <a class="hotspot hotspot--1" href="https://www.facebook.com/SCGHOMEBoonthavornWarin/">
             <span class="hotspot--title hotspot--title__right kanit" style="background-color:rgba(120, 174, 151, 0.4);" >กระเบื้องพื้น</span>
             <span class="hotspot--cta"></span>
