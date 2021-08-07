@@ -165,6 +165,7 @@ include("navmain.php");
             <div class="col-sm">
                 <img class="img-fluid" src="img/promotion/promotionmain.png" alt="" />
             </div>
+            <br>
             <div class="col-sm">
                 <img class="img-fluid" src="img/promotion/promotionmain.png" alt="" />
             </div>
