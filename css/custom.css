@@ -960,43 +960,43 @@ div {
 }
 /*------- ครัว ---------*/
 .hotspot--5 {
-  top: 80%;
-  right: 30%;
+  top: 15%;
+  right: 17%;
 }
 
 .hotspot--6 {
-  top: 8%;
-  right: 48%;
+  top: 50%;
+  right: 70%;
 }
 
 .hotspot--7 {
-  top: 40%;
-  left: 45%;
+  top: 60%;
+  left: 70%;
 }
 
 .hotspot--8 {
-  top: 55%;
-  left: 70%;
+  top: 75%;
+  left: 42%;
 }
 /*------- ห้องน้ำ ---------*/
 .hotspot--9 {
-  top: 80%;
-  right: 30%;
+  top: 30%;
+  right: 45%;
 }
 
 .hotspot--10 {
-  top: 8%;
-  right: 48%;
+  top: 60%;
+  right: 20%;
 }
 
 .hotspot--11 {
-  top: 40%;
-  left: 45%;
+  top: 70%;
+  left: 20%;
 }
 
 .hotspot--12 {
-  top: 55%;
-  left: 70%;
+  top: 90%;
+  left: 30%;
 }
 
 @media screen and (max-width: 640px) {
