@@ -132,7 +132,7 @@
             <span class="hotspot--cta"></span>
         </a>
         <a class="hotspot hotspot--3" href="#">
-            <span class="hotspot--title hotspot--title__right kanit" style="background-color:rgba(120, 174, 151, 0.4);") >งานโครงหลังคา</span>
+            <span class="hotspot--title hotspot--title__right kanit" style="background-color:rgba(120, 174, 151, 0.4);") >งานโครงสร้างเหล็ก</span>
             <span class="hotspot--cta"></span>
         </a>
         <a class="hotspot hotspot--4" href="#">
