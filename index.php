@@ -34,6 +34,35 @@
 </header>
 
 <body id="page-top">
+
+    <!-- Messenger ปลั๊กอินแชท Code -->
+    <div id="fb-root"></div>
+
+    <!-- Your ปลั๊กอินแชท code -->
+    <div id="fb-customer-chat" class="fb-customerchat">
+    </div>
+
+    <script>
+      var chatbox = document.getElementById('fb-customer-chat');
+      chatbox.setAttribute("page_id", "101768641949579");
+      chatbox.setAttribute("attribution", "biz_inbox");
+
+      window.fbAsyncInit = function() {
+        FB.init({
+          xfbml            : true,
+          version          : 'v11.0'
+        });
+      };
+
+      (function(d, s, id) {
+        var js, fjs = d.getElementsByTagName(s)[0];
+        if (d.getElementById(id)) return;
+        js = d.createElement(s); js.id = id;
+        js.src = 'https://connect.facebook.net/en_US/sdk/xfbml.customerchat.js';
+        fjs.parentNode.insertBefore(js, fjs);
+      }(document, 'script', 'facebook-jssdk'));
+    </script>
+
     <!-- Navigation-->
     <nav class="navbar navbar-expand-lg navbar-light fixed-top" id="mainNav">
         <div class="container">
@@ -95,19 +124,19 @@
     <section class="hotspots--wrapper ">
         <img src="img/p2.png" class="hotspots--figure">
         <a class="hotspot hotspot--1" href="#">
-            <span class="hotspot--title hotspot--title__right kanit ">กระเบื้องพื้น</span>
+            <span class="hotspot--title hotspot--title__right kanit" style="background-color:Orange;">กระเบื้องพื้น</span>
             <span class="hotspot--cta"></span>
         </a>
         <a class="hotspot hotspot--2" href="#">
-            <span class="hotspot--title kanit ">งานหลังคา & รางน้ำ</span>
+            <span class="hotspot--title kanit" style="background-color:Orange;" >งานหลังคา & รางน้ำ</span>
             <span class="hotspot--cta"></span>
         </a>
         <a class="hotspot hotspot--3" href="#">
-            <span class="hotspot--title hotspot--title__right kanit">งานโครงหลังคา</span>
+            <span class="hotspot--title hotspot--title__right kanit" style="background-color:Orange;" >งานโครงหลังคา</span>
             <span class="hotspot--cta"></span>
         </a>
         <a class="hotspot hotspot--4" href="#">
-            <span class="hotspot--title hotspot--title__right kanit">งานผนัง</span>
+            <span class="hotspot--title hotspot--title__right kanit" style="background-color:Orange;" >งานผนัง</span>
             <span class="hotspot--cta"></span>
         </a>
     </section>
