@@ -124,19 +124,19 @@
     <section class="hotspots--wrapper ">
         <img src="img/p2.png" class="hotspots--figure">
         <a class="hotspot hotspot--1" href="#">
-            <span class="hotspot--title hotspot--title__right kanit" style="background-color:Orange;">กระเบื้องพื้น</span>
+            <span class="hotspot--title hotspot--title__right kanit" style="background-color:rgba(120, 174, 151, 0.4);" >กระเบื้องพื้น</span>
             <span class="hotspot--cta"></span>
         </a>
         <a class="hotspot hotspot--2" href="#">
-            <span class="hotspot--title kanit" style="background-color:Orange;" >งานหลังคา & รางน้ำ</span>
+            <span class="hotspot--title kanit" style="background-color:rgba(120, 174, 151, 0.4);" >งานหลังคา & รางน้ำ</span>
             <span class="hotspot--cta"></span>
         </a>
         <a class="hotspot hotspot--3" href="#">
-            <span class="hotspot--title hotspot--title__right kanit" style="background-color:Orange;" >งานโครงหลังคา</span>
+            <span class="hotspot--title hotspot--title__right kanit" style="background-color:rgba(120, 174, 151, 0.4);") >งานโครงหลังคา</span>
             <span class="hotspot--cta"></span>
         </a>
         <a class="hotspot hotspot--4" href="#">
-            <span class="hotspot--title hotspot--title__right kanit" style="background-color:Orange;" >งานผนัง</span>
+            <span class="hotspot--title hotspot--title__right kanit" style="background-color:rgba(120, 174, 151, 0.4);" >งานผนัง</span>
             <span class="hotspot--cta"></span>
         </a>
     </section>

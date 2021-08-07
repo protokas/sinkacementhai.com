@@ -31,32 +31,11 @@ include("navmain.php");
 ?>
 
 <body id="page-top">
-	<!-- Navigation-->
-	<nav class="navbar navbar-expand-lg navbar-light fixed-top" id="mainNav">
-		<div class="bb container">
-			<a class="navbar-brand js-scroll-trigger" href="index.php">SCG Home WARIN</a>
-			<button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
-				Menu
-				<i class="fas fa-bars"></i>
-			</button>
-			<div class="collapse navbar-collapse" id="navbarResponsive">
-				<ul class="navbar-nav ml-auto">
-					<li class="nav-item"><a class="nav-link js-scroll-trigger" href="service.php">Our Service</a></li>
-					<li class="nav-item"><a class="nav-link js-scroll-trigger" href="promotion.php">Promotion</a></li>
-					<li class="nav-item"><a class="nav-link js-scroll-trigger" href="product.php">Product</a></li>
-					<li class="nav-item"><a class="nav-link js-scroll-trigger" href="#">Contact Us</a></li>
-					<li class="nav-item"><a class="nav-link js-scroll-trigger" href="http://mv.co.th/mvl/default.aspx">Tracking</a></li>
-				</ul>
-			</div>
-		</div>
-	</nav>
-
 	<br>
 	<br>
 	<br>
 	<br>
 	<br>
-
 	<div class="container text-center">
 		<img class=" mx-auto d-block " style="width:60%" src="img/steel/steel black/test1.jpg" alt="">
 	</div>
