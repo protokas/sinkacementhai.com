@@ -124,19 +124,19 @@
 
     <section class="hotspots--wrapper ">
         <img src="img/p2.png" class="hotspots--figure">
-        <a class="hotspot hotspot--1" href="#">
+        <a class="hotspot hotspot--1" href="https://www.facebook.com/SCGHOMEBoonthavornWarin/">
             <span class="hotspot--title hotspot--title__right kanit" style="background-color:rgba(120, 174, 151, 0.4);" >กระเบื้องพื้น</span>
             <span class="hotspot--cta"></span>
         </a>
-        <a class="hotspot hotspot--2" href="#">
+        <a class="hotspot hotspot--2" href="https://www.facebook.com/SCGHOMEBoonthavornWarin/">
             <span class="hotspot--title kanit" style="background-color:rgba(120, 174, 151, 0.4);" >งานหลังคา & รางน้ำ</span>
             <span class="hotspot--cta"></span>
         </a>
-        <a class="hotspot hotspot--3" href="#">
+        <a class="hotspot hotspot--3" href="https://www.facebook.com/SCGHOMEBoonthavornWarin/">
             <span class="hotspot--title hotspot--title__right kanit" style="background-color:rgba(120, 174, 151, 0.4);") >งานโครงสร้างเหล็ก</span>
             <span class="hotspot--cta"></span>
         </a>
-        <a class="hotspot hotspot--4" href="#">
+        <a class="hotspot hotspot--4" href="https://www.facebook.com/SCGHOMEBoonthavornWarin/">
             <span class="hotspot--title hotspot--title__right kanit" style="background-color:rgba(120, 174, 151, 0.4);" >งานผนัง</span>
             <span class="hotspot--cta"></span>
         </a>
@@ -159,7 +159,7 @@
                 <div class="postcard__subtitle small">
                 </div>
                 <div class="postcard__bar"></div>
-                <div class="postcard__preview-txt">Lorem ipsum dolor sit amet consectetur adipisicing elit. Eligendi, fugiat asperiores inventore beatae accusamus odit minima enim, commodi quia, doloribus eius! Ducimus nemo accusantium maiores velit corrupti tempora reiciendis molestiae repellat vero. Eveniet ipsam adipisci illo iusto quibusdam, sunt neque nulla unde ipsum dolores nobis enim quidem excepturi, illum quos!</div>
+                <div class="postcard__preview-txt">Lorem ipsum dolor sit amet consectetur adipisicing elit. Eligendi,</div>
                 <ul class="postcard__tagbox">
                     <li class="tag__item"><i class="fas fa-tag mr-2"></i>Service</li>
                     <li class="tag__item play blue">
@@ -177,7 +177,7 @@
                 <div class="postcard__subtitle small">
                 </div>
                 <div class="postcard__bar"></div>
-                <div class="postcard__preview-txt">Lorem ipsum dolor sit amet consectetur adipisicing elit. Eligendi, fugiat asperiores inventore beatae accusamus odit minima enim, commodi quia, doloribus eius! Ducimus nemo accusantium maiores velit corrupti tempora reiciendis molestiae repellat vero. Eveniet ipsam adipisci illo iusto quibusdam, sunt neque nulla unde ipsum dolores nobis enim quidem excepturi, illum quos!</div>
+                <div class="postcard__preview-txt">Lorem ipsum dolor sit amet consectetur adipisicing elit. Eligendi,</div>
                 <ul class="postcard__tagbox">
                     <li class="tag__item"><i class="fas fa-tag mr-2"></i>Service</li>
                     <li class="tag__item play red">
@@ -195,7 +195,7 @@
                 <div class="postcard__subtitle small">
                 </div>
                 <div class="postcard__bar"></div>
-                <div class="postcard__preview-txt">Lorem ipsum dolor sit amet consectetur adipisicing elit. Eligendi, fugiat asperiores inventore beatae accusamus odit minima enim, commodi quia, doloribus eius! Ducimus nemo accusantium maiores velit corrupti tempora reiciendis molestiae repellat vero. Eveniet ipsam adipisci illo iusto quibusdam, sunt neque nulla unde ipsum dolores nobis enim quidem excepturi, illum quos!</div>
+                <div class="postcard__preview-txt">Lorem ipsum dolor sit amet consectetur adipisicing elit. Eligendi,</div>
                 <ul class="postcard__tagbox">
                     <li class="tag__item"><i class="fas fa-tag mr-2"></i>Service</li>
                     <li class="tag__item play green">
@@ -213,7 +213,7 @@
                 <div class="postcard__subtitle small">
                 </div>
                 <div class="postcard__bar"></div>
-                <div class="postcard__preview-txt">Lorem ipsum dolor sit amet consectetur adipisicing elit. Eligendi, fugiat asperiores inventore beatae accusamus odit minima enim, commodi quia, doloribus eius! Ducimus nemo accusantium maiores velit corrupti tempora reiciendis molestiae repellat vero. Eveniet ipsam adipisci illo iusto quibusdam, sunt neque nulla unde ipsum dolores nobis enim quidem excepturi, illum quos!</div>
+                <div class="postcard__preview-txt">Lorem ipsum dolor sit amet consectetur adipisicing elit. Eligendi,</div>
                 <ul class="postcard__tagbox">
                     <li class="tag__item"><i class="fas fa-tag mr-2"></i>Service</li>
                     <li class="tag__item play yellow">
@@ -231,7 +231,7 @@
                 <div class="postcard__subtitle small">
                 </div>
                 <div class="postcard__bar"></div>
-                <div class="postcard__preview-txt">Lorem ipsum dolor sit amet consectetur adipisicing elit. Eligendi, fugiat asperiores inventore beatae accusamus odit minima enim, commodi quia, doloribus eius! Ducimus nemo accusantium maiores velit corrupti tempora reiciendis molestiae repellat vero. Eveniet ipsam adipisci illo iusto quibusdam, sunt neque nulla unde ipsum dolores nobis enim quidem excepturi, illum quos!</div>
+                <div class="postcard__preview-txt">Lorem ipsum dolor sit amet consectetur adipisicing elit. Eligendi,</div>
                 <ul class="postcard__tagbox">
                     <li class="tag__item"><i class="fas fa-tag mr-2"></i>Service</li>
                     <li class="tag__item play blue">
