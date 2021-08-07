@@ -938,7 +938,7 @@ div {
   66% {transform: scale(0.4);}
   100% {transform: scale(0.4);}
 }
-
+/*------- โครงสร้าง ---------*/
 .hotspot--1 {
   top: 80%;
   right: 30%;
@@ -955,6 +955,46 @@ div {
 }
 
 .hotspot--4 {
+  top: 55%;
+  left: 70%;
+}
+/*------- ครัว ---------*/
+.hotspot--5 {
+  top: 80%;
+  right: 30%;
+}
+
+.hotspot--6 {
+  top: 8%;
+  right: 48%;
+}
+
+.hotspot--7 {
+  top: 40%;
+  left: 45%;
+}
+
+.hotspot--8 {
+  top: 55%;
+  left: 70%;
+}
+/*------- ห้องน้ำ ---------*/
+.hotspot--9 {
+  top: 80%;
+  right: 30%;
+}
+
+.hotspot--10 {
+  top: 8%;
+  right: 48%;
+}
+
+.hotspot--11 {
+  top: 40%;
+  left: 45%;
+}
+
+.hotspot--12 {
   top: 55%;
   left: 70%;
 }
