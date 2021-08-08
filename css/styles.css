@@ -4945,15 +4945,15 @@ a.badge-black:focus, a.badge-black.focus {
 }
 
 .alert-info {
-  color: #0c5460;
-  background-color: #d1ecf1;
+  color: #ffffff;
+  background-color: #0212144b;
   border-color: #bee5eb;
 }
 .alert-info hr {
   border-top-color: #abdde5;
 }
 .alert-info .alert-link {
-  color: #062c33;
+  color: #df1c1c;
 }
 
 .alert-warning {
