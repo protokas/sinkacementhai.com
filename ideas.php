@@ -20,7 +20,7 @@
     <!-- Core theme CSS (includes Bootstrap)-->
     <link href="css/styles.css" rel="stylesheet" />
     <link href="css/custom.css" rel="stylesheet" />
-    
+
 </head>
 
 <!-- Masthead-->
@@ -34,18 +34,32 @@ include("navmain.php");
     <br>
     <br>
 
-    <div class="container-fluid kanit">
+    <div class="container-fluid text-center">
+        <div id="myBtnContainer">
+            <button class="btnfilter active kanit" onclick="filterSelection('ทั้งหมด')"> ทั้งหมด</button>
+            <button class="btnfilter kanit" onclick="filterSelection('ความรู้')"> ความรู้</button>
+            <button class="btnfilter kanit" onclick="filterSelection('ตกแต่งภายใน')"> ตกแต่งภายใน</button>
+            <button class="btnfilter kanit" onclick="filterSelection('ห้องน้ำ')"> ห้องน้ำ</button>
+            <button class="btnfilter kanit" onclick="filterSelection('โครงสร้าง')"> โครงสร้าง</button>
+            <button class="btnfilter kanit" onclick="filterSelection('จัดสวน')"> จัดสวน</button>
+        </div>
+    </div>
+
+    <br>
+    <br>
+
+    <div class="container-fluid kanit containerf">
         <div class="px-lg-5">
 
             <div class="row">
                 <!-- Gallery item -->
-                <div class="col-xl-3 col-lg-4 col-md-6 mb-4">
+                <div class="col-xl-3 col-lg-4 col-md-6 mb-4 filterDiv ความรู้">
                     <div class="bg-white rounded shadow-sm"><img src="img\ideas\test1.jpg" alt="" class="img-fluid card-img-top">
                         <div class="p-4">
                             <h5> <a href="#" class="text-dark">Red paint cup</a></h5>
                             <p class="small text-muted mb-0">Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>
                             <div class="d-flex align-items-center justify-content-between rounded-pill bg-light px-3 py-2 mt-4">
-                                <p class="small mb-0"><a style="color:#000000" href="img/bathroom.jpg" download> <i class="fa fa-download mr-2" d ></i><span class="font-weight-bold">PDF</span></p>
+                                <p class="small mb-0"><a style="color:#000000" href="img/bathroom.jpg" download> <i class="fa fa-download mr-2" d></i><span class="font-weight-bold">PDF</span></p>
                                 <div class="badge badge-danger px-3 rounded-pill font-weight-normal">ความรู้</div>
                             </div>
                         </div>
@@ -54,7 +68,7 @@ include("navmain.php");
                 <!-- End -->
 
                 <!-- Gallery item -->
-                <div class="col-xl-3 col-lg-4 col-md-6 mb-4">
+                <div class="col-xl-3 col-lg-4 col-md-6 mb-4 filterDiv ตกแต่งภายใน">
                     <div class="bg-white rounded shadow-sm"><img src="img\ideas\test2.jpg" alt="" class="img-fluid card-img-top">
                         <div class="p-4">
                             <h5> <a href="#" class="text-dark">Blorange</a></h5>
@@ -69,7 +83,7 @@ include("navmain.php");
                 <!-- End -->
 
                 <!-- Gallery item -->
-                <div class="col-xl-3 col-lg-4 col-md-6 mb-4">
+                <div class="col-xl-3 col-lg-4 col-md-6 mb-4 filterDiv ห้องน้ำ">
                     <div class="bg-white rounded shadow-sm"><img src="img\ideas\test3.jpg" alt="" class="img-fluid card-img-top">
                         <div class="p-4">
                             <h5> <a href="#" class="text-dark">And She Realized</a></h5>
@@ -84,7 +98,7 @@ include("navmain.php");
                 <!-- End -->
 
                 <!-- Gallery item -->
-                <div class="col-xl-3 col-lg-4 col-md-6 mb-4">
+                <div class="col-xl-3 col-lg-4 col-md-6 mb-4 filterDiv ความรู้">
                     <div class="bg-white rounded shadow-sm"><img src="img\ideas\test4.jpg" alt="" class="img-fluid card-img-top">
                         <div class="p-4">
                             <h5> <a href="#" class="text-dark">DOSE Juice</a></h5>
@@ -99,7 +113,7 @@ include("navmain.php");
                 <!-- End -->
 
                 <!-- Gallery item -->
-                <div class="col-xl-3 col-lg-4 col-md-6 mb-4">
+                <div class="col-xl-3 col-lg-4 col-md-6 mb-4 filterDiv ความรู้">
                     <div class="bg-white rounded shadow-sm"><img src="img\ideas\test5.jpg" alt="" class="img-fluid card-img-top">
                         <div class="p-4">
                             <h5> <a href="#" class="text-dark">Pineapple</a></h5>
@@ -114,7 +128,7 @@ include("navmain.php");
                 <!-- End -->
 
                 <!-- Gallery item -->
-                <div class="col-xl-3 col-lg-4 col-md-6 mb-4">
+                <div class="col-xl-3 col-lg-4 col-md-6 mb-4 filterDiv โครงสร้าง">
                     <div class="bg-white rounded shadow-sm"><img src="img\ideas\test6.jpg" alt="" class="img-fluid card-img-top">
                         <div class="p-4">
                             <h5> <a href="#" class="text-dark">Yellow banana</a></h5>
@@ -129,14 +143,14 @@ include("navmain.php");
                 <!-- End -->
 
                 <!-- Gallery item -->
-                <div class="col-xl-3 col-lg-4 col-md-6 mb-4">
+                <div class="col-xl-3 col-lg-4 col-md-6 mb-4 filterDiv ตกแต่งภายใน">
                     <div class="bg-white rounded shadow-sm"><img src="img\ideas\test7.jpg" alt="" class="img-fluid card-img-top">
                         <div class="p-4">
                             <h5> <a href="#" class="text-dark">Teal Gameboy</a></h5>
                             <p class="small text-muted mb-0">Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>
                             <div class="d-flex align-items-center justify-content-between rounded-pill bg-light px-3 py-2 mt-4">
                                 <p class="small mb-0"><a style="color:#000000" href="img/bathroom.jpg" download><i class="fa fa-download mr-2"></i><span class="font-weight-bold">PDF</span></p>
-                                <div class="badge badge-info px-3 rounded-pill font-weight-normal">ตกแต่ง</div>
+                                <div class="badge badge-info px-3 rounded-pill font-weight-normal">ตกแต่งภายใน</div>
                             </div>
                         </div>
                     </div>
@@ -144,7 +158,7 @@ include("navmain.php");
                 <!-- End -->
 
                 <!-- Gallery item -->
-                <div class="col-xl-3 col-lg-4 col-md-6 mb-4">
+                <div class="col-xl-3 col-lg-4 col-md-6 mb-4 filterDiv จัดสวน">
                     <div class="bg-white rounded shadow-sm"><img src="img\ideas\test8.jpg" alt="" class="img-fluid card-img-top">
                         <div class="p-4">
                             <h5> <a href="#" class="text-dark">Color in Guatemala.</a></h5>
@@ -159,7 +173,7 @@ include("navmain.php");
                 <!-- End -->
 
                 <!-- Gallery item -->
-                <div class="col-xl-3 col-lg-4 col-md-6 mb-4">
+                <div class="col-xl-3 col-lg-4 col-md-6 mb-4 filterDiv จัดสวน">
                     <div class="bg-white rounded shadow-sm"><img src="img\ideas\test5.jpg" alt="" class="img-fluid card-img-top">
                         <div class="p-4">
                             <h5> <a href="#" class="text-dark">Red paint cup</a></h5>
@@ -174,7 +188,7 @@ include("navmain.php");
                 <!-- End -->
 
                 <!-- Gallery item -->
-                <div class="col-xl-3 col-lg-4 col-md-6 mb-4">
+                <div class="col-xl-3 col-lg-4 col-md-6 mb-4 filterDiv ความรู้">
                     <div class="bg-white rounded shadow-sm"><img src="img\ideas\test1.jpg" alt="" class="img-fluid card-img-top">
                         <div class="p-4">
                             <h5> <a href="#" class="text-dark">Lorem ipsum dolor</a></h5>
@@ -189,7 +203,7 @@ include("navmain.php");
                 <!-- End -->
 
                 <!-- Gallery item -->
-                <div class="col-xl-3 col-lg-4 col-md-6 mb-4">
+                <div class="col-xl-3 col-lg-4 col-md-6 mb-4 filterDiv ความรู้">
                     <div class="bg-white rounded shadow-sm"><img src="img\ideas\test4.jpg" alt="" class="img-fluid card-img-top">
                         <div class="p-4">
                             <h5> <a href="#" class="text-dark">Lorem ipsum dolor</a></h5>
@@ -204,7 +218,7 @@ include("navmain.php");
                 <!-- End -->
 
                 <!-- Gallery item -->
-                <div class="col-xl-3 col-lg-4 col-md-6 mb-4">
+                <div class="col-xl-3 col-lg-4 col-md-6 mb-4 filterDiv จัดสวน">
                     <div class="bg-white rounded shadow-sm"><img src="img\ideas\test8.jpg" alt="" class="img-fluid card-img-top">
                         <div class="p-4">
                             <h5> <a href="#" class="text-dark">Lorem ipsum dolor</a></h5>
@@ -219,7 +233,7 @@ include("navmain.php");
                 <!-- End -->
 
                 <!-- Gallery item -->
-                <div class="col-xl-3 col-lg-4 col-md-6 mb-4">
+                <div class="col-xl-3 col-lg-4 col-md-6 mb-4 filterDiv ตกแต่งภายใน">
                     <div class="bg-white rounded shadow-sm"><img src="img\ideas\test7.jpg" alt="" class="img-fluid card-img-top">
                         <div class="p-4">
                             <h5> <a href="#" class="text-dark">Blorange</a></h5>
@@ -234,7 +248,7 @@ include("navmain.php");
                 <!-- End -->
 
                 <!-- Gallery item -->
-                <div class="col-xl-3 col-lg-4 col-md-6 mb-4">
+                <div class="col-xl-3 col-lg-4 col-md-6 mb-4 filterDiv ห้องน้ำ">
                     <div class="bg-white rounded shadow-sm"><img src="img\ideas\test2.jpg" alt="" class="img-fluid card-img-top">
                         <div class="p-4">
                             <h5> <a href="#" class="text-dark">And She Realized</a></h5>
@@ -249,7 +263,7 @@ include("navmain.php");
                 <!-- End -->
 
                 <!-- Gallery item -->
-                <div class="col-xl-3 col-lg-4 col-md-6 mb-4">
+                <div class="col-xl-3 col-lg-4 col-md-6 mb-4 filterDiv ความรู้">
                     <div class="bg-white rounded shadow-sm"><img src="img\ideas\test4.jpg" alt="" class="img-fluid card-img-top">
                         <div class="p-4">
                             <h5> <a href="#" class="text-dark">DOSE Juice</a></h5>
@@ -264,7 +278,7 @@ include("navmain.php");
                 <!-- End -->
 
                 <!-- Gallery item -->
-                <div class="col-xl-3 col-lg-4 col-md-6 mb-4">
+                <div class="col-xl-3 col-lg-4 col-md-6 mb-4 filterDiv ความรู้">
                     <div class="bg-white rounded shadow-sm"><img src="img\ideas\test8.jpg" alt="" class="img-fluid card-img-top">
                         <div class="p-4">
                             <h5> <a href="#" class="text-dark">Pineapple</a></h5>
