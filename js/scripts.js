@@ -281,30 +281,38 @@ for (var i = 0; i < btns.length; i++) {
   });
 }
 
-//coolie dis
+///////////////////////////////////coolie dis
 
-// remember, these are the possible parameters for Set_Cookie:
-// name, value, expires, path, domain, secure
-Set_Cookie( 'test', 'none', '', '/', '', '' );
-// if Get_Cookie succeeds, cookies are enabled, since 
-//the cookie was successfully created.
-if ( Get_Cookie( 'test' ) )
-{
-    document.write( 'cookies are currently enabled.' );
-    /* 
-    this is an example of a set cookie variable, if 
-    you want to use this on the page or on another script 
-    instead of writing to the page you would just check that value
-    for true or false and then do what you need to do.
-    */
-    cookie_set = true;
-    // and these are the parameters for Delete_Cookie:
-    // name, path, domain
-    // make sure you use the same parameters in Set and Delete Cookie.
-    Delete_Cookie('test', '/', '');
-}
-// if the Get_Cookie test fails, cookies are not enabled for this session.
-else {
-    document.write('cookies are not currently enabled.');
-    cookie_set = false;
-}
+//  Cookie Law  Jvascript, from http://W3Schools.com
+
+function setCookie(cookieName, cookieValue, numdaystilexpireasinteger) {
+    var d = new Date();
+    d.setTime(d.getTime() + (numdaystilexpireasinteger*24*60*60*1000));
+    var expires = "expires="+ d.toUTCString();
+    document.cookie = cookieName+ "=" + cookieValue + ";" + expires + ";path=/";
+  }
+  
+  function getCookie(cookieName) {
+    var name = cookieName+ "=";
+    var decodedCookie = decodeURIComponent(document.cookie);
+    var ca = decodedCookie.split(';');
+    for(var i = 0; i <ca.length; i++) {
+        var c = ca[i];
+        while (c.charAt(0) == ' ') {
+            c = c.substring(1);
+        }
+        if (c.indexOf(name) == 0) {
+            return c.substring(name.length, c.length);
+        }
+    }
+    return "";
+  }
+  
+  function showLaw() {
+    var x = getCookie("cookieName");  //call cookie to get its value
+    if (x != "") {
+        $("#lawmsg").remove();
+    } else {
+            setCookie("cookieName", "cookieValue", 2);
+        }
+    }
