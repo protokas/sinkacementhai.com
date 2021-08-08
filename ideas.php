@@ -45,7 +45,7 @@ include("navmain.php");
                             <h5> <a href="#" class="text-dark">Red paint cup</a></h5>
                             <p class="small text-muted mb-0">Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>
                             <div class="d-flex align-items-center justify-content-between rounded-pill bg-light px-3 py-2 mt-4">
-                                <p class="small mb-0"><i class="fa fa-download mr-2"></i><span class="font-weight-bold">PDF</span></p>
+                                <p class="small mb-0"><a style="color:#000000" href="img/bathroom.jpg" download> <i class="fa fa-download mr-2" d ></i><span class="font-weight-bold">PDF</span></p>
                                 <div class="badge badge-danger px-3 rounded-pill font-weight-normal">ความรู้</div>
                             </div>
                         </div>
@@ -60,7 +60,7 @@ include("navmain.php");
                             <h5> <a href="#" class="text-dark">Blorange</a></h5>
                             <p class="small text-muted mb-0">Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>
                             <div class="d-flex align-items-center justify-content-between rounded-pill bg-light px-3 py-2 mt-4">
-                                <p class="small mb-0"><i class="fa fa-download mr-2"></i><span class="font-weight-bold">PNG</span></p>
+                                <p class="small mb-0"><a style="color:#000000" href="img/bathroom.jpg" download><i class="fa fa-download mr-2"></i><span class="font-weight-bold">PNG</span></p>
                                 <div class="badge badge-primary px-3 rounded-pill font-weight-normal">ตกแต่งภายใน</div>
                             </div>
                         </div>
@@ -75,7 +75,7 @@ include("navmain.php");
                             <h5> <a href="#" class="text-dark">And She Realized</a></h5>
                             <p class="small text-muted mb-0">Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>
                             <div class="d-flex align-items-center justify-content-between rounded-pill bg-light px-3 py-2 mt-4">
-                                <p class="small mb-0"><i class="fa fa-download mr-2"></i><span class="font-weight-bold">PDF</span></p>
+                                <p class="small mb-0"><a style="color:#000000" href="img/bathroom.jpg" download><i class="fa fa-download mr-2"></i><span class="font-weight-bold">PDF</span></p>
                                 <div class="badge badge-warning px-3 rounded-pill font-weight-normal text-white">ห้องน้ำ</div>
                             </div>
                         </div>
@@ -90,7 +90,7 @@ include("navmain.php");
                             <h5> <a href="#" class="text-dark">DOSE Juice</a></h5>
                             <p class="small text-muted mb-0">Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>
                             <div class="d-flex align-items-center justify-content-between rounded-pill bg-light px-3 py-2 mt-4">
-                                <p class="small mb-0"><i class="fa fa-download mr-2"></i><span class="font-weight-bold">PDF</span></p>
+                                <p class="small mb-0"><a style="color:#000000" href="img/bathroom.jpg" download><i class="fa fa-download mr-2"></i><span class="font-weight-bold">PDF</span></p>
                                 <div class="badge badge-success px-3 rounded-pill font-weight-normal">ความรู้</div>
                             </div>
                         </div>
@@ -105,7 +105,7 @@ include("navmain.php");
                             <h5> <a href="#" class="text-dark">Pineapple</a></h5>
                             <p class="small text-muted mb-0">Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>
                             <div class="d-flex align-items-center justify-content-between rounded-pill bg-light px-3 py-2 mt-4">
-                                <p class="small mb-0"><i class="fa fa-download mr-2"></i><span class="font-weight-bold">PNG</span></p>
+                                <p class="small mb-0"><a style="color:#000000" href="img/bathroom.jpg" download><i class="fa fa-download mr-2"></i><span class="font-weight-bold">PNG</span></p>
                                 <div class="badge badge-primary px-3 rounded-pill font-weight-normal">ความรู้</div>
                             </div>
                         </div>
@@ -120,7 +120,7 @@ include("navmain.php");
                             <h5> <a href="#" class="text-dark">Yellow banana</a></h5>
                             <p class="small text-muted mb-0">Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>
                             <div class="d-flex align-items-center justify-content-between rounded-pill bg-light px-3 py-2 mt-4">
-                                <p class="small mb-0"><i class="fa fa-download mr-2"></i><span class="font-weight-bold">PDF</span></p>
+                                <p class="small mb-0"><a style="color:#000000" href="img/bathroom.jpg" download><i class="fa fa-download mr-2"></i><span class="font-weight-bold">PDF</span></p>
                                 <div class="badge badge-warning px-3 rounded-pill font-weight-normal text-white">โครงสร้าง</div>
                             </div>
                         </div>
@@ -135,7 +135,7 @@ include("navmain.php");
                             <h5> <a href="#" class="text-dark">Teal Gameboy</a></h5>
                             <p class="small text-muted mb-0">Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>
                             <div class="d-flex align-items-center justify-content-between rounded-pill bg-light px-3 py-2 mt-4">
-                                <p class="small mb-0"><i class="fa fa-download mr-2"></i><span class="font-weight-bold">PDF</span></p>
+                                <p class="small mb-0"><a style="color:#000000" href="img/bathroom.jpg" download><i class="fa fa-download mr-2"></i><span class="font-weight-bold">PDF</span></p>
                                 <div class="badge badge-info px-3 rounded-pill font-weight-normal">ตกแต่ง</div>
                             </div>
                         </div>
@@ -150,7 +150,7 @@ include("navmain.php");
                             <h5> <a href="#" class="text-dark">Color in Guatemala.</a></h5>
                             <p class="small text-muted mb-0">Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>
                             <div class="d-flex align-items-center justify-content-between rounded-pill bg-light px-3 py-2 mt-4">
-                                <p class="small mb-0"><i class="fa fa-download mr-2"></i><span class="font-weight-bold">PDF</span></p>
+                                <p class="small mb-0"><a style="color:#000000" href="img/bathroom.jpg" download><i class="fa fa-download mr-2"></i><span class="font-weight-bold">PDF</span></p>
                                 <div class="badge badge-warning px-3 rounded-pill font-weight-normal text-white">จัดสวน</div>
                             </div>
                         </div>
@@ -165,7 +165,7 @@ include("navmain.php");
                             <h5> <a href="#" class="text-dark">Red paint cup</a></h5>
                             <p class="small text-muted mb-0">Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>
                             <div class="d-flex align-items-center justify-content-between rounded-pill bg-light px-3 py-2 mt-4">
-                                <p class="small mb-0"><i class="fa fa-download mr-2"></i><span class="font-weight-bold">PDF</span></p>
+                                <p class="small mb-0"><a style="color:#000000" href="img/bathroom.jpg" download><i class="fa fa-download mr-2"></i><span class="font-weight-bold">PDF</span></p>
                                 <div class="badge badge-danger px-3 rounded-pill font-weight-normal">จัดสวน</div>
                             </div>
                         </div>
@@ -180,7 +180,7 @@ include("navmain.php");
                             <h5> <a href="#" class="text-dark">Lorem ipsum dolor</a></h5>
                             <p class="small text-muted mb-0">Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>
                             <div class="d-flex align-items-center justify-content-between rounded-pill bg-light px-3 py-2 mt-4">
-                                <p class="small mb-0"><i class="fa fa-download mr-2"></i><span class="font-weight-bold">PDF</span></p>
+                                <p class="small mb-0"><a style="color:#000000" href="img/bathroom.jpg" download><i class="fa fa-download mr-2"></i><span class="font-weight-bold">PDF</span></p>
                                 <div class="badge badge-primary px-3 rounded-pill font-weight-normal">ความรู้</div>
                             </div>
                         </div>
@@ -195,7 +195,7 @@ include("navmain.php");
                             <h5> <a href="#" class="text-dark">Lorem ipsum dolor</a></h5>
                             <p class="small text-muted mb-0">Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>
                             <div class="d-flex align-items-center justify-content-between rounded-pill bg-light px-3 py-2 mt-4">
-                                <p class="small mb-0"><i class="fa fa-download mr-2"></i><span class="font-weight-bold">PDF</span></p>
+                                <p class="small mb-0"><a style="color:#000000" href="img/bathroom.jpg" download><i class="fa fa-download mr-2"></i><span class="font-weight-bold">PDF</span></p>
                                 <div class="badge badge-warning px-3 rounded-pill font-weight-normal text-white">ความรู้</div>
                             </div>
                         </div>
@@ -210,7 +210,7 @@ include("navmain.php");
                             <h5> <a href="#" class="text-dark">Lorem ipsum dolor</a></h5>
                             <p class="small text-muted mb-0">Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>
                             <div class="d-flex align-items-center justify-content-between rounded-pill bg-light px-3 py-2 mt-4">
-                                <p class="small mb-0"><i class="fa fa-download mr-2"></i><span class="font-weight-bold">PDF</span></p>
+                                <p class="small mb-0"><a style="color:#000000" href="img/bathroom.jpg" download><i class="fa fa-download mr-2"></i><span class="font-weight-bold">PDF</span></p>
                                 <div class="badge badge-success px-3 rounded-pill font-weight-normal">จัดสวน</div>
                             </div>
                         </div>
@@ -225,7 +225,7 @@ include("navmain.php");
                             <h5> <a href="#" class="text-dark">Blorange</a></h5>
                             <p class="small text-muted mb-0">Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>
                             <div class="d-flex align-items-center justify-content-between rounded-pill bg-light px-3 py-2 mt-4">
-                                <p class="small mb-0"><i class="fa fa-download mr-2"></i><span class="font-weight-bold">PNG</span></p>
+                                <p class="small mb-0"><a style="color:#000000" href="img/bathroom.jpg" download><i class="fa fa-download mr-2"></i><span class="font-weight-bold">PNG</span></p>
                                 <div class="badge badge-primary px-3 rounded-pill font-weight-normal">ตกแต่งภายใน</div>
                             </div>
                         </div>
@@ -240,7 +240,7 @@ include("navmain.php");
                             <h5> <a href="#" class="text-dark">And She Realized</a></h5>
                             <p class="small text-muted mb-0">Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>
                             <div class="d-flex align-items-center justify-content-between rounded-pill bg-light px-3 py-2 mt-4">
-                                <p class="small mb-0"><i class="fa fa-download mr-2"></i><span class="font-weight-bold">PDF</span></p>
+                                <p class="small mb-0"><a style="color:#000000" href="img/bathroom.jpg" download><i class="fa fa-download mr-2"></i><span class="font-weight-bold">PDF</span></p>
                                 <div class="badge badge-warning px-3 rounded-pill font-weight-normal text-white">ห้องน้ำ</div>
                             </div>
                         </div>
@@ -255,7 +255,7 @@ include("navmain.php");
                             <h5> <a href="#" class="text-dark">DOSE Juice</a></h5>
                             <p class="small text-muted mb-0">Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>
                             <div class="d-flex align-items-center justify-content-between rounded-pill bg-light px-3 py-2 mt-4">
-                                <p class="small mb-0"><i class="fa fa-download mr-2"></i><span class="font-weight-bold">PDF</span></p>
+                                <p class="small mb-0"><a style="color:#000000" href="img/bathroom.jpg" download><i class="fa fa-download mr-2"></i><span class="font-weight-bold">PDF</span></p>
                                 <div class="badge badge-success px-3 rounded-pill font-weight-normal">ความรู้</div>
                             </div>
                         </div>
@@ -270,7 +270,7 @@ include("navmain.php");
                             <h5> <a href="#" class="text-dark">Pineapple</a></h5>
                             <p class="small text-muted mb-0">Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>
                             <div class="d-flex align-items-center justify-content-between rounded-pill bg-light px-3 py-2 mt-4">
-                                <p class="small mb-0"><i class="fa fa-download mr-2"></i><span class="font-weight-bold">PNG</span></p>
+                                <p class="small mb-0"><a style="color:#000000" href="img/bathroom.jpg" download><i class="fa fa-download mr-2"></i><span class="font-weight-bold">PNG</span></p>
                                 <div class="badge badge-primary px-3 rounded-pill font-weight-normal">ความรู้</div>
                             </div>
                         </div>
