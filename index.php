@@ -3,7 +3,7 @@
 
 <head>
     <meta charset="utf-8" />
-    <meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests"> 
+    <meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
     <meta name="description" content="เมืองวัสดุ เอสซีจี โฮม บุญถาวร อุบลราชธานี มั่นใจ สินค้า คุณภาพ อุบลราชธานี ครบเครื่องเรื่องบ้าน ศูนย์รวมวัสดุก่อสร้างและของตกแต่งบ้านครบวงจร ราคาถูก คุณภาพดี.">
     <meta name="keywords" content="เมืองวัสดุ,scg home,บุญถาวร,กระเบื้อง,ตกแต่งภายใน,สุขภัณฑ์,เครื่องมือช่าง,สี,หลังคาเหล็ก,เมทัลชีท,วัสดุโครงสร้าง,ร้าน วัสดุ ก่อสร้าง ใกล้ที่สุด,ตะแกรงไวร์เมช,เหล็กเส้น,เหล็กแท่ง,ท่อสแตนเลส,ท่อ pvc,">
@@ -21,7 +21,7 @@
     <link href="css/custom.css" rel="stylesheet" />
 
 </head>
- 
+
 <!-- Masthead-->
 <header class="masthead">
     <div class="container d-flex h-100 align-items-center">
@@ -44,24 +44,25 @@
     </div>
 
     <script>
-      var chatbox = document.getElementById('fb-customer-chat');
-      chatbox.setAttribute("page_id", "101768641949579");
-      chatbox.setAttribute("attribution", "biz_inbox");
+        var chatbox = document.getElementById('fb-customer-chat');
+        chatbox.setAttribute("page_id", "101768641949579");
+        chatbox.setAttribute("attribution", "biz_inbox");
 
-      window.fbAsyncInit = function() {
-        FB.init({
-          xfbml            : true,
-          version          : 'v11.0'
-        });
-      };
+        window.fbAsyncInit = function() {
+            FB.init({
+                xfbml: true,
+                version: 'v11.0'
+            });
+        };
 
-      (function(d, s, id) {
-        var js, fjs = d.getElementsByTagName(s)[0];
-        if (d.getElementById(id)) return;
-        js = d.createElement(s); js.id = id;
-        js.src = 'https://connect.facebook.net/en_US/sdk/xfbml.customerchat.js';
-        fjs.parentNode.insertBefore(js, fjs);
-      }(document, 'script', 'facebook-jssdk'));
+        (function(d, s, id) {
+            var js, fjs = d.getElementsByTagName(s)[0];
+            if (d.getElementById(id)) return;
+            js = d.createElement(s);
+            js.id = id;
+            js.src = 'https://connect.facebook.net/en_US/sdk/xfbml.customerchat.js';
+            fjs.parentNode.insertBefore(js, fjs);
+        }(document, 'script', 'facebook-jssdk'));
     </script>
 
     <!-- Navigation-->
@@ -125,19 +126,19 @@
     <section class="hotspots--wrapper ">
         <img src="img/p2.png" class="hotspots--figure">
         <a class="hotspot hotspot--1" href="https://www.facebook.com/SCGHOMEBoonthavornWarin/">
-            <span class="hotspot--title hotspot--title__right kanit" style="background-color:rgba(120, 174, 151, 0.4);" >กระเบื้องพื้น</span>
+            <span class="hotspot--title hotspot--title__right kanit" style="background-color:rgba(120, 174, 151, 0.4);">กระเบื้องพื้น</span>
             <span class="hotspot--cta"></span>
         </a>
         <a class="hotspot hotspot--2" href="https://www.facebook.com/SCGHOMEBoonthavornWarin/">
-            <span class="hotspot--title kanit" style="background-color:rgba(120, 174, 151, 0.4);" >งานหลังคา & รางน้ำ</span>
+            <span class="hotspot--title kanit" style="background-color:rgba(120, 174, 151, 0.4);">งานหลังคา & รางน้ำ</span>
             <span class="hotspot--cta"></span>
         </a>
         <a class="hotspot hotspot--3" href="https://www.facebook.com/SCGHOMEBoonthavornWarin/">
-            <span class="hotspot--title hotspot--title__right kanit" style="background-color:rgba(120, 174, 151, 0.4);") >งานโครงสร้างเหล็ก</span>
+            <span class="hotspot--title hotspot--title__right kanit" style="background-color:rgba(120, 174, 151, 0.4);" )>งานโครงสร้างเหล็ก</span>
             <span class="hotspot--cta"></span>
         </a>
         <a class="hotspot hotspot--4" href="https://www.facebook.com/SCGHOMEBoonthavornWarin/">
-            <span class="hotspot--title hotspot--title__right kanit" style="background-color:rgba(120, 174, 151, 0.4);" >งานผนัง</span>
+            <span class="hotspot--title hotspot--title__right kanit" style="background-color:rgba(120, 174, 151, 0.4);">งานผนัง</span>
             <span class="hotspot--cta"></span>
         </a>
     </section>
@@ -248,19 +249,19 @@
     <section class="hotspots--wrapper ">
         <img src="img/kitchen.jpg" class="hotspots--figure">
         <a class="hotspot hotspot--5" href="https://www.facebook.com/SCGHOMEBoonthavornWarin/">
-            <span class="hotspot--title hotspot--title__right kanit" style="background-color:rgba(120, 174, 151, 0.4);" >ตัวดูดควัน</span>
+            <span class="hotspot--title hotspot--title__right kanit" style="background-color:rgba(120, 174, 151, 0.4);">ตัวดูดควัน</span>
             <span class="hotspot--cta"></span>
         </a>
         <a class="hotspot hotspot--6" href="https://www.facebook.com/SCGHOMEBoonthavornWarin/">
-            <span class="hotspot--title kanit" style="background-color:rgba(120, 174, 151, 0.4);" >ก๊อกน้ำ & ซิ้งครัว</span>
+            <span class="hotspot--title kanit" style="background-color:rgba(120, 174, 151, 0.4);">ก๊อกน้ำ & ซิ้งครัว</span>
             <span class="hotspot--cta"></span>
         </a>
         <a class="hotspot hotspot--7" href="https://www.facebook.com/SCGHOMEBoonthavornWarin/">
-            <span class="hotspot--title hotspot--title__right kanit" style="background-color:rgba(120, 174, 151, 0.4);") >เตาแก๊ส</span>
+            <span class="hotspot--title hotspot--title__right kanit" style="background-color:rgba(120, 174, 151, 0.4);" )>เตาแก๊ส</span>
             <span class="hotspot--cta"></span>
         </a>
         <a class="hotspot hotspot--8" href="https://www.facebook.com/SCGHOMEBoonthavornWarin/">
-            <span class="hotspot--title hotspot--title__right kanit" style="background-color:rgba(120, 174, 151, 0.4);" >เคาท์เตอร์ครัวสำเร็จรูป</span>
+            <span class="hotspot--title hotspot--title__right kanit" style="background-color:rgba(120, 174, 151, 0.4);">เคาท์เตอร์ครัวสำเร็จรูป</span>
             <span class="hotspot--cta"></span>
         </a>
     </section>
@@ -270,19 +271,19 @@
     <section class="hotspots--wrapper ">
         <img src="img/bathroom.jpg" class="hotspots--figure">
         <a class="hotspot hotspot--9" href="https://www.facebook.com/SCGHOMEBoonthavornWarin/">
-            <span class="hotspot--title hotspot--title__right kanit" style="background-color:rgba(120, 174, 151, 0.4);" >ห้องอาบน้ำ & อ่างอาบน้ำ</span>
+            <span class="hotspot--title hotspot--title__right kanit" style="background-color:rgba(120, 174, 151, 0.4);">ห้องอาบน้ำ & อ่างอาบน้ำ</span>
             <span class="hotspot--cta"></span>
         </a>
         <a class="hotspot hotspot--10" href="https://www.facebook.com/SCGHOMEBoonthavornWarin/">
-            <span class="hotspot--title kanit" style="background-color:rgba(120, 174, 151, 0.4);" >ก๊อกน้ำ & ซิ้งห้องน้ำ</span>
+            <span class="hotspot--title kanit" style="background-color:rgba(120, 174, 151, 0.4);">ก๊อกน้ำ & ซิ้งห้องน้ำ</span>
             <span class="hotspot--cta"></span>
         </a>
         <a class="hotspot hotspot--11" href="https://www.facebook.com/SCGHOMEBoonthavornWarin/">
-            <span class="hotspot--title hotspot--title__right kanit" style="background-color:rgba(120, 174, 151, 0.4);") >สุขภัณฑ์</span>
+            <span class="hotspot--title hotspot--title__right kanit" style="background-color:rgba(120, 174, 151, 0.4);" )>สุขภัณฑ์</span>
             <span class="hotspot--cta"></span>
         </a>
         <a class="hotspot hotspot--12" href="https://www.facebook.com/SCGHOMEBoonthavornWarin/">
-            <span class="hotspot--title hotspot--title__right kanit" style="background-color:rgba(120, 174, 151, 0.4);" >กระเบื้อง & ผนัง</span>
+            <span class="hotspot--title hotspot--title__right kanit" style="background-color:rgba(120, 174, 151, 0.4);">กระเบื้อง & ผนัง</span>
             <span class="hotspot--cta"></span>
         </a>
     </section>
@@ -445,9 +446,7 @@
                     <button type="button" class="close" data-dismiss="modal">&times;</button>
                 </div>
                 <div class="modal-body">
-                    <p class="kanit">Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi, illo harum excepturi
-                        debitis modi dicta odit exercitationem quidem in quia explicabo ab eos mollitia perferendis quam
-                        quibusdam quod totam rem!</p>
+                    <img class="img-fluid" src="img/sub.png" alt="" />
                     <div class="text-center">
                         <a class="kanit buttonb js-scroll-trigger" href="from.php"> สมัครเลย </a>
                     </div>
