@@ -1069,7 +1069,7 @@ div {
 
 /* Add a dark background to the active button */
 .btnfilter.active {
-  background-color: #666;
+  background-color: rgb(233, 20, 20);
   color: white;
 }
 
