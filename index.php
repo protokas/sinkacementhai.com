@@ -460,12 +460,12 @@
 
     <!--  Bootstrap HTML  -->
 
-        <div id="lawmsg" class="alert alert-info alert-dismissible h6 fade show fixed-bottom " role="alert">
+        <div id="lawmsg" class="text-center alert alert-info alert-dismissible h6 fade show fixed-bottom " role="alert">
             <button type="button" class="close" data-dismiss="alert" aria-label="Close">
                 <span aria-hidden="true">&times;</span>
             </button>
-            &nbsp; We use cookies on this website to distinguish you from other users. &nbsp; We use this data to enhance your experience and for targeted advertising. &nbsp; By continuing to use this website you consent to our use of cookies. &nbsp; For more information, please see our &nbsp;
-            <a href="https://policies.google.com/?hl=en-US" target="_blank">Cookie Policy</a>.
+            &nbsp; เราใช้คุกกี้เพื่อพัฒนาเว็บไซต์ของเราให้สะดวกต่อการใช้งานของคุณ การดำเนินการต่อบนเว็บไซต์นี้ถือว่าคุณยอมรับการใช้งานคุกกี้
+            <a href="https://policies.google.com/?hl=en-US" target="_blank">นโยบาย คุกกี้</a>.
         </div>
 
     <!-- Footer-->
