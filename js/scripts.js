@@ -283,7 +283,6 @@ for (var i = 0; i < btns.length; i++) {
 
 ///////////////////////////////////coolie dis
 
-//  Cookie Law  Jvascript, from http://W3Schools.com
 
 function setCookie(cookieName, cookieValue, numdaystilexpireasinteger) {
     var d = new Date();
