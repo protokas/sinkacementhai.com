@@ -152,96 +152,92 @@
 
         <div class="h1 text-center kanit" id="pageHeaderTitle" style="color:#F21D1D">บริการของเรา</div>
 
-        <article class="postcard blue">
-            <a class="postcard__img_link" href="#">
-                <img class="postcard__img" src="https://picsum.photos/1000/1000" alt="Image Title" />
-            </a>
-            <div class="postcard__text">
-                <h1 class="postcard__title blue"><a href="#">ออกแบบ</a></h1>
-                <div class="postcard__subtitle small">
-                </div>
-                <div class="postcard__bar"></div>
-                <div class="postcard__preview-txt">Lorem ipsum dolor sit amet consectetur adipisicing elit. Eligendi,</div>
-                <ul class="postcard__tagbox">
-                    <li class="tag__item"><i class="fas fa-tag mr-2"></i>Service</li>
-                    <li class="tag__item play blue">
-                        <a href="#"><i class="fas fa-play mr-2"></i>Shop now</a>
-                    </li>
-                </ul>
+        <div class="row">
+            <div class="col">
+                <article class="postcard blue">
+                    <a class="postcard__img_link" href="#">
+                        <img class="postcard__img" src="https://picsum.photos/1000/1000" alt="Image Title" />
+                    </a>
+                    <div class="postcard__text">
+                        <h1 class="postcard__title blue" style="font-size: 1.25rem"><a href="#">ออกแบบ</a></h1>
+                        <div class="postcard__subtitle small">
+                        </div>
+                        <div class="postcard__bar"></div>
+                        <div class="postcard__preview-txt" >Lorem ipsum dolor sit amet consectetur adipisicing elit. Eligendi,</div>
+                        <ul class="postcard__tagbox">
+                            <li class="tag__item"><i class="fas fa-tag mr-2"></i>Service</li>
+                            <li class="tag__item play blue">
+                                <a href="#"><i class="fas fa-play mr-2"></i>Shop now</a>
+                            </li>
+                        </ul>
+                    </div>
+                </article>
             </div>
-        </article>
-        <article class="postcard red">
-            <a class="postcard__img_link" href="#">
-                <img class="postcard__img" src="https://picsum.photos/501/500" alt="Image Title" />
-            </a>
-            <div class="postcard__text">
-                <h1 class="postcard__title red"><a href="#">ให้คำปรึกษา</a></h1>
-                <div class="postcard__subtitle small">
-                </div>
-                <div class="postcard__bar"></div>
-                <div class="postcard__preview-txt">Lorem ipsum dolor sit amet consectetur adipisicing elit. Eligendi,</div>
-                <ul class="postcard__tagbox">
-                    <li class="tag__item"><i class="fas fa-tag mr-2"></i>Service</li>
-                    <li class="tag__item play red">
-                        <a href="#"><i class="fas fa-play mr-2"></i>Shop now</a>
-                    </li>
-                </ul>
+            <div class="col">
+                <article class="postcard red">
+                    <a class="postcard__img_link" href="#">
+                        <img class="postcard__img" src="https://picsum.photos/501/500" alt="Image Title" />
+                    </a>
+                    <div class="postcard__text">
+                        <h6 class="postcard__title red" style="font-size: 1.25rem"><a href="#">ให้คำปรึกษา</a></h6>
+                        <div class="postcard__subtitle small">
+                        </div>
+                        <div class="postcard__bar"></div>
+                        <div class="postcard__preview-txt">Lorem ipsum dolor sit amet consectetur adipisicing elit. Eligendi,</div>
+                        <ul class="postcard__tagbox">
+                            <li class="tag__item"><i class="fas fa-tag mr-2"></i>Service</li>
+                            <li class="tag__item play red">
+                                <a href="#"><i class="fas fa-play mr-2"></i>Shop now</a>
+                            </li>
+                        </ul>
+                    </div>
+                </article>
             </div>
-        </article>
-        <article class="postcard green">
-            <a class="postcard__img_link" href="#">
-                <img class="postcard__img" src="https://picsum.photos/500/501" alt="Image Title" />
-            </a>
-            <div class="postcard__text">
-                <h1 class="postcard__title green"><a href="#">ประมาณราคา</a></h1>
-                <div class="postcard__subtitle small">
-                </div>
-                <div class="postcard__bar"></div>
-                <div class="postcard__preview-txt">Lorem ipsum dolor sit amet consectetur adipisicing elit. Eligendi,</div>
-                <ul class="postcard__tagbox">
-                    <li class="tag__item"><i class="fas fa-tag mr-2"></i>Service</li>
-                    <li class="tag__item play green">
-                        <a href="#"><i class="fas fa-play mr-2"></i>Shop now</a>
-                    </li>
-                </ul>
+        </div>
+
+        <div class="row">
+            <div class="col">
+                <article class="postcard green">
+                    <a class="postcard__img_link" href="#">
+                        <img class="postcard__img" src="https://picsum.photos/500/501" alt="Image Title" />
+                    </a>
+                    <div class="postcard__text">
+                        <h6 class="postcard__title green" style="font-size: 1.25rem"><a href="#">ประมาณราคา</a></h6>
+                        <div class="postcard__subtitle small">
+                        </div>
+                        <div class="postcard__bar"></div>
+                        <div class="postcard__preview-txt">Lorem ipsum dolor sit amet consectetur adipisicing elit. Eligendi,</div>
+                        <ul class="postcard__tagbox">
+                            <li class="tag__item"><i class="fas fa-tag mr-2"></i>Service</li>
+                            <li class="tag__item play green">
+                                <a href="#"><i class="fas fa-play mr-2"></i>Shop now</a>
+                            </li>
+                        </ul>
+                    </div>
+                </article>
             </div>
-        </article>
-        <article class="postcard yellow">
-            <a class="postcard__img_link" href="#">
-                <img class="postcard__img" src="https://picsum.photos/501/501" alt="Image Title" />
-            </a>
-            <div class="postcard__text">
-                <h1 class="postcard__title yellow"><a href="#">จัดส่ง</a></h1>
-                <div class="postcard__subtitle small">
-                </div>
-                <div class="postcard__bar"></div>
-                <div class="postcard__preview-txt">Lorem ipsum dolor sit amet consectetur adipisicing elit. Eligendi,</div>
-                <ul class="postcard__tagbox">
-                    <li class="tag__item"><i class="fas fa-tag mr-2"></i>Service</li>
-                    <li class="tag__item play yellow">
-                        <a href="#"><i class="fas fa-play mr-2"></i>Shop now</a>
-                    </li>
-                </ul>
+            <div class="col">
+                <article class="postcard yellow">
+                    <a class="postcard__img_link" href="#">
+                        <img class="postcard__img" src="https://picsum.photos/501/501" alt="Image Title" />
+                    </a>
+                    <div class="postcard__text">
+                        <h1 class="postcard__title yellow" style="font-size: 1.25rem"><a href="#">จัดส่ง</a></h1>
+                        <div class="postcard__subtitle small">
+                        </div>
+                        <div class="postcard__bar"></div>
+                        <div class="postcard__preview-txt">Lorem ipsum dolor sit amet consectetur adipisicing elit. Eligendi,</div>
+                        <ul class="postcard__tagbox">
+                            <li class="tag__item"><i class="fas fa-tag mr-2"></i>Service</li>
+                            <li class="tag__item play yellow">
+                                <a href="#"><i class="fas fa-play mr-2"></i>Shop now</a>
+                            </li>
+                        </ul>
+                    </div>
+                </article>
             </div>
-        </article>
-        <article class="postcard blue">
-            <a class="postcard__img_link" href="#">
-                <img class="postcard__img" src="https://picsum.photos/1000/1000" alt="Image Title" />
-            </a>
-            <div class="postcard__text">
-                <h1 class="postcard__title blue"><a href="#">ติดตั้ง</a></h1>
-                <div class="postcard__subtitle small">
-                </div>
-                <div class="postcard__bar"></div>
-                <div class="postcard__preview-txt">Lorem ipsum dolor sit amet consectetur adipisicing elit. Eligendi,</div>
-                <ul class="postcard__tagbox">
-                    <li class="tag__item"><i class="fas fa-tag mr-2"></i>Service</li>
-                    <li class="tag__item play blue">
-                        <a href="#"><i class="fas fa-play mr-2"></i>Shop now</a>
-                    </li>
-                </ul>
-            </div>
-        </article>
+        </div>
+
     </main>
     <br>
     <br>
@@ -455,10 +451,8 @@
                 </div>
             </div>
         </div>
-    </div>
-    <!-- END popup -->
 
-    <!--  Bootstrap HTML  -->
+        <!--  Bootstrap HTML  -->
 
         <div id="lawmsg" class="text-center alert alert-info alert-dismissible h6 fade show fixed-bottom " role="alert">
             <button type="button" class="close" data-dismiss="alert" aria-label="Close">
@@ -467,6 +461,9 @@
             &nbsp; เราใช้คุกกี้เพื่อพัฒนาเว็บไซต์ของเราให้สะดวกต่อการใช้งานของคุณ การดำเนินการต่อบนเว็บไซต์นี้ถือว่าคุณยอมรับการใช้งานคุกกี้
             <a href="https://policies.google.com/?hl=en-US" target="_blank">นโยบาย คุกกี้</a>.
         </div>
+
+    </div>
+    <!-- END popup -->
 
     <!-- Footer-->
     <!-- Bootstrap core JS-->
