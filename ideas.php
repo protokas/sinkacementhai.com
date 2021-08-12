@@ -347,6 +347,7 @@ include("navmain.php");
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.4.1/jquery.easing.min.js"></script>
     <!-- Core theme JS-->
     <script src="js/scripts.js"></script>
+    <script src="js/id.js" ></script>
 </body>
 
 </html>
