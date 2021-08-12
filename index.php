@@ -123,6 +123,7 @@
             </div>
     </section>
 
+
     <section class="hotspots--wrapper ">
         <img src="img/p2.jpg" class="hotspots--figure">
         <a class="hotspot hotspot--1" href="https://www.facebook.com/SCGHOMEBoonthavornWarin/">
