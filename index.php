@@ -125,7 +125,7 @@
     </section>
 
     <section class="hotspots--wrapper ">
-        <img src="img/p2.png" class="hotspots--figure">
+        <img src="img/p2.jpg" class="hotspots--figure">
         <a class="hotspot hotspot--1" href="https://www.facebook.com/SCGHOMEBoonthavornWarin/">
             <span class="hotspot--title hotspot--title__right kanit" style="background-color:rgba(120, 174, 151, 0.4);">กระเบื้องพื้น</span>
             <span class="hotspot--cta"></span>
@@ -447,7 +447,7 @@
                     <button type="button" class="close" data-dismiss="modal">&times;</button>
                 </div>
                 <div class="modal-body">
-                    <img class="img-fluid" src="img/sub.png" alt="" />
+                    <img class="img-fluid" src="img/sub.jpg" alt="" />
                     <div class="text-center">
                         <a class="kanit buttonb js-scroll-trigger" href="from.php"> สมัครเลย </a>
                     </div>
