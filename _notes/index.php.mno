@@ -1,6 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
-<info>
-	<infoitem key="UD_home" value="name:admin_id;datatype:int,name:admin_name;datatype:string,name:admin_password;datatype:string" />
-	<infoitem key="UD_conect" value="name:admin_id;datatype:int,name:admin_name;datatype:string,name:admin_password;datatype:string" />
-	<infoitem key="UD_test" value="name:admin_id;datatype:int,name:admin_name;datatype:string,name:admin_password;datatype:string" />
-</info>
