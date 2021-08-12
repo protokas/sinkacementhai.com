@@ -94,7 +94,7 @@ include("navmain.php");
 	<script src="js/scripts.js"></script>
 
 
-	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
 	<script>
 		var uri = 'http://mv.co.th/WebApi/api/PriceList/GetPriceByGroupID/11';
 		$(document).ready(function() {
