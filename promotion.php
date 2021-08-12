@@ -137,13 +137,13 @@ include("navmain.php");
 
             <div class="carousel-inner">
                 <div class="carousel-item active">
-                    <img class="d-block img-fluid" src="img/Braner2.png" alt="">
+                    <img class="d-block img-fluid" src="img/Braner2.jpg" alt="">
                 </div>
                 <div class="carousel-item">
-                    <img class="d-block img-fluid" src="img/Braner2.png" alt="">
+                    <img class="d-block img-fluid" src="img/Braner2.jpg" alt="">
                 </div>
                 <div class="carousel-item">
-                    <img class="d-block img-fluid" src="img/Braner2.png" alt="">
+                    <img class="d-block img-fluid" src="img/Braner2.jpg" alt="">
                 </div>
             </div><!-- /.carousel-inner -->
 
@@ -209,13 +209,13 @@ include("navmain.php");
 
             <div class="carousel-inner">
                 <div class="carousel-item active">
-                    <img class="d-block img-fluid" src="img/Braner1.png" alt="">
+                    <img class="d-block img-fluid" src="img/Braner1.jpg" alt="">
                 </div>
                 <div class="carousel-item">
-                    <img class="d-block img-fluid" src="img/Braner1.png" alt="">
+                    <img class="d-block img-fluid" src="img/Braner1.jpg" alt="">
                 </div>
                 <div class="carousel-item">
-                    <img class="d-block img-fluid" src="img/Braner1.png" alt="">
+                    <img class="d-block img-fluid" src="img/Braner1.jpg" alt="">
                 </div>
             </div><!-- /.carousel-inner -->
 
