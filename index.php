@@ -441,6 +441,17 @@
 
     <div id="myModal" class="modal fade">
         <div class="modal-dialog">
+            <!--  Bootstrap HTML  -->
+
+            <div id="lawmsg" class="text-center alert alert-info alert-dismissible h6 fade show fixed-bottom " role="alert">
+                <button type="button" class="close" data-dismiss="alert" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+                &nbsp; เราใช้คุกกี้เพื่อพัฒนาเว็บไซต์ของเราให้สะดวกต่อการใช้งานของคุณ การดำเนินการต่อบนเว็บไซต์นี้ถือว่าคุณยอมรับการใช้งานคุกกี้
+                <a href="https://policies.google.com/?hl=en-US" target="_blank">นโยบาย คุกกี้</a>.
+            </div>
+
+
             <div class="modal-content">
                 <div class="modal-header">
                     <h5 class="kanit modal-title" style="color:#F21D1D">สมัครสมาชิก รับสิทธิพิเศษมากมาย</h5>
@@ -457,16 +468,6 @@
         </div>
     </div>
     <!-- END popup -->
-
-    <!--  Bootstrap HTML  -->
-
-        <div id="lawmsg" class="text-center alert alert-info alert-dismissible h6 fade show fixed-bottom " role="alert">
-            <button type="button" class="close" data-dismiss="alert" aria-label="Close">
-                <span aria-hidden="true">&times;</span>
-            </button>
-            &nbsp; เราใช้คุกกี้เพื่อพัฒนาเว็บไซต์ของเราให้สะดวกต่อการใช้งานของคุณ การดำเนินการต่อบนเว็บไซต์นี้ถือว่าคุณยอมรับการใช้งานคุกกี้
-            <a href="https://policies.google.com/?hl=en-US" target="_blank">นโยบาย คุกกี้</a>.
-        </div>
 
     <!-- Footer-->
     <!-- Bootstrap core JS-->
