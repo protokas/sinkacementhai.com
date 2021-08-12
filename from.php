@@ -19,9 +19,6 @@
     <link href="css/styles.css" rel="stylesheet" />
     <link href="css/custom.css" rel="stylesheet" />
 
-    <!-- Start of HubSpot Embed Code ของคุณโบว์ ฝากให้แปะไว้ -->
-    <script type="text/javascript" id="hs-script-loader" async defer src="//js.hs-scripts.com/5827949.js"></script>
-    <!-- End of HubSpot Embed Code -->
 
 </head>
 
@@ -88,11 +85,6 @@ include("navmain.php");
             <br>
         </div>
     </section>
-    <!-- Bootstrap core JS-->
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/js/bootstrap.bundle.min.js"></script>
-    <!-- Third party plugin JS-->
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.4.1/jquery.easing.min.js"></script>
     <!-- Core theme JS-->
     <script src="js/scripts.js"></script>
 </body>
