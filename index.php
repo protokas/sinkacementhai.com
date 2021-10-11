@@ -158,7 +158,7 @@
 
     <main class="container">
 
-        <div class="h1 text-center kanit" id="pageHeaderTitle" style="color:#F21D1D">บริการของเรา</div>
+        <div class="h1 text-center kanit" id="pageHeaderTitle" style="color:#F21D1D">บริการหลักของเรา</div>
 
         <article class="postcard blue">
             <a class="postcard__img_link" href="#">
