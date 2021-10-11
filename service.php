@@ -43,7 +43,7 @@ include("navmain.php");
                 <ul class="postcard__tagbox">
                     <li class="tag__item"><i class="fas fa-tag mr-2"></i>Service</li>
                     <li class="tag__item play blue">
-                        <a href="#"><i class="fas fa-play mr-2"></i>Shop now</a>
+                        <a href="#"><i class="fas fa-play mr-2"></i>ติดต่อสอบถาม</a>
                     </li>
                 </ul>
             </div>
@@ -59,7 +59,7 @@ include("navmain.php");
                 <ul class="postcard__tagbox">
                     <li class="tag__item"><i class="fas fa-tag mr-2"></i>Service</li>
                     <li class="tag__item play red">
-                        <a href="#"><i class="fas fa-play mr-2"></i>Shop now</a>
+                        <a href="#"><i class="fas fa-play mr-2"></i>ติดต่อสอบถาม</a>
                     </li>
                 </ul>
             </div>
@@ -69,13 +69,13 @@ include("navmain.php");
                 <img class="postcard__img" src="https://picsum.photos/502/502" alt="Image Title" />
             </a>
             <div class="postcard__text">
-                <h1 class="postcard__title green"><a href="#">บริการงานบ้านจากคิวช่าง</a></h1>
+                <h1 class="postcard__title green"><a href="#">บริการงานจากคิวช่าง</a></h1>
                 <div class="postcard__bar"></div>
                 <div class="postcard__preview-txt">บริการติดตั้งฉนวนกันความร้อน<br>บริการติดตั้งพื้นภายนอก-ระแนงรั้ว<br>บริการติดตั้งเครื่องปรับอาการแบบติดผนัง<br>บริการล้างแอร์ติดผนัง<br>บริการปูกระเบื้องพื้นผนัง<br>บริการติดตั้งรางน้ำฝน<br>บริการติดตั้งหลังคาโรงจอดรถ<br>บริการรื้อถอน-ติดตั้งสุขภัณฑ์ห้องน้ำ<br></div>
                 <ul class="postcard__tagbox">
                     <li class="tag__item"><i class="fas fa-tag mr-2"></i>Service</li>
                     <li class="tag__item play green">
-                        <a href="#"><i class="fas fa-play mr-2"></i>Shop now</a>
+                        <a href="#"><i class="fas fa-play mr-2"></i>ติดต่อสอบถาม</a>
                     </li>
                 </ul>
             </div>
@@ -91,7 +91,7 @@ include("navmain.php");
                 <ul class="postcard__tagbox">
                     <li class="tag__item"><i class="fas fa-tag mr-2"></i>Service</li>
                     <li class="tag__item play red">
-                        <a href="#"><i class="fas fa-play mr-2"></i>Shop now</a>
+                        <a href="#"><i class="fas fa-play mr-2"></i>ติดต่อสอบถาม</a>
                     </li>
                 </ul>
             </div>
@@ -106,7 +106,7 @@ include("navmain.php");
     <ul class="cards">
         <li>
             <a href="" class="card">
-                <img src="https://i.imgur.com/oYiTqum.jpg" class="card__image" alt="" />
+                <img src="img/service_qc/ติดตั้งติดตั้งโรงจอดรถ.jpg" class="card__image" alt="" />
                 <div class="card__overlay">
                     <div class="card__header">
                         <svg class="card__arc" xmlns="http://www.w3.org/2000/svg">
@@ -124,7 +124,7 @@ include("navmain.php");
         </li>
         <li>
             <a href="" class="card">
-                <img src="https://i.imgur.com/2DhmtJ4.jpg" class="card__image" alt="" />
+                <img src="img/service_qc/สำรวจงานปูกระเบื้องเซรามิค.jpg" class="card__image" alt="" />
                 <div class="card__overlay">
                     <div class="card__header">
                         <svg class="card__arc" xmlns="http://www.w3.org/2000/svg">
@@ -142,7 +142,7 @@ include("navmain.php");
         </li>
         <li>
             <a href="" class="card">
-                <img src="https://i.imgur.com/oYiTqum.jpg" class="card__image" alt="" />
+                <img src="img/service_qc/แผ่น C-Chanel.jpg" class="card__image" alt="" />
                 <div class="card__overlay">
                     <div class="card__header">
                         <svg class="card__arc" xmlns="http://www.w3.org/2000/svg">
@@ -160,7 +160,7 @@ include("navmain.php");
         </li>
         <li>
             <a href="" class="card">
-                <img src="https://i.imgur.com/2DhmtJ4.jpg" class="card__image" alt="" />
+                <img src="img/service_qc/ติดตั้งรั้วระแนงบังตา.jpg" class="card__image" alt="" />
                 <div class="card__overlay">
                     <div class="card__header">
                         <svg class="card__arc" xmlns="http://www.w3.org/2000/svg">
@@ -181,7 +181,7 @@ include("navmain.php");
     <ul class="cards">
         <li>
             <a href="" class="card">
-                <img src="https://i.imgur.com/oYiTqum.jpg" class="card__image" alt="" />
+                <img src="img/service_qc/ติดตั้งไม้พื้น.jpg" class="card__image" alt="" />
                 <div class="card__overlay">
                     <div class="card__header">
                         <svg class="card__arc" xmlns="http://www.w3.org/2000/svg">
@@ -199,7 +199,7 @@ include("navmain.php");
         </li>
         <li>
             <a href="" class="card">
-                <img src="https://i.imgur.com/2DhmtJ4.jpg" class="card__image" alt="" />
+                <img src="img/service_qc/ติดตั้งฝ้าภายใน.jpg" class="card__image" alt="" />
                 <div class="card__overlay">
                     <div class="card__header">
                         <svg class="card__arc" xmlns="http://www.w3.org/2000/svg">
@@ -217,7 +217,7 @@ include("navmain.php");
         </li>
         <li>
             <a href="" class="card">
-                <img src="https://i.imgur.com/oYiTqum.jpg" class="card__image" alt="" />
+                <img src="img/service_qc/ติดตั้งฝ้าภายในยิปซัม.jpg" class="card__image" alt="" />
                 <div class="card__overlay">
                     <div class="card__header">
                         <svg class="card__arc" xmlns="http://www.w3.org/2000/svg">
@@ -235,7 +235,7 @@ include("navmain.php");
         </li>
         <li>
             <a href="" class="card">
-                <img src="https://i.imgur.com/2DhmtJ4.jpg" class="card__image" alt="" />
+                <img src="img/service_qc/ติดตั้งฝ้าภายนอก.png" class="card__image" alt="" />
                 <div class="card__overlay">
                     <div class="card__header">
                         <svg class="card__arc" xmlns="http://www.w3.org/2000/svg">
@@ -256,7 +256,7 @@ include("navmain.php");
     <ul class="cards">
         <li>
             <a href="" class="card">
-                <img src="https://i.imgur.com/oYiTqum.jpg" class="card__image" alt="" />
+                <img src="img/service_qc/ติดตั้งห้องน้ำ.jpg" class="card__image" alt="" />
                 <div class="card__overlay">
                     <div class="card__header">
                         <svg class="card__arc" xmlns="http://www.w3.org/2000/svg">
@@ -274,7 +274,7 @@ include("navmain.php");
         </li>
         <li>
             <a href="" class="card">
-                <img src="https://i.imgur.com/2DhmtJ4.jpg" class="card__image" alt="" />
+                <img src="img/service_qc/ติดตั้งบล๊อคและกระเบื้องปูพื้น.jpg" class="card__image" alt="" />
                 <div class="card__overlay">
                     <div class="card__header">
                         <svg class="card__arc" xmlns="http://www.w3.org/2000/svg">
@@ -292,7 +292,7 @@ include("navmain.php");
         </li>
         <li>
             <a href="" class="card">
-                <img src="https://i.imgur.com/oYiTqum.jpg" class="card__image" alt="" />
+                <img src="img/service_qc/ติดตั้งไม้พื้นไวนิลลามิเนต.jpg" class="card__image" alt="" />
                 <div class="card__overlay">
                     <div class="card__header">
                         <svg class="card__arc" xmlns="http://www.w3.org/2000/svg">
@@ -310,7 +310,7 @@ include("navmain.php");
         </li>
         <li>
             <a href="" class="card">
-                <img src="https://i.imgur.com/2DhmtJ4.jpg" class="card__image" alt="" />
+                <img src="img/service_qc/ติดตั้งงานผนังตกแต่งSCGDCorFretwork.jpg" class="card__image" alt="" />
                 <div class="card__overlay">
                     <div class="card__header">
                         <svg class="card__arc" xmlns="http://www.w3.org/2000/svg">
@@ -331,7 +331,7 @@ include("navmain.php");
     <ul class="cards">
         <li>
             <a href="" class="card">
-                <img src="https://i.imgur.com/oYiTqum.jpg" class="card__image" alt="" />
+                <img src="img/service_qc/ติดตั้งงานผนังตกแต่งSCGDCorไม้ไลน์.jpg" class="card__image" alt="" />
                 <div class="card__overlay">
                     <div class="card__header">
                         <svg class="card__arc" xmlns="http://www.w3.org/2000/svg">
@@ -349,7 +349,7 @@ include("navmain.php");
         </li>
         <li>
             <a href="" class="card">
-                <img src="https://i.imgur.com/2DhmtJ4.jpg" class="card__image" alt="" />
+                <img src="img/service_qc/ติดตั้งงานผนังฝ้าตกแต่งSCGDCorWood-D.jpg" class="card__image" alt="" />
                 <div class="card__overlay">
                     <div class="card__header">
                         <svg class="card__arc" xmlns="http://www.w3.org/2000/svg">
@@ -367,7 +367,7 @@ include("navmain.php");
         </li>
         <li>
             <a href="" class="card">
-                <img src="https://i.imgur.com/oYiTqum.jpg" class="card__image" alt="" />
+                <img src="img/service_qc/ติดตั้งห้องกันเสียง-ซับเสียง.jpg" class="card__image" alt="" />
                 <div class="card__overlay">
                     <div class="card__header">
                         <svg class="card__arc" xmlns="http://www.w3.org/2000/svg">
@@ -385,7 +385,7 @@ include("navmain.php");
         </li>
         <li>
             <a href="" class="card">
-                <img src="https://i.imgur.com/2DhmtJ4.jpg" class="card__image" alt="" />
+                <img src="img/service_qc/ติดตั้งระบบผนังSCGSmartWallPrivazy.jpg" class="card__image" alt="" />
                 <div class="card__overlay">
                     <div class="card__header">
                         <svg class="card__arc" xmlns="http://www.w3.org/2000/svg">
@@ -393,7 +393,7 @@ include("navmain.php");
                         </svg>
                         <img class="card__thumb" src="img/logo/qchang.png"" alt="" />
                         <div class=" card__header-text">
-                        <h3 class="card__title">บริการสำรวจงานติดตั้ระบบผนัง SCG Smart Wall Privazy</h3>
+                        <h3 class="card__title">บริการสำรวจงานติดตั้งระบบผนัง SCG Smart Wall Privazy</h3>
                         <span class="card__status">(เฉพาะค่าแรง)</span>
                     </div>
                 </div>
@@ -406,7 +406,7 @@ include("navmain.php");
     <ul class="cards">
         <li>
             <a href="" class="card">
-                <img src="https://i.imgur.com/oYiTqum.jpg" class="card__image" alt="" />
+                <img src="img/service_qc/ติดตั้งงานผนังเบากั้นห้อง.jpg" class="card__image" alt="" />
                 <div class="card__overlay">
                     <div class="card__header">
                         <svg class="card__arc" xmlns="http://www.w3.org/2000/svg">
@@ -424,7 +424,7 @@ include("navmain.php");
         </li>
         <li>
             <a href="" class="card">
-                <img src="https://i.imgur.com/2DhmtJ4.jpg" class="card__image" alt="" />
+                <img src="img/service_qc/ติดตั้งรางน้ำฝนไวนิลเอสซีจี.jpg" class="card__image" alt="" />
                 <div class="card__overlay">
                     <div class="card__header">
                         <svg class="card__arc" xmlns="http://www.w3.org/2000/svg">
@@ -442,7 +442,7 @@ include("navmain.php");
         </li>
         <li>
             <a href="" class="card">
-                <img src="https://i.imgur.com/oYiTqum.jpg" class="card__image" alt="" />
+                <img src="img/service_qc/ติดตั้งระแนงบังตาไวนิล.jpg" class="card__image" alt="" />
                 <div class="card__overlay">
                     <div class="card__header">
                         <svg class="card__arc" xmlns="http://www.w3.org/2000/svg">
@@ -460,7 +460,7 @@ include("navmain.php");
         </li>
         <li>
             <a href="" class="card">
-                <img src="https://i.imgur.com/2DhmtJ4.jpg" class="card__image" alt="" />
+                <img src="img/service_qc/ติดตั้งฝ้าชายคาไวนิล.jpg" class="card__image" alt="" />
                 <div class="card__overlay">
                     <div class="card__header">
                         <svg class="card__arc" xmlns="http://www.w3.org/2000/svg">
