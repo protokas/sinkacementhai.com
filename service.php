@@ -37,9 +37,9 @@ include("navmain.php");
                 <img class="postcard__img" src="https://picsum.photos/1000/1000" alt="Image Title" />
             </a>
             <div class="postcard__text">
-                <h1 class="postcard__title blue"><a href="#">ออกแบบ</a></h1>
+                <h1 class="postcard__title blue"><a href="#">บริการ ออกแบบ ถอดแบบ</a></h1>
                 <div class="postcard__bar"></div>
-                <div class="postcard__preview-txt">Lorem ipsum dolor sit amet consectetur adipisicing elit. Eligendi, fugiat asperiores inventore beatae accusamus odit minima enim, commodi quia, doloribus eius! Ducimus nemo accusantium maiores velit corrupti tempora reiciendis molestiae repellat vero. Eveniet ipsam adipisci illo iusto quibusdam, sunt neque nulla unde ipsum dolores nobis enim quidem excepturi, illum quos!</div>
+                <div class="postcard__preview-txt">ออกแบบ ถอดแบบ หลังคาเซรามิค <br>ออกแบบ ถอดแบบ หลังคาเมทัลชีท<br>ออกแบบ ถอดแบบ ห้องน้ำ<br>ออกแบบ ถอดแบบ ห้องครัว<br> </div>
                 <ul class="postcard__tagbox">
                     <li class="tag__item"><i class="fas fa-tag mr-2"></i>Service</li>
                     <li class="tag__item play blue">
@@ -53,9 +53,9 @@ include("navmain.php");
                 <img class="postcard__img" src="https://picsum.photos/501/500" alt="Image Title" />
             </a>
             <div class="postcard__text">
-                <h1 class="postcard__title red"><a href="#">ให้คำปรึกษา</a></h1>
+                <h1 class="postcard__title red"><a href="#">บริการ จัดส่ง</a></h1>
                 <div class="postcard__bar"></div>
-                <div class="postcard__preview-txt">Lorem ipsum dolor sit amet consectetur adipisicing elit. Eligendi, fugiat asperiores inventore beatae accusamus odit minima enim, commodi quia, doloribus eius! Ducimus nemo accusantium maiores velit corrupti tempora reiciendis molestiae repellat vero. Eveniet ipsam adipisci illo iusto quibusdam, sunt neque nulla unde ipsum dolores nobis enim quidem excepturi, illum quos!</div>
+                <div class="postcard__preview-txt">รถ 4 ล้อ / 6 ล้อ / 10 ล้อ <br>ส่งด่วนด้วยรถมอเตอร์ไซต์<br>ส่งพัสดุ ด้วยขนส่ง SCG EXPRESS (แมวดำ)<br> </div>
                 <ul class="postcard__tagbox">
                     <li class="tag__item"><i class="fas fa-tag mr-2"></i>Service</li>
                     <li class="tag__item play red">
@@ -66,12 +66,12 @@ include("navmain.php");
         </article>
         <article class="postcard green">
             <a class="postcard__img_link" href="#">
-                <img class="postcard__img" src="https://picsum.photos/500/501" alt="Image Title" />
+                <img class="postcard__img" src="https://picsum.photos/502/502" alt="Image Title" />
             </a>
             <div class="postcard__text">
-                <h1 class="postcard__title green"><a href="#">ประมาณราคา</a></h1>
+                <h1 class="postcard__title green"><a href="#">บริการงานบ้านจากคิวช่าง</a></h1>
                 <div class="postcard__bar"></div>
-                <div class="postcard__preview-txt">Lorem ipsum dolor sit amet consectetur adipisicing elit. Eligendi, fugiat asperiores inventore beatae accusamus odit minima enim, commodi quia, doloribus eius! Ducimus nemo accusantium maiores velit corrupti tempora reiciendis molestiae repellat vero. Eveniet ipsam adipisci illo iusto quibusdam, sunt neque nulla unde ipsum dolores nobis enim quidem excepturi, illum quos!</div>
+                <div class="postcard__preview-txt">บริการติดตั้งฉนวนกันความร้อน<br>บริการติดตั้งพื้นภายนอก-ระแนงรั้ว<br>บริการติดตั้งเครื่องปรับอาการแบบติดผนัง<br>บริการล้างแอร์ติดผนัง<br>บริการปูกระเบื้องพื้นผนัง<br>บริการติดตั้งรางน้ำฝน<br>บริการติดตั้งหลังคาโรงจอดรถ<br>บริการรื้อถอน-ติดตั้งสุขภัณฑ์ห้องน้ำ<br></div>
                 <ul class="postcard__tagbox">
                     <li class="tag__item"><i class="fas fa-tag mr-2"></i>Service</li>
                     <li class="tag__item play green">
@@ -80,17 +80,17 @@ include("navmain.php");
                 </ul>
             </div>
         </article>
-        <article class="postcard yellow">
+        <article class="postcard red">
             <a class="postcard__img_link" href="#">
                 <img class="postcard__img" src="https://picsum.photos/501/501" alt="Image Title" />
             </a>
             <div class="postcard__text">
-                <h1 class="postcard__title yellow"><a href="#">จัดส่ง</a></h1>
+                <h1 class="postcard__title red"><a href="#">บริการแนะนำช่าง</a></h1>
                 <div class="postcard__bar"></div>
-                <div class="postcard__preview-txt">Lorem ipsum dolor sit amet consectetur adipisicing elit. Eligendi, fugiat asperiores inventore beatae accusamus odit minima enim, commodi quia, doloribus eius! Ducimus nemo accusantium maiores velit corrupti tempora reiciendis molestiae repellat vero. Eveniet ipsam adipisci illo iusto quibusdam, sunt neque nulla unde ipsum dolores nobis enim quidem excepturi, illum quos!</div>
+                <div class="postcard__preview-txt">ติดตั้งประตูม้วน(ช่างแนะนำ)<br>ติดตั้งหลังคาเหล็ก(ช่างแนะนำ)<br></div>
                 <ul class="postcard__tagbox">
                     <li class="tag__item"><i class="fas fa-tag mr-2"></i>Service</li>
-                    <li class="tag__item play yellow">
+                    <li class="tag__item play red">
                         <a href="#"><i class="fas fa-play mr-2"></i>Shop now</a>
                     </li>
                 </ul>
@@ -100,7 +100,7 @@ include("navmain.php");
 
     </main>
 
-    <div class="h1 text-center kanit" id="pageHeader1">บริการจาก คิว-ช่าง</div>
+    <div class="h1 text-center kanit" id="pageHeader1">บริการจาก SCG (คิวช่าง DBR )</div>
     <br>
 
     <ul class="cards">
@@ -113,12 +113,12 @@ include("navmain.php");
                             <path />
                         </svg>
                         <img class="card__thumb" src="img/logo/qchang.png"" alt="" />
-                        <div class="card__header-text">
-                            <h3 class="card__title">บริการสำรวจหน้างานติดตั้งติดตั้งโรงจอดรถ</h3>
-                            <span class="card__status">(เฉพาะค่าแรง)</span>
-                        </div>
+                        <div class=" card__header-text">
+                        <h3 class="card__title">บริการสำรวจหน้างานติดตั้งติดตั้งโรงจอดรถ</h3>
+                        <span class="card__status">(เฉพาะค่าแรง)</span>
                     </div>
-                    <p class="card__description">Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores, blanditiis?</p>
+                </div>
+                <p class="card__description">Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores, blanditiis?</p>
                 </div>
             </a>
         </li>
@@ -132,8 +132,8 @@ include("navmain.php");
                         </svg>
                         <img class="card__thumb" src="img/logo/qchang.png" alt="" />
                         <div class="card__header-text">
-                            <h3 class="card__title">kim Cattrall</h3>
-                            <span class="card__status">3 hours ago</span>
+                            <h3 class="card__title">บริการสำรวจงานปูกระเบื้องเซรามิค</h3>
+                            <span class="card__status">(เฉพาะค่าแรง)</span>
                         </div>
                     </div>
                     <p class="card__description">Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores, blanditiis?</p>
@@ -149,12 +149,12 @@ include("navmain.php");
                             <path />
                         </svg>
                         <img class="card__thumb" src="img/logo/qchang.png"" alt="" />
-                        <div class="card__header-text">
-                            <h3 class="card__title">Jessica Parker</h3>
-                            <span class="card__status">1 hour ago</span>
-                        </div>
+                        <div class=" card__header-text">
+                        <h3 class="card__title">บริการสำรวจติดตั้ง แผ่น C-Chanel DBR</h3>
+                        <span class="card__status">(เฉพาะค่าแรง)</span>
                     </div>
-                    <p class="card__description">Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores, blanditiis?</p>
+                </div>
+                <p class="card__description">Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores, blanditiis?</p>
                 </div>
             </a>
         </li>
@@ -167,17 +167,317 @@ include("navmain.php");
                             <path />
                         </svg>
                         <img class="card__thumb" src="img/logo/qchang.png"" alt="" />
+                        <div class=" card__header-text">
+                        <h3 class="card__title">บริการสำรวจหน้างานติดตั้งรั้วระแนงบังตา</h3>
+                        <span class="card__status">(เฉพาะค่าแรง)</span>
+                    </div>
+                </div>
+                <p class="card__description">Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores, blanditiis?</p>
+                </div>
+            </a>
+        </li>
+    </ul>
+
+    <ul class="cards">
+        <li>
+            <a href="" class="card">
+                <img src="https://i.imgur.com/oYiTqum.jpg" class="card__image" alt="" />
+                <div class="card__overlay">
+                    <div class="card__header">
+                        <svg class="card__arc" xmlns="http://www.w3.org/2000/svg">
+                            <path />
+                        </svg>
+                        <img class="card__thumb" src="img/logo/qchang.png"" alt="" />
+                        <div class=" card__header-text">
+                        <h3 class="card__title">บริการสำรวจงานติดตั้งไม้พื้น</h3>
+                        <span class="card__status">(เฉพาะค่าแรง)</span>
+                    </div>
+                </div>
+                <p class="card__description">Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores, blanditiis?</p>
+                </div>
+            </a>
+        </li>
+        <li>
+            <a href="" class="card">
+                <img src="https://i.imgur.com/2DhmtJ4.jpg" class="card__image" alt="" />
+                <div class="card__overlay">
+                    <div class="card__header">
+                        <svg class="card__arc" xmlns="http://www.w3.org/2000/svg">
+                            <path />
+                        </svg>
+                        <img class="card__thumb" src="img/logo/qchang.png" alt="" />
                         <div class="card__header-text">
-                            <h3 class="card__title">kim Cattrall</h3>
-                            <span class="card__status">3 hours ago</span>
+                            <h3 class="card__title">บริการสำรวจงานติดตั้งฝ้าภายใน</h3>
+                            <span class="card__status">(เฉพาะค่าแรง)</span>
                         </div>
                     </div>
                     <p class="card__description">Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores, blanditiis?</p>
                 </div>
             </a>
         </li>
+        <li>
+            <a href="" class="card">
+                <img src="https://i.imgur.com/oYiTqum.jpg" class="card__image" alt="" />
+                <div class="card__overlay">
+                    <div class="card__header">
+                        <svg class="card__arc" xmlns="http://www.w3.org/2000/svg">
+                            <path />
+                        </svg>
+                        <img class="card__thumb" src="img/logo/qchang.png"" alt="" />
+                        <div class=" card__header-text">
+                        <h3 class="card__title">บริการสำรวจงานติดตั้งฝ้าภายในยิปซัม</h3>
+                        <span class="card__status">(เฉพาะค่าแรง)</span>
+                    </div>
+                </div>
+                <p class="card__description">Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores, blanditiis?</p>
+                </div>
+            </a>
+        </li>
+        <li>
+            <a href="" class="card">
+                <img src="https://i.imgur.com/2DhmtJ4.jpg" class="card__image" alt="" />
+                <div class="card__overlay">
+                    <div class="card__header">
+                        <svg class="card__arc" xmlns="http://www.w3.org/2000/svg">
+                            <path />
+                        </svg>
+                        <img class="card__thumb" src="img/logo/qchang.png"" alt="" />
+                        <div class=" card__header-text">
+                        <h3 class="card__title">บริการสำรวจงานติดตั้งฝ้าภายนอก</h3>
+                        <span class="card__status">(เฉพาะค่าแรง)</span>
+                    </div>
+                </div>
+                <p class="card__description">Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores, blanditiis?</p>
+                </div>
+            </a>
+        </li>
     </ul>
-    
+
+    <ul class="cards">
+        <li>
+            <a href="" class="card">
+                <img src="https://i.imgur.com/oYiTqum.jpg" class="card__image" alt="" />
+                <div class="card__overlay">
+                    <div class="card__header">
+                        <svg class="card__arc" xmlns="http://www.w3.org/2000/svg">
+                            <path />
+                        </svg>
+                        <img class="card__thumb" src="img/logo/qchang.png"" alt="" />
+                        <div class=" card__header-text">
+                        <h3 class="card__title">บริการสำรวจงานติดตั้งห้องน้ำ</h3>
+                        <span class="card__status">(เฉพาะค่าแรง)</span>
+                    </div>
+                </div>
+                <p class="card__description">Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores, blanditiis?</p>
+                </div>
+            </a>
+        </li>
+        <li>
+            <a href="" class="card">
+                <img src="https://i.imgur.com/2DhmtJ4.jpg" class="card__image" alt="" />
+                <div class="card__overlay">
+                    <div class="card__header">
+                        <svg class="card__arc" xmlns="http://www.w3.org/2000/svg">
+                            <path />
+                        </svg>
+                        <img class="card__thumb" src="img/logo/qchang.png" alt="" />
+                        <div class="card__header-text">
+                            <h3 class="card__title">บริการสำรวจงานติดตั้งบล๊อคและกระเบื้องปูพื้น</h3>
+                            <span class="card__status">(เฉพาะค่าแรง)</span>
+                        </div>
+                    </div>
+                    <p class="card__description">Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores, blanditiis?</p>
+                </div>
+            </a>
+        </li>
+        <li>
+            <a href="" class="card">
+                <img src="https://i.imgur.com/oYiTqum.jpg" class="card__image" alt="" />
+                <div class="card__overlay">
+                    <div class="card__header">
+                        <svg class="card__arc" xmlns="http://www.w3.org/2000/svg">
+                            <path />
+                        </svg>
+                        <img class="card__thumb" src="img/logo/qchang.png"" alt="" />
+                        <div class=" card__header-text">
+                        <h3 class="card__title">บริการสำรวจงานติดตั้งไม้พื้น ไวนิล/ลามิเนต</h3>
+                        <span class="card__status">(เฉพาะค่าแรง)</span>
+                    </div>
+                </div>
+                <p class="card__description">Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores, blanditiis?</p>
+                </div>
+            </a>
+        </li>
+        <li>
+            <a href="" class="card">
+                <img src="https://i.imgur.com/2DhmtJ4.jpg" class="card__image" alt="" />
+                <div class="card__overlay">
+                    <div class="card__header">
+                        <svg class="card__arc" xmlns="http://www.w3.org/2000/svg">
+                            <path />
+                        </svg>
+                        <img class="card__thumb" src="img/logo/qchang.png"" alt="" />
+                        <div class=" card__header-text">
+                        <h3 class="card__title">บริการสำรวจงานติดตั้งงานผนังตกแต่ง SCG D'Cor Fretwork</h3>
+                        <span class="card__status">(เฉพาะค่าแรง)</span>
+                    </div>
+                </div>
+                <p class="card__description">Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores, blanditiis?</p>
+                </div>
+            </a>
+        </li>
+    </ul>
+
+    <ul class="cards">
+        <li>
+            <a href="" class="card">
+                <img src="https://i.imgur.com/oYiTqum.jpg" class="card__image" alt="" />
+                <div class="card__overlay">
+                    <div class="card__header">
+                        <svg class="card__arc" xmlns="http://www.w3.org/2000/svg">
+                            <path />
+                        </svg>
+                        <img class="card__thumb" src="img/logo/qchang.png"" alt="" />
+                        <div class=" card__header-text">
+                        <h3 class="card__title">บริการสำรวจงานติดตั้งงานผนังตกแต่ง SCG D'Cor ไม้ไลน์</h3>
+                        <span class="card__status">(เฉพาะค่าแรง)</span>
+                    </div>
+                </div>
+                <p class="card__description">Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores, blanditiis?</p>
+                </div>
+            </a>
+        </li>
+        <li>
+            <a href="" class="card">
+                <img src="https://i.imgur.com/2DhmtJ4.jpg" class="card__image" alt="" />
+                <div class="card__overlay">
+                    <div class="card__header">
+                        <svg class="card__arc" xmlns="http://www.w3.org/2000/svg">
+                            <path />
+                        </svg>
+                        <img class="card__thumb" src="img/logo/qchang.png" alt="" />
+                        <div class="card__header-text">
+                            <h3 class="card__title">บริการสำรวจงานติดตั้งงานผนัง/ฝ้าตกแต่ง SCG D'Cor Wood-D</h3>
+                            <span class="card__status">(เฉพาะค่าแรง)</span>
+                        </div>
+                    </div>
+                    <p class="card__description">Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores, blanditiis?</p>
+                </div>
+            </a>
+        </li>
+        <li>
+            <a href="" class="card">
+                <img src="https://i.imgur.com/oYiTqum.jpg" class="card__image" alt="" />
+                <div class="card__overlay">
+                    <div class="card__header">
+                        <svg class="card__arc" xmlns="http://www.w3.org/2000/svg">
+                            <path />
+                        </svg>
+                        <img class="card__thumb" src="img/logo/qchang.png"" alt="" />
+                        <div class=" card__header-text">
+                        <h3 class="card__title">บริการสำรวจงานติดตั้งห้องกันเสียง-ซับเสียง</h3>
+                        <span class="card__status">(เฉพาะค่าแรง)</span>
+                    </div>
+                </div>
+                <p class="card__description">Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores, blanditiis?</p>
+                </div>
+            </a>
+        </li>
+        <li>
+            <a href="" class="card">
+                <img src="https://i.imgur.com/2DhmtJ4.jpg" class="card__image" alt="" />
+                <div class="card__overlay">
+                    <div class="card__header">
+                        <svg class="card__arc" xmlns="http://www.w3.org/2000/svg">
+                            <path />
+                        </svg>
+                        <img class="card__thumb" src="img/logo/qchang.png"" alt="" />
+                        <div class=" card__header-text">
+                        <h3 class="card__title">บริการสำรวจงานติดตั้ระบบผนัง SCG Smart Wall Privazy</h3>
+                        <span class="card__status">(เฉพาะค่าแรง)</span>
+                    </div>
+                </div>
+                <p class="card__description">Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores, blanditiis?</p>
+                </div>
+            </a>
+        </li>
+    </ul>
+
+    <ul class="cards">
+        <li>
+            <a href="" class="card">
+                <img src="https://i.imgur.com/oYiTqum.jpg" class="card__image" alt="" />
+                <div class="card__overlay">
+                    <div class="card__header">
+                        <svg class="card__arc" xmlns="http://www.w3.org/2000/svg">
+                            <path />
+                        </svg>
+                        <img class="card__thumb" src="img/logo/qchang.png"" alt="" />
+                        <div class=" card__header-text">
+                        <h3 class="card__title">บริการสำรวจงานติดตั้งงานผนังเบากั้นห้อง</h3>
+                        <span class="card__status">(เฉพาะค่าแรง)</span>
+                    </div>
+                </div>
+                <p class="card__description">Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores, blanditiis?</p>
+                </div>
+            </a>
+        </li>
+        <li>
+            <a href="" class="card">
+                <img src="https://i.imgur.com/2DhmtJ4.jpg" class="card__image" alt="" />
+                <div class="card__overlay">
+                    <div class="card__header">
+                        <svg class="card__arc" xmlns="http://www.w3.org/2000/svg">
+                            <path />
+                        </svg>
+                        <img class="card__thumb" src="img/logo/qchang.png" alt="" />
+                        <div class="card__header-text">
+                            <h3 class="card__title">บริการสำรวจงานติดตั้งรางน้ำฝนไวนิล เอสซีจี</h3>
+                            <span class="card__status">(เฉพาะค่าแรง)</span>
+                        </div>
+                    </div>
+                    <p class="card__description">Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores, blanditiis?</p>
+                </div>
+            </a>
+        </li>
+        <li>
+            <a href="" class="card">
+                <img src="https://i.imgur.com/oYiTqum.jpg" class="card__image" alt="" />
+                <div class="card__overlay">
+                    <div class="card__header">
+                        <svg class="card__arc" xmlns="http://www.w3.org/2000/svg">
+                            <path />
+                        </svg>
+                        <img class="card__thumb" src="img/logo/qchang.png"" alt="" />
+                        <div class=" card__header-text">
+                        <h3 class="card__title">บริการสำรวจงานติดตั้งระแนงบังตาไวนิล</h3>
+                        <span class="card__status">(เฉพาะค่าแรง)</span>
+                    </div>
+                </div>
+                <p class="card__description">Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores, blanditiis?</p>
+                </div>
+            </a>
+        </li>
+        <li>
+            <a href="" class="card">
+                <img src="https://i.imgur.com/2DhmtJ4.jpg" class="card__image" alt="" />
+                <div class="card__overlay">
+                    <div class="card__header">
+                        <svg class="card__arc" xmlns="http://www.w3.org/2000/svg">
+                            <path />
+                        </svg>
+                        <img class="card__thumb" src="img/logo/qchang.png"" alt="" />
+                        <div class=" card__header-text">
+                        <h3 class="card__title">บริการสำรวจงานติดตั้งฝ้าชายคาไวนิล</h3>
+                        <span class="card__status">(เฉพาะค่าแรง)</span>
+                    </div>
+                </div>
+                <p class="card__description">Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores, blanditiis?</p>
+                </div>
+            </a>
+        </li>
+    </ul>
+
     <br>
 
 
