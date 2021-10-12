@@ -158,11 +158,11 @@
 
     <main class="container">
 
-        <div class="h1 text-center kanit" id="pageHeaderTitle" style="color:#F21D1D">บริการหลักของเรา</div>
-
+    <div class="h1 text-center kanit" id="pageHeader1">บริการหลัก</div>
+        <br>
         <article class="postcard blue">
             <a class="postcard__img_link" href="#">
-                <img class="postcard__img" src="https://picsum.photos/1000/1000" alt="Image Title" />
+                <img class="postcard__img" src="img/service_mv/ออกแบบ.jpg" alt="Image Title" />
             </a>
             <div class="postcard__text">
                 <h1 class="postcard__title blue"><a href="#">บริการ ออกแบบ ถอดแบบ</a></h1>
@@ -178,7 +178,7 @@
         </article>
         <article class="postcard red">
             <a class="postcard__img_link" href="#">
-                <img class="postcard__img" src="https://picsum.photos/501/500" alt="Image Title" />
+                <img class="postcard__img" src="img/service_mv/จัดส่ง.jpg" alt="Image Title" />
             </a>
             <div class="postcard__text">
                 <h1 class="postcard__title red"><a href="#">บริการ จัดส่ง</a></h1>
@@ -194,12 +194,12 @@
         </article>
         <article class="postcard green">
             <a class="postcard__img_link" href="#">
-                <img class="postcard__img" src="https://picsum.photos/502/502" alt="Image Title" />
+                <img class="postcard__img" src="img/service_mv/ขายพิเศษ.jpg" alt="Image Title" />
             </a>
             <div class="postcard__text">
-                <h1 class="postcard__title green"><a href="#">บริการงานจากคิวช่าง</a></h1>
+                <h1 class="postcard__title green"><a href="#">บริการขายพิเศษ</a></h1>
                 <div class="postcard__bar"></div>
-                <div class="postcard__preview-txt">บริการติดตั้งฉนวนกันความร้อน<br>บริการติดตั้งพื้นภายนอก-ระแนงรั้ว<br>บริการติดตั้งเครื่องปรับอาการแบบติดผนัง<br>บริการล้างแอร์ติดผนัง<br>บริการปูกระเบื้องพื้นผนัง<br>บริการติดตั้งรางน้ำฝน<br>บริการติดตั้งหลังคาโรงจอดรถ<br>บริการรื้อถอน-ติดตั้งสุขภัณฑ์ห้องน้ำ<br></div>
+                <div class="postcard__preview-txt">บริการขายร้านค้าส่ง<br>บริการขายงานโครงการ(เอกชนและราชการ)<br>บริการสินค้าสั่งพิเศษ</div>
                 <ul class="postcard__tagbox">
                     <li class="tag__item"><i class="fas fa-tag mr-2"></i>Service</li>
                     <li class="tag__item play green">
@@ -210,7 +210,7 @@
         </article>
         <article class="postcard red">
             <a class="postcard__img_link" href="#">
-                <img class="postcard__img" src="https://picsum.photos/501/501" alt="Image Title" />
+                <img class="postcard__img" src="img/service_mv/แนะนำช่าง.jpg" alt="Image Title" />
             </a>
             <div class="postcard__text">
                 <h1 class="postcard__title red"><a href="#">บริการแนะนำช่าง</a></h1>
@@ -224,6 +224,7 @@
                 </ul>
             </div>
         </article>
+        
     </main>
     <br>
     <br>

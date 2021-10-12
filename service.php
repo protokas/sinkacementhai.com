@@ -34,7 +34,7 @@ include("navmain.php");
         <br>
         <article class="postcard blue">
             <a class="postcard__img_link" href="#">
-                <img class="postcard__img" src="https://picsum.photos/1000/1000" alt="Image Title" />
+                <img class="postcard__img" src="img/service_mv/ออกแบบ.jpg" alt="Image Title" />
             </a>
             <div class="postcard__text">
                 <h1 class="postcard__title blue"><a href="#">บริการ ออกแบบ ถอดแบบ</a></h1>
@@ -50,7 +50,7 @@ include("navmain.php");
         </article>
         <article class="postcard red">
             <a class="postcard__img_link" href="#">
-                <img class="postcard__img" src="https://picsum.photos/501/500" alt="Image Title" />
+                <img class="postcard__img" src="img/service_mv/จัดส่ง.jpg" alt="Image Title" />
             </a>
             <div class="postcard__text">
                 <h1 class="postcard__title red"><a href="#">บริการ จัดส่ง</a></h1>
@@ -66,7 +66,7 @@ include("navmain.php");
         </article>
         <article class="postcard green">
             <a class="postcard__img_link" href="#">
-                <img class="postcard__img" src="https://picsum.photos/502/502" alt="Image Title" />
+                <img class="postcard__img" src="img/service_mv/ขายพิเศษ.jpg" alt="Image Title" />
             </a>
             <div class="postcard__text">
                 <h1 class="postcard__title green"><a href="#">บริการขายพิเศษ</a></h1>
@@ -82,7 +82,7 @@ include("navmain.php");
         </article>
         <article class="postcard red">
             <a class="postcard__img_link" href="#">
-                <img class="postcard__img" src="https://picsum.photos/501/501" alt="Image Title" />
+                <img class="postcard__img" src="img/service_mv/แนะนำช่าง.jpg" alt="Image Title" />
             </a>
             <div class="postcard__text">
                 <h1 class="postcard__title red"><a href="#">บริการแนะนำช่าง</a></h1>
