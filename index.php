@@ -165,15 +165,13 @@
                 <img class="postcard__img" src="https://picsum.photos/1000/1000" alt="Image Title" />
             </a>
             <div class="postcard__text">
-                <h1 class="postcard__title blue"><a href="#">ออกแบบ</a></h1>
-                <div class="postcard__subtitle small">
-                </div>
+                <h1 class="postcard__title blue"><a href="#">บริการ ออกแบบ ถอดแบบ</a></h1>
                 <div class="postcard__bar"></div>
-                <div class="postcard__preview-txt">Lorem ipsum dolor sit amet consectetur adipisicing elit. Eligendi,</div>
+                <div class="postcard__preview-txt">ออกแบบ ถอดแบบ หลังคาเซรามิค <br>ออกแบบ ถอดแบบ หลังคาเมทัลชีท<br>ออกแบบ ถอดแบบ ห้องน้ำ<br>ออกแบบ ถอดแบบ ห้องครัว<br> </div>
                 <ul class="postcard__tagbox">
                     <li class="tag__item"><i class="fas fa-tag mr-2"></i>Service</li>
                     <li class="tag__item play blue">
-                        <a href="#"><i class="fas fa-play mr-2"></i>Shop now</a>
+                        <a href="#"><i class="fas fa-play mr-2"></i>ติดต่อสอบถาม</a>
                     </li>
                 </ul>
             </div>
@@ -183,69 +181,45 @@
                 <img class="postcard__img" src="https://picsum.photos/501/500" alt="Image Title" />
             </a>
             <div class="postcard__text">
-                <h1 class="postcard__title red"><a href="#">ให้คำปรึกษา</a></h1>
-                <div class="postcard__subtitle small">
-                </div>
+                <h1 class="postcard__title red"><a href="#">บริการ จัดส่ง</a></h1>
                 <div class="postcard__bar"></div>
-                <div class="postcard__preview-txt">Lorem ipsum dolor sit amet consectetur adipisicing elit. Eligendi,</div>
+                <div class="postcard__preview-txt">รถ 4 ล้อ / 6 ล้อ / 10 ล้อ <br>ส่งด่วนด้วยรถมอเตอร์ไซต์<br>ส่งพัสดุ ด้วยขนส่ง SCG EXPRESS (แมวดำ)<br> </div>
                 <ul class="postcard__tagbox">
                     <li class="tag__item"><i class="fas fa-tag mr-2"></i>Service</li>
                     <li class="tag__item play red">
-                        <a href="#"><i class="fas fa-play mr-2"></i>Shop now</a>
+                        <a href="#"><i class="fas fa-play mr-2"></i>ติดต่อสอบถาม</a>
                     </li>
                 </ul>
             </div>
         </article>
         <article class="postcard green">
             <a class="postcard__img_link" href="#">
-                <img class="postcard__img" src="https://picsum.photos/500/501" alt="Image Title" />
+                <img class="postcard__img" src="https://picsum.photos/502/502" alt="Image Title" />
             </a>
             <div class="postcard__text">
-                <h1 class="postcard__title green"><a href="#">ประมาณราคา</a></h1>
-                <div class="postcard__subtitle small">
-                </div>
+                <h1 class="postcard__title green"><a href="#">บริการงานจากคิวช่าง</a></h1>
                 <div class="postcard__bar"></div>
-                <div class="postcard__preview-txt">Lorem ipsum dolor sit amet consectetur adipisicing elit. Eligendi,</div>
+                <div class="postcard__preview-txt">บริการติดตั้งฉนวนกันความร้อน<br>บริการติดตั้งพื้นภายนอก-ระแนงรั้ว<br>บริการติดตั้งเครื่องปรับอาการแบบติดผนัง<br>บริการล้างแอร์ติดผนัง<br>บริการปูกระเบื้องพื้นผนัง<br>บริการติดตั้งรางน้ำฝน<br>บริการติดตั้งหลังคาโรงจอดรถ<br>บริการรื้อถอน-ติดตั้งสุขภัณฑ์ห้องน้ำ<br></div>
                 <ul class="postcard__tagbox">
                     <li class="tag__item"><i class="fas fa-tag mr-2"></i>Service</li>
                     <li class="tag__item play green">
-                        <a href="#"><i class="fas fa-play mr-2"></i>Shop now</a>
+                        <a href="#"><i class="fas fa-play mr-2"></i>ติดต่อสอบถาม</a>
                     </li>
                 </ul>
             </div>
         </article>
-        <article class="postcard yellow">
+        <article class="postcard red">
             <a class="postcard__img_link" href="#">
                 <img class="postcard__img" src="https://picsum.photos/501/501" alt="Image Title" />
             </a>
             <div class="postcard__text">
-                <h1 class="postcard__title yellow"><a href="#">จัดส่ง</a></h1>
-                <div class="postcard__subtitle small">
-                </div>
+                <h1 class="postcard__title red"><a href="#">บริการแนะนำช่าง</a></h1>
                 <div class="postcard__bar"></div>
-                <div class="postcard__preview-txt">Lorem ipsum dolor sit amet consectetur adipisicing elit. Eligendi,</div>
+                <div class="postcard__preview-txt">ติดตั้งประตูม้วน(ช่างแนะนำ)<br>ติดตั้งหลังคาเหล็ก(ช่างแนะนำ)<br></div>
                 <ul class="postcard__tagbox">
                     <li class="tag__item"><i class="fas fa-tag mr-2"></i>Service</li>
-                    <li class="tag__item play yellow">
-                        <a href="#"><i class="fas fa-play mr-2"></i>Shop now</a>
-                    </li>
-                </ul>
-            </div>
-        </article>
-        <article class="postcard blue">
-            <a class="postcard__img_link" href="#">
-                <img class="postcard__img" src="https://picsum.photos/1000/1000" alt="Image Title" />
-            </a>
-            <div class="postcard__text">
-                <h1 class="postcard__title blue"><a href="#">ติดตั้ง</a></h1>
-                <div class="postcard__subtitle small">
-                </div>
-                <div class="postcard__bar"></div>
-                <div class="postcard__preview-txt">Lorem ipsum dolor sit amet consectetur adipisicing elit. Eligendi,</div>
-                <ul class="postcard__tagbox">
-                    <li class="tag__item"><i class="fas fa-tag mr-2"></i>Service</li>
-                    <li class="tag__item play blue">
-                        <a href="#"><i class="fas fa-play mr-2"></i>Shop now</a>
+                    <li class="tag__item play red">
+                        <a href="#"><i class="fas fa-play mr-2"></i>ติดต่อสอบถาม</a>
                     </li>
                 </ul>
             </div>

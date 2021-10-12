@@ -69,9 +69,9 @@ include("navmain.php");
                 <img class="postcard__img" src="https://picsum.photos/502/502" alt="Image Title" />
             </a>
             <div class="postcard__text">
-                <h1 class="postcard__title green"><a href="#">บริการงานจากคิวช่าง</a></h1>
+                <h1 class="postcard__title green"><a href="#">บริการขายพิเศษ</a></h1>
                 <div class="postcard__bar"></div>
-                <div class="postcard__preview-txt">บริการติดตั้งฉนวนกันความร้อน<br>บริการติดตั้งพื้นภายนอก-ระแนงรั้ว<br>บริการติดตั้งเครื่องปรับอาการแบบติดผนัง<br>บริการล้างแอร์ติดผนัง<br>บริการปูกระเบื้องพื้นผนัง<br>บริการติดตั้งรางน้ำฝน<br>บริการติดตั้งหลังคาโรงจอดรถ<br>บริการรื้อถอน-ติดตั้งสุขภัณฑ์ห้องน้ำ<br></div>
+                <div class="postcard__preview-txt">บริการขายร้านค้าส่ง<br>บริการขายงานโครงการ(เอกชนและราชการ)<br>บริการสินค้าสั่งพิเศษ</div>
                 <ul class="postcard__tagbox">
                     <li class="tag__item"><i class="fas fa-tag mr-2"></i>Service</li>
                     <li class="tag__item play green">
