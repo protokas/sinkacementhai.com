@@ -37,59 +37,6 @@ include("navmain.php");
     <br>
     <br>
     <div class="container">
-        <h2 class="text-center" id="A" style="color:#F21D1D">ประเภทสินค้า</h2>
-        <br>
-        <div class="gallery-box-container">
-            <a href="product_st.php" class="gallery-box">
-                <span class="gallery-box__img-container">
-                    <img src="img\product\steel.png" alt="" class="gallery-box__img">
-                </span>
-                <span class="gallery-box__text-wrapper">
-                    <span class="gallery-box__text kanit">
-                        สินค้าเหล็กรูปพรรณ
-                    </span>
-                </span>
-            </a>
-
-            <a href="product_bath.php" class="gallery-box">
-                <span class="gallery-box__img-container">
-                    <img src="img\product\bath.png" alt="" class="gallery-box__img">
-                </span>
-                <span class="gallery-box__text-wrapper">
-                    <span class="gallery-box__text kanit">
-                        ห้องน้ำ
-                    </span>
-                </span>
-            </a>
-
-            <a href="product_kit.php" class="gallery-box">
-                <span class="gallery-box__img-container">
-                    <img src="img\product\kit.png" alt="" class="gallery-box__img">
-                </span>
-                <span class="gallery-box__text-wrapper">
-                    <span class="gallery-box__text kanit">
-                        ห้องครัว
-                    </span>
-                </span>
-            </a>
-
-            <a href="product_tite.php" class="gallery-box">
-                <span class="gallery-box__img-container">
-                    <img src="img\product\tites.png" alt="" class="gallery-box__img">
-                </span>
-                <span class="gallery-box__text-wrapper">
-                    <span class="gallery-box__text kanit">
-                        ตกแต่งและผนัง
-                    </span>
-                </span>
-            </a>
-        </div>
-    </div>
-
-    <br>
-    <br>
-
-    <div class="container">
         <h3 class="text-center" id="A" style="color:#F21D1D">สินค้าเหล็กรูปพรรณ</h3>
         <p class="text-center">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Commodi in numquam, assumenda rem voluptatum dicta similique voluptatibus dolorem id natus! Voluptates est dolore ipsa ullam totam a itaque debitis. Quos!</p>
         <br>

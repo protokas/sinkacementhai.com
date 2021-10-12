@@ -32,9 +32,41 @@ include("navmain.php");
     <br>
     <br>
     <br>
+
+    <div class="container carousel slide" id="main-carousel" data-ride="carousel">
+        <ol class="carousel-indicators">
+            <li data-target="#main-carousel" data-slide-to="0" class="active"></li>
+            <li data-target="#main-carousel" data-slide-to="1"></li>
+            <li data-target="#main-carousel" data-slide-to="2"></li>
+        </ol><!-- /.carousel-indicators -->
+
+        <div class="carousel-inner">
+            <div class="carousel-item active">
+                <img class="d-block img-fluid" src="img/Braner2.jpg" alt="">
+            </div>
+            <div class="carousel-item">
+                <img class="d-block img-fluid" src="img/Braner2.jpg" alt="">
+            </div>
+            <div class="carousel-item">
+                <img class="d-block img-fluid" src="img/Braner2.jpg" alt="">
+            </div>
+        </div><!-- /.carousel-inner -->
+
+        <a href="#main-carousel" class="carousel-control-prev" data-slide="prev">
+            <span class="carousel-control-prev-icon"></span>
+            <span class="sr-only" aria-hidden="true">Prev</span>
+        </a>
+        <a href="#main-carousel" class="carousel-control-next" data-slide="next">
+            <span class="carousel-control-next-icon"></span>
+            <span class="sr-only" aria-hidden="true">Next</span>
+        </a>
+    </div><!-- /.carousel -->
+    <br>
     <div class="container">
-        <h2 class="text-center" id="A" style="color:#F21D1D">ประเภทสินค้า</h2>
+        <h2 class="text-center" id="A">ประเภทสินค้า</h2>
         <br>
+        <br>
+
         <div class="gallery-box-container">
             <a href="product_st.php" class="gallery-box">
                 <span class="gallery-box__img-container">
@@ -42,479 +74,179 @@ include("navmain.php");
                 </span>
                 <span class="gallery-box__text-wrapper">
                     <span class="gallery-box__text kanit">
-                        สินค้าเหล็กรูปพรรณ
+                        เหล็ก
                     </span>
                 </span>
             </a>
 
-            <a href="product_bath.php" class="gallery-box">
+            <a href="" class="gallery-box">
                 <span class="gallery-box__img-container">
                     <img src="img\product\bath.png" alt="" class="gallery-box__img">
                 </span>
                 <span class="gallery-box__text-wrapper">
                     <span class="gallery-box__text kanit">
-                        ห้องน้ำ
+                        ปูน
                     </span>
                 </span>
             </a>
 
-            <a href="product_kit.php" class="gallery-box">
+            <a href="" class="gallery-box">
                 <span class="gallery-box__img-container">
                     <img src="img\product\kit.png" alt="" class="gallery-box__img">
                 </span>
                 <span class="gallery-box__text-wrapper">
                     <span class="gallery-box__text kanit">
-                        ห้องครัว
+                        หลังคาเหล็ก/หลังคากระเบื้อง
                     </span>
                 </span>
             </a>
 
-            <a href="product_tite.php" class="gallery-box">
+            <a href="" class="gallery-box">
                 <span class="gallery-box__img-container">
                     <img src="img\product\tites.png" alt="" class="gallery-box__img">
                 </span>
                 <span class="gallery-box__text-wrapper">
                     <span class="gallery-box__text kanit">
-                        ตกแต่งและผนัง
+                        รางน้ำ
+                    </span>
+                </span>
+            </a>
+
+        </div>
+
+        <br>
+        <div class="gallery-box-container">
+            <a href="" class="gallery-box">
+                <span class="gallery-box__img-container">
+                    <img src="img\product\steel.png" alt="" class="gallery-box__img">
+                </span>
+                <span class="gallery-box__text-wrapper">
+                    <span class="gallery-box__text kanit">
+                        ประตูม้วน
+                    </span>
+                </span>
+            </a>
+
+            <a href="" class="gallery-box">
+                <span class="gallery-box__img-container">
+                    <img src="img\product\bath.png" alt="" class="gallery-box__img">
+                </span>
+                <span class="gallery-box__text-wrapper">
+                    <span class="gallery-box__text kanit">
+                        ตะแกรงไวแมช
+                    </span>
+                </span>
+            </a>
+
+            <a href="" class="gallery-box">
+                <span class="gallery-box__img-container">
+                    <img src="img\product\kit.png" alt="" class="gallery-box__img">
+                </span>
+                <span class="gallery-box__text-wrapper">
+                    <span class="gallery-box__text kanit">
+                        บล็อกแก้ว/ช่องลม/อิฐมวลเบา
+                    </span>
+                </span>
+            </a>
+
+            <a href="" class="gallery-box">
+                <span class="gallery-box__img-container">
+                    <img src="img\product\tites.png" alt="" class="gallery-box__img">
+                </span>
+                <span class="gallery-box__text-wrapper">
+                    <span class="gallery-box__text kanit">
+                        ไม้สังเคาระห์
+                    </span>
+                </span>
+            </a>
+        </div>
+        <br>
+        <div class="gallery-box-container">
+            <a href="" class="gallery-box">
+                <span class="gallery-box__img-container">
+                    <img src="img\product\steel.png" alt="" class="gallery-box__img">
+                </span>
+                <span class="gallery-box__text-wrapper">
+                    <span class="gallery-box__text kanit">
+                        ฝ้า ผนัง พื้น สมาร์ทบอร์ด
+                    </span>
+                </span>
+            </a>
+
+            <a href="" class="gallery-box">
+                <span class="gallery-box__img-container">
+                    <img src="img\product\bath.png" alt="" class="gallery-box__img">
+                </span>
+                <span class="gallery-box__text-wrapper">
+                    <span class="gallery-box__text kanit">
+                        ฝ้า ผนัง พื้น ซีเมนต์บอร์ด
+                    </span>
+                </span>
+            </a>
+
+            <a href="" class="gallery-box">
+                <span class="gallery-box__img-container">
+                    <img src="img\product\kit.png" alt="" class="gallery-box__img">
+                </span>
+                <span class="gallery-box__text-wrapper">
+                    <span class="gallery-box__text kanit">
+                        ฉนวนกันความร้อน
+                    </span>
+                </span>
+            </a>
+
+            <a href="" class="gallery-box">
+                <span class="gallery-box__img-container">
+                    <img src="img\product\tites.png" alt="" class="gallery-box__img">
+                </span>
+                <span class="gallery-box__text-wrapper">
+                    <span class="gallery-box__text kanit">
+                        ท่อ
                     </span>
                 </span>
             </a>
         </div>
     </div>
-
     <br>
     <br>
-
     <div class="container">
-        <h3 class="text-center" id="A" style="color:#F21D1D">สินค้าเหล็กรูปพรรณ</h3>
+        <h3 class="text-center" style="color:#F21D1D">Lorem ipsum</h3>
         <p class="text-center">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Commodi in numquam, assumenda rem voluptatum dicta similique voluptatibus dolorem id natus! Voluptates est dolore ipsa ullam totam a itaque debitis. Quos!</p>
-        <br>
-        <div class="row">
-            <div class="col-md-4 mb-3 mb-md-0">
-                <div class="card py-4 h-100">
-                    <div class="card-body text-center">
-                        <p><a href="product_steel_round.php"><img class="d-block img-fluid" src="img/steel/steel round/test1.jpg" alt=""></p>
-                        <br>
-                        <h5 class="text-uppercase m-0"><a class="buttonb js-scroll-trigger" href="product_steel_round.php">เหล็กเส้นกลม</a></h5>
-                        <hr class="my-4" />
-                        <h6> เกณฑ์มาตรฐานเหล็กเส้นกลม ตามมาตรฐานอุตสาหกรรม. มอก. 20-2543 </h6>
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-4 mb-3 mb-md-0">
-                <div class="card py-4 h-100">
-                    <div class="card-body text-center">
-                        <p><a href="product_steel_rebar.php"><img class="d-block img-fluid" src="img/steel/steel rebar/test1.jpg" alt=""></p>
-                        <br>
-                        <h5 class="text-uppercase m-0"><a class="buttonb js-scroll-trigger" href="product_steel_rebar.php" ">เหล็กเส้นข้ออ้อย</a></h5>
-                        <hr class=" my-4" />
-                            <h6> เกณฑ์มาตรฐานเหล็กเส้นข้ออ้อย ตามมาตรฐานอุตสาหกรรม. มอก. 24-2548 </h6>
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-4 mb-3 mb-md-0">
-                <div class="card py-4 h-100">
-                    <div class="card-body text-center">
-                        <p><a href="product_steel_c.php"><img class="d-block img-fluid" src="img/steel/steel c/test2.jpg" alt=""></p>
-                        <br>
-                        <h5 class="text-uppercase m-0"><a class="buttonb js-scroll-trigger" href="product_steel_c.php" ">เหล็กตัวซี</a></h5>
-                        <hr class=" my-4" />
-                            <h6> เกณฑ์มาตรฐานเหล็กรูปตัวซี ตามมาตรฐานอุตสาหกรรม. KV. มอก 1228-2549 SCG 400 </h6>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <br>
-        <div class="row">
-            <div class="col-md-4 mb-3 mb-md-0">
-                <div class="card py-4 h-100">
-                    <div class="card-body text-center">
-                        <p><a href="product_steel_tube.php"><img class="d-block img-fluid" src="img/steel/steel tube/test1.jpg" alt=""></p>
-                        <br>
-                        <h5 class="text-uppercase m-0"><a class="buttonb js-scroll-trigger" href="product_steel_tube.php" ">เหล็กสี่เหลี่ยมโปร่ง</a></h5>
-                        <hr class=" my-4" />
-                            <h6> เกณฑ์มาตรฐานเหล็กสี่เหลี่ยมโปร่ง ตามมาตรฐานอุตสาหกรรม. มอก.xxxxxx </h6>
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-4 mb-3 mb-md-0">
-                <div class="card py-4 h-100">
-                    <div class="card-body text-center">
-                        <p><a href="product_steel_black.php"><img class="d-block img-fluid" src="img/steel/steel black/test1.jpg" alt=""></p>
-                        <br>
-                        <h5 class="text-uppercase m-0"><a class="buttonb js-scroll-trigger" href="product_steel_black.php">เหล็กท่อดำ</a></h5>
-                        <hr class="my-4" />
-                        <h6> เกณฑ์มาตรฐานเหล็กท่อดำ ตามมาตรฐานอุตสาหกรรม. มอก.107-2533 </h6>
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-4 mb-3 mb-md-0">
-                <div class="card py-4 h-100">
-                    <div class="card-body text-center">
-                        <p><a href="product_steel_wide_flange.php"><img class="d-block img-fluid" src="img/steel/steel wide flange/test1.jpg" alt=""></p>
-                        <br>
-                        <h5 class="text-uppercase m-0"><a class="buttonb js-scroll-trigger" href="product_steel_wide_flange.php">เหล็กไวด์แฟรค์</a></h5>
-                        <hr class="my-4" />
-                        <h6> เกณฑ์มาตรฐานเหล็กไวด์แฟรค์ ตามมาตรฐานอุตสาหกรรม. มอก. xxxxx </h6>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <br>
-        <div class="row">
-            <div class="col-md-4 mb-3 mb-md-0">
-                <div class="card py-4 h-100">
-                    <div class="card-body text-center">
-                        <p><a href="product_steel_h-beam.php"><img class="d-block img-fluid" src="img/steel/steel h-beam/test1.jpg" alt=""></p>
-                        <br>
-                        <h5 class="text-uppercase m-0"><a class="buttonb js-scroll-trigger" href="product_steel_h-beam.php">เหล็กเอชบีม</a></h5>
-                        <hr class="my-4" />
-                        <h6> เกณฑ์มาตรฐานเหล็กเอชบีม ตามมาตรฐานอุตสาหกรรม. มอก. xxxxx </h6>
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-4 mb-3 mb-md-0">
-                <div class="card py-4 h-100">
-                    <div class="card-body text-center">
-                        <p><a href="product_steel_i-beam.php"> <img class="d-block img-fluid" src="img/steel/steel i-beam/test1.jpg" alt=""></p>
-                        <br>
-                        <h5 class="text-uppercase m-0"><a class="buttonb js-scroll-trigger" href="product_steel_i-beam.php">เหล็กไอบีม</a></h5>
-                        <hr class="my-4" />
-                        <h6> เกณฑ์มาตรฐานเหล็กไอบีม ตามมาตรฐานอุตสาหกรรม. มอก. xxxxx </h6>
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-4 mb-3 mb-md-0">
-                <div class="card py-4 h-100">
-                    <div class="card-body text-center">
-                        <p><a href="product_steel_white_shaft.php"><img class="d-block img-fluid" src="img/steel/steel white shaft/test2.jpg" alt=""></p>
-                        <br>
-                        <h5 class="text-uppercase m-0"><a class="buttonb js-scroll-trigger" href="product_steel_white_shaft.php">เหล็กเพลาขาว</a></h5>
-                        <hr class="my-4" />
-                        <h6> เกณฑ์มาตรฐานเหล็กเพลาขาว ตามมาตรฐานอุตสาหกรรม. </h6>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <br>
-        <div class="row">
-            <div class="col-md-4 mb-3 mb-md-0">
-                <div class="card py-4 h-100">
-                    <div class="card-body text-center">
-                        <p><a href="product_steel_flat_bar.php"><img class="d-block img-fluid" src="img/steel/steel flat bar/test1.jpg" alt=""></p>
-                        <br>
-                        <h5 class="text-uppercase m-0"><a class="buttonb js-scroll-trigger" href="product_steel_flat_bar.php">เหล็กแบน</a></h5>
-                        <hr class="my-4" />
-                        <h6> เกณฑ์มาตรฐานเหล็กแบน ตามมาตรฐานอุตสาหกรรม. มอก. xxxxx </h6>
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-4 mb-3 mb-md-0">
-                <div class="card py-4 h-100">
-                    <div class="card-body text-center">
-                        <p><a href="product_steel_cold_rolled_sheet.php"><img class="d-block img-fluid" src="img/steel/steel cold rolled sheet/test2.jpg" alt=""></p>
-                        <br>
-                        <h5 class="text-uppercase m-0"><a class="buttonb js-scroll-trigger" href="product_steel_cold_rolled_sheet.php">เหล็กแผ่นขาว</a></h5>
-                        <hr class="my-4" />
-                        <h6> เกณฑ์มาตรฐานเหล็กแผ่นขาว ตามมาตรฐานอุตสาหกรรม. </h6>
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-4 mb-3 mb-md-0">
-                <div class="card py-4 h-100">
-                    <div class="card-body text-center">
-                        <p><a href="product_steel_cheakered_plate.php"><img class="d-block img-fluid" src="img/steel/steel cheakered plate/test1.jpg" alt=""></p>
-                        <br>
-                        <h5 class="text-uppercase m-0"><a class="buttonb js-scroll-trigger" href="product_steel_cheakered_plate.php">เหล็กแผ่นลาย</a></h5>
-                        <hr class="my-4" />
-                        <h6> เกณฑ์มาตรฐานเหล็กแผ่นขาว ตามมาตรฐานอุตสาหกรรม. </h6>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <br>
-        <div class="row">
-            <div class="col-md-4 mb-3 mb-md-0">
-                <div class="card py-4 h-100">
-                    <div class="card-body text-center">
-                        <p><a href="product_steel_pipe_blue.php"><img class="d-block img-fluid" src="img/steel/steel galvanized/pipe blue/test1.jpg" alt=""></p>
-                        <br>
-                        <h5 class="text-uppercase m-0"><a class="buttonb js-scroll-trigger" href="product_steel_pipe_blue.php">ท่อเหล็กอาบสังกะสี คาดน้ำเงิน</a></h5>
-                        <hr class="my-4" />
-                        <h6> ท่อเหล็กอาบสังกะสี (คาดน้ำเงิน) ตามมาตรฐานอุตสาหกรรม. </h6>
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-4 mb-3 mb-md-0">
-                <div class="card py-4 h-100">
-                    <div class="card-body text-center">
-                        <p><a href="product_steel_pipe_yellow.php"><img class="d-block img-fluid" src="img/steel/steel galvanized/pipe yellow/test1.jpg" alt=""></p>
-                        <br>
-                        <h5 class="text-uppercase m-0"><a class="buttonb js-scroll-trigger" href="product_steel_pipe_yellow.php">ท่อเหล็กอาบสังกะสี คาดเหลือง</a></h5>
-                        <hr class="my-4" />
-                        <h6> ท่อเหล็กอาบสังกะสี (คาดเหลือง) ตามมาตรฐานอุตสาหกรรม. มอก.107-2533 </h6>
-                    </div>
-                </div>
-            </div>
-
-        </div>
-        <br>
-        <h3 class="text-center" id="B" style="color:#F21D1D">ห้องน้ำ</h3>
-        <p class="text-center">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Commodi in numquam, assumenda rem voluptatum dicta similique voluptatibus dolorem id natus! Voluptates est dolore ipsa ullam totam a itaque debitis. Quos!</p>
-        <br>
-        <div class="row">
-            <div class="col-md-4 mb-3 mb-md-0">
-                <div class="card py-4 h-100">
-                    <div class="card-body text-center">
-                        <h4 class="text-uppercase m-0">PRODUCT</h4>
-                        <hr class="my-4" />
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-4 mb-3 mb-md-0">
-                <div class="card py-4 h-100">
-                    <div class="card-body text-center">
-                        <h4 class="text-uppercase m-0">PRODUCT</h4>
-                        <hr class="my-4" />
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-4 mb-3 mb-md-0">
-                <div class="card py-4 h-100">
-                    <div class="card-body text-center">
-                        <h4 class="text-uppercase m-0">PRODUCT</h4>
-                        <hr class="my-4" />
-                    </div>
-                </div>
-            </div>
-        </div>
-        <br>
-        <div class="row">
-            <div class="col-md-4 mb-3 mb-md-0">
-                <div class="card py-4 h-100">
-                    <div class="card-body text-center">
-                        <h4 class="text-uppercase m-0">PRODUCT</h4>
-                        <hr class="my-4" />
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-4 mb-3 mb-md-0">
-                <div class="card py-4 h-100">
-                    <div class="card-body text-center">
-                        <h4 class="text-uppercase m-0">PRODUCT</h4>
-                        <hr class="my-4" />
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-4 mb-3 mb-md-0">
-                <div class="card py-4 h-100">
-                    <div class="card-body text-center">
-                        <h4 class="text-uppercase m-0">PRODUCT</h4>
-                        <hr class="my-4" />
-                    </div>
-                </div>
-            </div>
-        </div>
-        <br>
-        <div class="row">
-            <div class="col-md-4 mb-3 mb-md-0">
-                <div class="card py-4 h-100">
-                    <div class="card-body text-center">
-                        <h4 class="text-uppercase m-0">PRODUCT</h4>
-                        <hr class="my-4" />
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-4 mb-3 mb-md-0">
-                <div class="card py-4 h-100">
-                    <div class="card-body text-center">
-                        <h4 class="text-uppercase m-0">PRODUCT</h4>
-                        <hr class="my-4" />
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-4 mb-3 mb-md-0">
-                <div class="card py-4 h-100">
-                    <div class="card-body text-center">
-                        <h4 class="text-uppercase m-0">PRODUCT</h4>
-                        <hr class="my-4" />
-                    </div>
-                </div>
-            </div>
-        </div>
-        <br>
-        <h3 class="text-center" id="C" style="color:#F21D1D">ห้องครัว</h3>
-        <p class="text-center">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Commodi in numquam, assumenda rem voluptatum dicta similique voluptatibus dolorem id natus! Voluptates est dolore ipsa ullam totam a itaque debitis. Quos!</p>
-        <br>
-        <div class="row">
-            <div class="col-md-4 mb-3 mb-md-0">
-                <div class="card py-4 h-100">
-                    <div class="card-body text-center">
-                        <h4 class="text-uppercase m-0">PRODUCT</h4>
-                        <hr class="my-4" />
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-4 mb-3 mb-md-0">
-                <div class="card py-4 h-100">
-                    <div class="card-body text-center">
-                        <h4 class="text-uppercase m-0">PRODUCT</h4>
-                        <hr class="my-4" />
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-4 mb-3 mb-md-0">
-                <div class="card py-4 h-100">
-                    <div class="card-body text-center">
-                        <h4 class="text-uppercase m-0">PRODUCT</h4>
-                        <hr class="my-4" />
-                    </div>
-                </div>
-            </div>
-        </div>
-        <br>
-        <div class="row">
-            <div class="col-md-4 mb-3 mb-md-0">
-                <div class="card py-4 h-100">
-                    <div class="card-body text-center">
-                        <h4 class="text-uppercase m-0">PRODUCT</h4>
-                        <hr class="my-4" />
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-4 mb-3 mb-md-0">
-                <div class="card py-4 h-100">
-                    <div class="card-body text-center">
-                        <h4 class="text-uppercase m-0">PRODUCT</h4>
-                        <hr class="my-4" />
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-4 mb-3 mb-md-0">
-                <div class="card py-4 h-100">
-                    <div class="card-body text-center">
-                        <h4 class="text-uppercase m-0">PRODUCT</h4>
-                        <hr class="my-4" />
-                    </div>
-                </div>
-            </div>
-        </div>
-        <br>
-        <div class="row">
-            <div class="col-md-4 mb-3 mb-md-0">
-                <div class="card py-4 h-100">
-                    <div class="card-body text-center">
-                        <h4 class="text-uppercase m-0">PRODUCT</h4>
-                        <hr class="my-4" />
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-4 mb-3 mb-md-0">
-                <div class="card py-4 h-100">
-                    <div class="card-body text-center">
-                        <h4 class="text-uppercase m-0">PRODUCT</h4>
-                        <hr class="my-4" />
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-4 mb-3 mb-md-0">
-                <div class="card py-4 h-100">
-                    <div class="card-body text-center">
-                        <h4 class="text-uppercase m-0">PRODUCT</h4>
-                        <hr class="my-4" />
-                    </div>
-                </div>
-            </div>
-        </div>
-        <br>
-        <h3 class="text-center" id="D" style="color:#F21D1D">ตกแต่งพื้นและผนัง</h3>
-        <p class="text-center">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Commodi in numquam, assumenda rem voluptatum dicta similique voluptatibus dolorem id natus! Voluptates est dolore ipsa ullam totam a itaque debitis. Quos!</p>
-        <br>
-        <div class="row">
-            <div class="col-md-4 mb-3 mb-md-0">
-                <div class="card py-4 h-100">
-                    <div class="card-body text-center">
-                        <h4 class="text-uppercase m-0">PRODUCT</h4>
-                        <hr class="my-4" />
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-4 mb-3 mb-md-0">
-                <div class="card py-4 h-100">
-                    <div class="card-body text-center">
-                        <h4 class="text-uppercase m-0">PRODUCT</h4>
-                        <hr class="my-4" />
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-4 mb-3 mb-md-0">
-                <div class="card py-4 h-100">
-                    <div class="card-body text-center">
-                        <h4 class="text-uppercase m-0">PRODUCT</h4>
-                        <hr class="my-4" />
-                    </div>
-                </div>
-            </div>
-        </div>
-        <br>
-        <div class="row">
-            <div class="col-md-4 mb-3 mb-md-0">
-                <div class="card py-4 h-100">
-                    <div class="card-body text-center">
-                        <h4 class="text-uppercase m-0">PRODUCT</h4>
-                        <hr class="my-4" />
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-4 mb-3 mb-md-0">
-                <div class="card py-4 h-100">
-                    <div class="card-body text-center">
-                        <h4 class="text-uppercase m-0">PRODUCT</h4>
-                        <hr class="my-4" />
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-4 mb-3 mb-md-0">
-                <div class="card py-4 h-100">
-                    <div class="card-body text-center">
-                        <h4 class="text-uppercase m-0">PRODUCT</h4>
-                        <hr class="my-4" />
-                    </div>
-                </div>
-            </div>
-        </div>
-        <br>
-        <div class="row">
-            <div class="col-md-4 mb-3 mb-md-0">
-                <div class="card py-4 h-100">
-                    <div class="card-body text-center">
-                        <h4 class="text-uppercase m-0">PRODUCT</h4>
-                        <hr class="my-4" />
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-4 mb-3 mb-md-0">
-                <div class="card py-4 h-100">
-                    <div class="card-body text-center">
-                        <h4 class="text-uppercase m-0">PRODUCT</h4>
-                        <hr class="my-4" />
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-4 mb-3 mb-md-0">
-                <div class="card py-4 h-100">
-                    <div class="card-body text-center">
-                        <h4 class="text-uppercase m-0">PRODUCT</h4>
-                        <hr class="my-4" />
-                    </div>
-                </div>
-            </div>
-        </div>
         <br>
 
-        <br>
-        <br>
-    </div>
+        <div class="carousel slide" id="main-carousel" data-ride="carousel">
+            <ol class="carousel-indicators">
+                <li data-target="#main-carousel" data-slide-to="0" class="active"></li>
+                <li data-target="#main-carousel" data-slide-to="1"></li>
+                <li data-target="#main-carousel" data-slide-to="2"></li>
+            </ol><!-- /.carousel-indicators -->
+
+            <div class="carousel-inner">
+                <div class="carousel-item active">
+                    <img class="d-block img-fluid" src="img/Braner1.jpg" alt="">
+                </div>
+                <div class="carousel-item">
+                    <img class="d-block img-fluid" src="img/Braner1.jpg" alt="">
+                </div>
+                <div class="carousel-item">
+                    <img class="d-block img-fluid" src="img/Braner1.jpg" alt="">
+                </div>
+            </div><!-- /.carousel-inner -->
+
+            <a href="#main-carousel" class="carousel-control-prev" data-slide="prev">
+                <span class="carousel-control-prev-icon"></span>
+                <span class="sr-only" aria-hidden="true">Prev</span>
+            </a>
+            <a href="#main-carousel" class="carousel-control-next" data-slide="next">
+                <span class="carousel-control-next-icon"></span>
+                <span class="sr-only" aria-hidden="true">Next</span>
+            </a>
+        </div><!-- /.carousel -->
+    </div><!-- /.container -->
+    <br>
+    <br>
+
+
 
     <section class="contact-section bg5">
         <div class="container">
