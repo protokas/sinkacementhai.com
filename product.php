@@ -33,35 +33,29 @@ include("navmain.php");
     <br>
     <br>
 
-    <div class="container carousel slide" id="main-carousel" data-ride="carousel">
-        <ol class="carousel-indicators">
-            <li data-target="#main-carousel" data-slide-to="0" class="active"></li>
-            <li data-target="#main-carousel" data-slide-to="1"></li>
-            <li data-target="#main-carousel" data-slide-to="2"></li>
-        </ol><!-- /.carousel-indicators -->
-
-        <div class="carousel-inner">
-            <div class="carousel-item active">
-                <img class="d-block img-fluid" src="img/Braner2.jpg" alt="">
-            </div>
-            <div class="carousel-item">
-                <img class="d-block img-fluid" src="img/Braner2.jpg" alt="">
-            </div>
-            <div class="carousel-item">
-                <img class="d-block img-fluid" src="img/Braner2.jpg" alt="">
-            </div>
-        </div><!-- /.carousel-inner -->
-
-        <a href="#main-carousel" class="carousel-control-prev" data-slide="prev">
-            <span class="carousel-control-prev-icon"></span>
-            <span class="sr-only" aria-hidden="true">Prev</span>
-        </a>
-        <a href="#main-carousel" class="carousel-control-next" data-slide="next">
-            <span class="carousel-control-next-icon"></span>
-            <span class="sr-only" aria-hidden="true">Next</span>
-        </a>
-    </div><!-- /.carousel -->
+    <div class="ccontainer">
+            <section class="hotspots--wrapper ">
+                <img src="img/p2.jpg" class="hotspots--figure">
+                <a class="hotspot hotspot--1" href="https://www.facebook.com/SCGHOMEBoonthavornWarin/">
+                    <span class="hotspot--title hotspot--title__right kanit" style="background-color:rgba(120, 174, 151, 0.4);">กระเบื้องพื้น</span>
+                    <span class="hotspot--cta"></span>
+                </a>
+                <a class="hotspot hotspot--2" href="https://www.facebook.com/SCGHOMEBoonthavornWarin/">
+                    <span class="hotspot--title kanit" style="background-color:rgba(120, 174, 151, 0.4);">งานหลังคา & รางน้ำ</span>
+                    <span class="hotspot--cta"></span>
+                </a>
+                <a class="hotspot hotspot--3" href="https://www.facebook.com/SCGHOMEBoonthavornWarin/">
+                    <span class="hotspot--title hotspot--title__right kanit" style="background-color:rgba(120, 174, 151, 0.4);" )>งานโครงสร้างเหล็ก</span>
+                    <span class="hotspot--cta"></span>
+                </a>
+                <a class="hotspot hotspot--4" href="https://www.facebook.com/SCGHOMEBoonthavornWarin/">
+                    <span class="hotspot--title hotspot--title__right kanit" style="background-color:rgba(120, 174, 151, 0.4);">งานผนัง</span>
+                    <span class="hotspot--cta"></span>
+                </a>
+            </section>
+    </div>
     <br>
+
     <div class="container">
         <h2 class="text-center" id="A">ประเภทสินค้า</h2>
         <br>
@@ -210,9 +204,6 @@ include("navmain.php");
     <br>
     <br>
     <div class="container">
-        <h3 class="text-center" style="color:#F21D1D">Lorem ipsum</h3>
-        <p class="text-center">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Commodi in numquam, assumenda rem voluptatum dicta similique voluptatibus dolorem id natus! Voluptates est dolore ipsa ullam totam a itaque debitis. Quos!</p>
-        <br>
 
         <div class="carousel slide" id="main-carousel" data-ride="carousel">
             <ol class="carousel-indicators">
