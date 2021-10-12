@@ -32,9 +32,22 @@ include("navmain.php");
 ?>
 
 <body id="page-top">
+    <br>
+    <br>
+    <br>
+
+    <div class="container">
+        <h6> <a href="product.php" style="color:black;" >สินค้าทั้งหมด</a>/<a href="product_st.php" style="color:black;" >สินค้าเหล็ก</a>/<a style="color:gray;" >สินค้า.......</a></h6>
+    </div>
     <div class="container">
         <div class="row">
             <div class="col">
+                <br>
+                <br>
+                <div class=" text-center">
+                    <h4>ชื่อสินค้า.................</h4>
+                </div>
+
                 <div class="row d-flex justify-content-center mt-5">
                     <div class="col-md-6">
                         <div id="myCarousel" class="carousel slide" data-ride="carousel" align="center">
