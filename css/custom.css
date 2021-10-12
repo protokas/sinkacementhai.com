@@ -1079,7 +1079,6 @@ div {
 
 :root {
   --surface-color: #fff;
-  --curve: 40;
 }
 
 * {
@@ -1097,6 +1096,7 @@ body {
   margin: 4rem 5vw;
   padding: 0;
   list-style-type: none;
+  --curve: 40;
 }
 
 .card {
