@@ -23,6 +23,7 @@
     <link href="css/custom.css" rel="stylesheet" />
 
 
+
 </head>
 
 <!-- Masthead-->
@@ -31,10 +32,8 @@ include("navmain.php");
 ?>
 
 <body id="page-top">
-    
-    <div class="">
-        
-    </div>
+
+
 
     <br>
     <br>
