@@ -73,8 +73,8 @@ include("navmain.php");
                         </div>
                         <div id="collapse-238" class="collapse show" aria-labelledby="heading-238" data-parent="#accordion">
                             <div class="text-center kanit card-body accordion-body">
-                                <p> ท่อดำ 1" X 2.3 มิล มอก.ขาว_____ราคา <span id="price-0002001123">xxx</span></p>
-                                <p> ท่อดำ 1" X 3.2 มิล มอก.ส้ม_____ราคา <span id="price-0002001132">xxx</span></p>
+                                <p> ท่อดำ 1" X 2.3 มิล มอก.ขาว&nbsp&nbsp&nbsp&nbsp&nbspราคา <span id="price-0002001123">xxx</span></p>
+                                <p> ท่อดำ 1" X 3.2 มิล มอก.ส้ม&nbsp&nbsp&nbsp&nbsp&nbspราคา <span id="price-0002001132">xxx</span></p>
                             </div>
                         </div>
                     </div>
@@ -84,8 +84,8 @@ include("navmain.php");
                         </div>
                         <div id="collapse-239" class="collapse" aria-labelledby="heading-239" data-parent="#accordion">
                             <div class="card-body accordion-body">
-                                <p> ท่อดำ 1-1/4" X 2.3 มิล มอก.ขาว_____ราคา <span id="price-0002001249">xxx</span></p>
-                                <p> ท่อดำ 1-1/4" X 3.2 มิล มอก.ส้ม_____ราคา <span id="price-0002001266">xxx</span></p>
+                                <p> ท่อดำ 1-1/4" X 2.3 มิล มอก.ขาว&nbsp&nbsp&nbsp&nbsp&nbspราคา <span id="price-0002001249">xxx</span></p>
+                                <p> ท่อดำ 1-1/4" X 3.2 มิล มอก.ส้ม&nbsp&nbsp&nbsp&nbsp&nbspราคา <span id="price-0002001266">xxx</span></p>
                             </div>
                         </div>
                     </div>
@@ -95,8 +95,8 @@ include("navmain.php");
                         </div>
                         <div id="collapse-245" class="collapse " aria-labelledby="heading-245" data-parent="#accordion">
                             <div class="card-body accordion-body">
-                                <p> ท่อดำ 2" X 3.2 มิล มอก.ส้ม-ขาว_____ราคา <span id="price-0002002032">xxx</span></p>
-                                <p> ท่อดำ 2" X 3.2 มิล มอก.ขาว_____ราคา <span id="price-0002002034">xxx</span></p>
+                                <p> ท่อดำ 2" X 3.2 มิล มอก.ส้ม-ขาว&nbsp&nbsp&nbsp&nbsp&nbspราคา <span id="price-0002002032">xxx</span></p>
+                                <p> ท่อดำ 2" X 3.2 มิล มอก.ขาว&nbsp&nbsp&nbsp&nbsp&nbspราคา <span id="price-0002002034">xxx</span></p>
                             </div>
                         </div>
                     </div>
@@ -106,7 +106,7 @@ include("navmain.php");
                         </div>
                         <div id="collapse-244" class="collapse " aria-labelledby="heading-244" data-parent="#accordion">
                             <div class="card-body accordion-body">
-                                <p> ท่อดำ 2-1/2" X 3.2 มิล มอก.ส้ม_____ราคา <span id="price-0002002454">xxx</span></p>
+                                <p> ท่อดำ 2-1/2" X 3.2 มิล มอก.ส้ม&nbsp&nbsp&nbsp&nbsp&nbspราคา <span id="price-0002002454">xxx</span></p>
                             </div>
                         </div>
                     </div>
@@ -116,7 +116,7 @@ include("navmain.php");
                         </div>
                         <div id="collapse-255" class="collapse " aria-labelledby="heading-255" data-parent="#accordion">
                             <div class="card-body accordion-body">
-                                <p> ท่อดำ 3" X 3.2 มิล มอก.ส้ม_____ราคา <span id="price-0002003034">xxx</span></p>
+                                <p> ท่อดำ 3" X 3.2 มิล มอก.ส้ม&nbsp&nbsp&nbsp&nbsp&nbspราคา <span id="price-0002003034">xxx</span></p>
                             </div>
                         </div>
                     </div>
@@ -126,7 +126,7 @@ include("navmain.php");
                         </div>
                         <div id="collapse-266" class="collapse " aria-labelledby="heading-266" data-parent="#accordion">
                             <div class="card-body accordion-body">
-                                <p> ท่อดำ 4" X 3.2 มิล มอก.ส้ม_____ราคา <span id="price-0002004106">xxx</span></p>
+                                <p> ท่อดำ 4" X 3.2 มิล มอก.ส้ม&nbsp&nbsp&nbsp&nbsp&nbspราคา <span id="price-0002004106">xxx</span></p>
                             </div>
                         </div>
                     </div>
