@@ -90,7 +90,7 @@ include("navmain.php");
                 </span>
                 <span class="gallery-box__text-wrapper">
                     <span class="gallery-box__text kanit">
-                        หลังคาเหล็ก/หลังคากระเบื้อง
+                        หลังคา
                     </span>
                 </span>
             </a>

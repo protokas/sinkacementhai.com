@@ -3021,7 +3021,7 @@ input[type=button].btn-block {
 }
 
 .dropdown-toggle {
-  white-space: nowrap;
+  white-space: pre-line;
 }
 .dropdown-toggle::after {
   display: inline-block;
@@ -3030,7 +3030,7 @@ input[type=button].btn-block {
   content: "";
   border-top: 0.3em solid;
   border-right: 0.3em solid transparent;
-  border-bottom: 0;
+  border-bottom: none;
   border-left: 0.3em solid transparent;
 }
 .dropdown-toggle:empty::after {
@@ -3048,12 +3048,12 @@ input[type=button].btn-block {
   padding: 0.5rem 0;
   margin: 0.125rem 0 0;
   font-size: 1rem;
-  color: #212529;
+  color: #c5cbd1;
   text-align: left;
-  list-style: none;
-  background-color: #fff;
+  list-style: inside;
+  background-color: rgba(255, 255, 255, 0);
   background-clip: padding-box;
-  border: 1px solid rgba(0, 0, 0, 0.15);
+  border: 1px solid rgb(255, 255, 255);
   border-radius: 0.25rem;
 }
 
@@ -3205,7 +3205,7 @@ input[type=button].btn-block {
   padding: 0.25rem 1.5rem;
   clear: both;
   font-weight: 400;
-  color: #212529;
+  color: #6c757d;
   text-align: inherit;
   white-space: nowrap;
   background-color: transparent;
@@ -3973,7 +3973,7 @@ input[type=button].btn-block {
 }
 .nav-tabs .nav-link.active,
 .nav-tabs .nav-item.show .nav-link {
-  color: #495057;
+  color: #6c757d;
   background-color: #fff;
   border-color: #dee2e6 #dee2e6 #fff;
 }
