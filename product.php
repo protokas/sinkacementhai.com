@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
     <meta name="description" content="เมืองวัสดุ เอสซีจี โฮม บุญถาวร อุบลราชธานี มั่นใจ สินค้า คุณภาพ อุบลราชธานี ครบเครื่องเรื่องบ้าน ศูนย์รวมวัสดุก่อสร้างและของตกแต่งบ้านครบวงจร ราคาถูก คุณภาพดี.">
     <meta name="keywords" content="เมืองวัสดุ,scg home,บุญถาวร,กระเบื้อง,ตกแต่งภายใน,สุขภัณฑ์,เครื่องมือช่าง,สี,หลังคาเหล็ก,เมทัลชีท,วัสดุโครงสร้าง,ร้าน วัสดุ ก่อสร้าง ใกล้ที่สุด,ตะแกรงไวร์เมช,เหล็กเส้น,เหล็กแท่ง,ท่อสแตนเลส,ท่อ pvc,">
-    <title>สินค้าเหล็กและตกแต่ง :: เมืองวัสดุ</title>
+    <title>สินค้า :: เมืองวัสดุ</title>
     <link rel="icon" type="image/x-icon" href="imgorigin/favicon.ico" />
     <!-- Font Awesome icons (free version)-->
     <script src="https://use.fontawesome.com/releases/v5.15.1/js/all.js" crossorigin="anonymous"></script>
