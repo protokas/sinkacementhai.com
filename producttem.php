@@ -19,8 +19,8 @@
 
     <!-- Core theme CSS (includes Bootstrap)-->
     <link href="css/styles.css" rel="stylesheet" />
-    <link href="css/product.css" rel="stylesheet" />
     <link href="css/custom.css" rel="stylesheet" />
+    <link href="css/product.css" rel="stylesheet" />
 
 
 
@@ -32,8 +32,82 @@ include("navmain.php");
 ?>
 
 <body id="page-top">
-
-
+    <div class="container">
+        <div class="row">
+            <div class="col">
+                <div class="row d-flex justify-content-center mt-5">
+                    <div class="col-md-6">
+                        <div id="myCarousel" class="carousel slide" data-ride="carousel" align="center">
+                            <div class="carousel-inner">
+                                <div class="carousel-item active"> <img src="https://i.imgur.com/bV1xmG5.jpg" class="rounded"> </div>
+                                <div class="carousel-item"> <img src="https://i.imgur.com/vgMi4nw.jpg" class="rounded"> </div>
+                                <div class="carousel-item"> <img src="https://i.imgur.com/hRlGe10.jpg" class="rounded"> </div>
+                            </div>
+                            <ol class="carousel-indicators list-inline">
+                                <li class="list-inline-item active"> <a id="carousel-selector-0" class="selected" data-slide-to="0" data-target="#myCarousel"> <img src="https://i.imgur.com/bV1xmG5.jpg" class="img-fluid rounded"> </a> </li>
+                                <li class="list-inline-item"> <a id="carousel-selector-1" data-slide-to="1" data-target="#myCarousel"> <img src="https://i.imgur.com/vgMi4nw.jpg" class="img-fluid rounded"> </a> </li>
+                                <li class="list-inline-item"> <a id="carousel-selector-2" data-slide-to="2" data-target="#myCarousel"> <img src="https://i.imgur.com/hRlGe10.jpg" class="img-fluid rounded"> </a> </li>
+                            </ol>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col">
+                <div id="accordion" class="py-5">
+                    <div class="card border-0 wow fadeInUp" style="visibility: visible; animation-name: fadeInUp;">
+                        <div class="card-header p-0 border-0" id="heading-238">
+                            <button class="kanit btn btn-link accordion-title border-0 collapsed" data-toggle="collapse" data-target="#collapse-238" aria-expanded="false" aria-controls="#collapse-238"><i class="fas fa-minus text-center d-flex align-items-center justify-content-center h-100"></i>ขนาด.............. </button>
+                        </div>
+                        <div id="collapse-238" class="collapse show" aria-labelledby="heading-238" data-parent="#accordion">
+                            <div class="text-center kanit card-body accordion-body">
+                                de1
+                            </div>
+                        </div>
+                    </div>
+                    <div class="card border-0 wow fadeInUp" style="visibility: visible; animation-name: fadeInUp;">
+                        <div class="card-header p-0 border-0" id="heading-239">
+                            <button class="kanit btn btn-link accordion-title border-0 collapse" data-toggle="collapse" data-target="#collapse-239" aria-expanded="true" aria-controls="#collapse-239"><i class="fas fa-minus text-center d-flex align-items-center justify-content-center h-100"></i>ขนาด..............</button>
+                        </div>
+                        <div id="collapse-239" class="collapse" aria-labelledby="heading-239" data-parent="#accordion">
+                            <div class="card-body accordion-body">
+                                de2
+                            </div>
+                        </div>
+                    </div>
+                    <div class="card border-0 wow fadeInUp" style="visibility: visible; animation-name: fadeInUp;">
+                        <div class="card-header p-0 border-0" id="heading-245">
+                            <button class="kanit btn btn-link accordion-title border-0 collapsed" data-toggle="collapse" data-target="#collapse-245" aria-expanded="false" aria-controls="#collapse-245"><i class="fas fa-minus text-center d-flex align-items-center justify-content-center h-100"></i>ขนาด.............. </button>
+                        </div>
+                        <div id="collapse-245" class="collapse " aria-labelledby="heading-245" data-parent="#accordion">
+                            <div class="card-body accordion-body">
+                                de3
+                            </div>
+                        </div>
+                    </div>
+                    <div class="card border-0 wow fadeInUp" style="visibility: visible; animation-name: fadeInUp;">
+                        <div class="card-header p-0 border-0" id="heading-244">
+                            <button class="kanit btn btn-link accordion-title border-0 collapsed" data-toggle="collapse" data-target="#collapse-244" aria-expanded="false" aria-controls="#collapse-244"><i class="fas fa-minus text-center d-flex align-items-center justify-content-center h-100"></i>ขนาด..............</button>
+                        </div>
+                        <div id="collapse-244" class="collapse " aria-labelledby="heading-244" data-parent="#accordion">
+                            <div class="card-body accordion-body">
+                                de4
+                            </div>
+                        </div>
+                    </div>
+                    <div class="card border-0 wow fadeInUp" style="visibility: visible; animation-name: fadeInUp;">
+                        <div class="card-header p-0 border-0" id="heading-255">
+                            <button class="kanit btn btn-link accordion-title border-0 collapsed" data-toggle="collapse" data-target="#collapse-255" aria-expanded="false" aria-controls="#collapse-255"><i class="fas fa-minus text-center d-flex align-items-center justify-content-center h-100"></i>ขนาด.............. </button>
+                        </div>
+                        <div id="collapse-255" class="collapse " aria-labelledby="heading-255" data-parent="#accordion">
+                            <div class="card-body accordion-body">
+                                d5
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
 
     <br>
     <br>
