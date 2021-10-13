@@ -37,7 +37,7 @@ include("navmain.php");
     <br>
 
     <div class="container">
-        <h6> <a href="product.php" style="color:black;">สินค้าทั้งหมด</a>/<a href="product_st.php" style="color:black;">สินค้าเหล็ก</a>/<a style="color:gray;">เหล็กท่อดำ</a></h6>
+        <h6 class="f700"> <a href="product.php" style="color:black;">สินค้าทั้งหมด</a>/<a href="product_st.php" style="color:black;">สินค้าเหล็ก</a>/<a style="color:gray;">เหล็กท่อดำ</a></h6>
     </div>
     <div class="container">
         <div class="row">
@@ -45,7 +45,7 @@ include("navmain.php");
                 <br>
                 <br>
                 <div class=" text-center">
-                    <h4>ราคาเหล็กท่อดำ</h4>
+                    <h4 class="br f700" style="color:white" >ราคาเหล็กท่อดำ</h4>
                 </div>
 
                 <div class="row d-flex justify-content-center mt-5">
@@ -68,7 +68,7 @@ include("navmain.php");
             <div class="col">
                 <div id="accordion" class="py-5 kanit">
                     <div class="card border-0 wow fadeInUp" style="visibility: visible; animation-name: fadeInUp;">
-                        <div class="card-header p-0 border-0" id="heading-238">
+                        <div class="card-header p-0 border-0 f100" id="heading-238">
                             <button class="kanit btn btn-link accordion-title border-0 collapsed" data-toggle="collapse" data-target="#collapse-238" aria-expanded="false" aria-controls="#collapse-238"><i class="fas fa-minus text-center d-flex align-items-center justify-content-center h-100"></i>เหล็กท่อดำ ขนาด 1" </button>
                         </div>
                         <div id="collapse-238" class="collapse show" aria-labelledby="heading-238" data-parent="#accordion">
@@ -79,7 +79,7 @@ include("navmain.php");
                         </div>
                     </div>
                     <div class="card border-0 wow fadeInUp" style="visibility: visible; animation-name: fadeInUp;">
-                        <div class="card-header p-0 border-0" id="heading-239">
+                        <div class="card-header p-0 border-0 f100" id="heading-239">
                             <button class="kanit btn btn-link accordion-title border-0 collapse" data-toggle="collapse" data-target="#collapse-239" aria-expanded="true" aria-controls="#collapse-239"><i class="fas fa-minus text-center d-flex align-items-center justify-content-center h-100"></i>เหล็กท่อดำ ขนาด 1-1/4"</button>
                         </div>
                         <div id="collapse-239" class="collapse" aria-labelledby="heading-239" data-parent="#accordion">
@@ -90,7 +90,7 @@ include("navmain.php");
                         </div>
                     </div>
                     <div class="card border-0 wow fadeInUp" style="visibility: visible; animation-name: fadeInUp;">
-                        <div class="card-header p-0 border-0" id="heading-245">
+                        <div class="card-header p-0 border-0 f100" id="heading-245">
                             <button class="kanit btn btn-link accordion-title border-0 collapsed" data-toggle="collapse" data-target="#collapse-245" aria-expanded="false" aria-controls="#collapse-245"><i class="fas fa-minus text-center d-flex align-items-center justify-content-center h-100"></i>เหล็กท่อดำ ขนาด 2" </button>
                         </div>
                         <div id="collapse-245" class="collapse " aria-labelledby="heading-245" data-parent="#accordion">
@@ -101,7 +101,7 @@ include("navmain.php");
                         </div>
                     </div>
                     <div class="card border-0 wow fadeInUp" style="visibility: visible; animation-name: fadeInUp;">
-                        <div class="card-header p-0 border-0" id="heading-244">
+                        <div class="card-header p-0 border-0 f100" id="heading-244">
                             <button class="kanit btn btn-link accordion-title border-0 collapsed" data-toggle="collapse" data-target="#collapse-244" aria-expanded="false" aria-controls="#collapse-244"><i class="fas fa-minus text-center d-flex align-items-center justify-content-center h-100"></i>เหล็กท่อดำ ขนาด 2-1/2"</button>
                         </div>
                         <div id="collapse-244" class="collapse " aria-labelledby="heading-244" data-parent="#accordion">
@@ -111,7 +111,7 @@ include("navmain.php");
                         </div>
                     </div>
                     <div class="card border-0 wow fadeInUp" style="visibility: visible; animation-name: fadeInUp;">
-                        <div class="card-header p-0 border-0" id="heading-255">
+                        <div class="card-header p-0 border-0 f100" id="heading-255">
                             <button class="kanit btn btn-link accordion-title border-0 collapsed" data-toggle="collapse" data-target="#collapse-255" aria-expanded="false" aria-controls="#collapse-255"><i class="fas fa-minus text-center d-flex align-items-center justify-content-center h-100"></i>เหล็กท่อดำ ขนาด 3" </button>
                         </div>
                         <div id="collapse-255" class="collapse " aria-labelledby="heading-255" data-parent="#accordion">
@@ -121,7 +121,7 @@ include("navmain.php");
                         </div>
                     </div>
                     <div class="card border-0 wow fadeInUp" style="visibility: visible; animation-name: fadeInUp;">
-                        <div class="card-header p-0 border-0" id="heading-266">
+                        <div class="card-header p-0 border-0 f100" id="heading-266">
                             <button class="kanit btn btn-link accordion-title border-0 collapsed" data-toggle="collapse" data-target="#collapse-266" aria-expanded="false" aria-controls="#collapse-266"><i class="fas fa-minus text-center d-flex align-items-center justify-content-center h-100"></i>เหล็กท่อดำ ขนาด 4" </button>
                         </div>
                         <div id="collapse-266" class="collapse " aria-labelledby="heading-266" data-parent="#accordion">
@@ -136,7 +136,7 @@ include("navmain.php");
     </div>
     <br>
     <div class="kanit text-center">
-        <h6 class="text-uppercase m-0"><a class="buttonb js-scroll-trigger" href="https://www.facebook.com/SCGHOMEBoonthavornWarin/">ติดต่อฝ่ายขายสั่งซื้อสินค้า</a></h6>
+        <h6 class="text-uppercase m-0"><a class="buttonb js-scroll-trigger f700" href="https://www.facebook.com/SCGHOMEBoonthavornWarin/">สนใจสั่งซื้อ</a></h6>
     </div>
 
     <br>
