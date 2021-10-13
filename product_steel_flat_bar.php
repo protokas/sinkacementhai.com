@@ -34,52 +34,7 @@ include("navmain.php");
 	<br>
 	<br>
 	<br>
-	<br>
-	<br>
-	<div class="container text-center">
-		<img class=" mx-auto d-block " style="width:60%" src="img/steel/steel flat bar/test1.jpg" alt="">
-	</div>
-	<br>
-			<!-- ตาราง เหล็กแบน (Flat bar) -->
-			<div class="container">
-				<div class="datagrid">
-				<h4 class="text-center">ตารางเหล็กแบน มาตรฐานเหล็กแบน</h4>
-			<br>
-					
-						<table class="table table-bordered">
-							<thead><tr><th>รหัสสินค้า</th><th>รายละเอียดสินค้า</th><th>ราคาขาย</th></tr></thead>
-
-								<tbody><tr><td>0003700100</td><td>1/2 x 1/8</td><td><span id="price-0003700100">xxx</span></td></tr>
-
-									<tr class="alt"><td>0003700203</td><td>แบนรีด 1/2 X 3/16 เหลือง (2+/-)</td><td><span id="price-0003700203">xxx</span></td></tr>
-
-									<tbody><tr><td>0003700116</td><td>แบนรีด 1/2 X 1/8 น้ำเงิน (1.4)	</td><td><span id="price-0003700307">xxx</span></td></tr>
-							
-								</tbody>
-						</table>
-				</div>
-				<br>
-				<h4 class="text-center"><a href="https://www.facebook.com/SCGHOMEBoonthavornWarin/" style="color:red;"><i class="fas fa-shopping-cart"></i> สั่งเลย</a></h4>
-			</div>	
-			<!-- ตาราง เหล็กแบน (Flat bar) -->
-			
-		<br>
-
-
-<!-- Contact-->
-<section class="contact-section bg-black">
-        <div class="container">
-            
-            <div class="social d-flex justify-content-center">
-                <a class="mx-2" href="https://www.facebook.com/SCGHOMEBoonthavornWarin/"><i class="fab fa-facebook-f"></i></a>
-                <a class="mx-2" href="https://www.google.com/maps/place/SCG+HOME+%E0%B8%9A%E0%B8%B8%E0%B8%8D%E0%B8%96%E0%B8%B2%E0%B8%A7%E0%B8%A3+%E0%B8%A7%E0%B8%B2%E0%B8%A3%E0%B8%B4%E0%B8%99%E0%B8%8A%E0%B8%B3%E0%B8%A3%E0%B8%B2%E0%B8%9A-%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87%E0%B8%A7%E0%B8%B1%E0%B8%AA%E0%B8%94%E0%B8%B8/@15.1749567,104.7963276,15z/data=!4m12!1m6!3m5!1s0x0:0x2946434c26b623a8!2zU0NHIEhPTUUg4Lia4Li44LiN4LiW4Liy4Lin4LijIOC4p-C4suC4o-C4tOC4meC4iuC4s-C4o-C4suC4mi3guYDguKHguLfguK3guIfguKfguLHguKrguJTguLg!8m2!3d15.1749567!4d104.7963276!3m4!1s0x0:0x2946434c26b623a8!8m2!3d15.1749567!4d104.7963276"><i class="fab fa-google"></i></a>
-                <a class="mx-2" href="https://www.facebook.com/SCGHOMEBoonthavornWarin/"><i class="fas fa-shopping-cart"></i></a>
-            </div>
-            <br>
-            <br>
-        </div>
-    </section>
-	<!-- Footer-->
+	
 	<!-- Core theme JS-->
 	<script src="js/scripts.js"></script>
 
