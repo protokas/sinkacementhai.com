@@ -104,7 +104,7 @@ include("navmain.php");
                     <div class="card-body text-center">
                         <p><a href="product_steel_wide_flange.php"><img class="d-block img-fluid" src="img/steel/steel wide flange/test1.jpg" alt=""></p>
                         <br>
-                        <h5 class="text-uppercase m-0"><a class="buttonb js-scroll-trigger" href="product_steel_wide_flange.php">เหล็กไวด์แฟรค์</a></h5>
+                        <h5 class="text-uppercase m-0"><a class="buttonb js-scroll-trigger" href="product_steel_wide_flange.php">เหล็กไวด์แฟรงค์</a></h5>
                         <hr class="my-4" />
                         <h6> เกณฑ์มาตรฐานเหล็กไวด์แฟรค์ ตามมาตรฐานอุตสาหกรรม. มอก. xxxxx </h6>
                     </div>
