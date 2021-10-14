@@ -68,6 +68,8 @@ include("navmain.php");
 					<div class="card border-0 wow fadeInUp" style="visibility: visible; animation-name: fadeInUp;">
 						<div class="card-header p-0 border-0 f100" id="heading-238">
 							<button class="kanit btn btn-link accordion-title border-0 collapsed" data-toggle="collapse" data-target="#collapse-238" aria-expanded="false" aria-controls="#collapse-238"><i class="fas fa-minus text-center d-flex align-items-center justify-content-center h-100"></i>ท่อเหล็กอาบสังกะสี (คาดเหลือง) </button>
+        <br>
+        <h7 class="kanit" style="color:red;"> ***ราคาสินค้าอาจมีการเปลี่ยนแปลง สอบถามเพิ่มเติม 045-208500 ***</h7>
 						</div>
 						<div id="collapse-238" class="collapse show" aria-labelledby="heading-238" data-parent="#accordion">
 							<div class="text-center kanit card-body accordion-body">

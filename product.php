@@ -162,7 +162,7 @@ include("navmain.php");
                 </span>
                 <span class="gallery-box__text-wrapper">
                     <span class="gallery-box__text kanit">
-                        ฝ้า ผนัง พื้น สมาร์ทบอร์ด
+                        สมาร์ทบอร์ด
                     </span>
                 </span>
             </a>
@@ -173,7 +173,7 @@ include("navmain.php");
                 </span>
                 <span class="gallery-box__text-wrapper">
                     <span class="gallery-box__text kanit">
-                        ฝ้า ผนัง พื้น ซีเมนต์บอร์ด
+                        ซีเมนต์บอร์ด
                     </span>
                 </span>
             </a>

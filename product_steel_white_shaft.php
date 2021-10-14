@@ -38,6 +38,8 @@ include("navmain.php");
 
 	<div class="container">
 		<h6 class="f700"> <a href="product.php" style="color:black;">สินค้าทั้งหมด</a>/<a href="product_st.php" style="color:black;">สินค้าเหล็ก</a>/<a style="color:gray;">เหล็กเพลาขาว</a></h6>
+        <br>
+        <h7 class="kanit" style="color:red;"> ***ราคาสินค้าอาจมีการเปลี่ยนแปลง สอบถามเพิ่มเติม 045-208500 ***</h7>
 	</div>
 	<div class="container">
 		<div class="row">
