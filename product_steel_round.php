@@ -38,6 +38,8 @@ include("navmain.php");
 
 	<div class="container">
 		<h6 class="f700"> <a href="product.php" style="color:black;">สินค้าทั้งหมด</a>/<a href="product_st.php" style="color:black;">สินค้าเหล็ก</a>/<a style="color:gray;">เหล็กเส้นกลม</a></h6>
+		<br>
+		<h7 class="kanit" style="color:red;"> ***ราคาสินค้าอาจมีการเปลี่ยนแปลง สอบถามเพิ่มเติม 045-208500 ***</h7>
 	</div>
 	<div class="container">
 		<div class="row">
@@ -68,8 +70,6 @@ include("navmain.php");
 					<div class="card border-0 wow fadeInUp" style="visibility: visible; animation-name: fadeInUp;">
 						<div class="card-header p-0 border-0 f100" id="heading-238">
 							<button class="kanit btn btn-link accordion-title border-0 collapsed" data-toggle="collapse" data-target="#collapse-238" aria-expanded="false" aria-controls="#collapse-238"><i class="fas fa-minus text-center d-flex align-items-center justify-content-center h-100"></i>เหล็กเส้นกลม SR-24 SCGX10ม.</button>
-        <br>
-        <h7 class="kanit" style="color:red;"> ***ราคาสินค้าอาจมีการเปลี่ยนแปลง สอบถามเพิ่มเติม 045-208500 ***</h7>
 						</div>
 						<div id="collapse-238" class="collapse show" aria-labelledby="heading-238" data-parent="#accordion">
 							<div class="text-center kanit card-body accordion-body">

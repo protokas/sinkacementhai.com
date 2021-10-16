@@ -19,7 +19,6 @@
     <!-- Core theme CSS (includes Bootstrap)-->
     <link href="css/styles.css" rel="stylesheet" />
     <link href="css/custom.css" rel="stylesheet" />
-
 </head>
 
 <!-- Masthead-->
@@ -27,9 +26,10 @@
     <div class="container d-flex h-100 align-items-center">
         <div class="mx-auto text-center">
             <h1 class="mx-auto my-0 text-uppercase">SCG HOME WARIN</h1>
+            <br>
             <h2 class="text-white-50 mx-auto mt-2 mb-5 ">ศูนย์บริการ วัสดุก่อสร้าง เหล็กรูปพรรณ สินค้าตกแต่ง เรื่องบ้าน
                 ครบวงจร ทุกไอเดียครบจบที่นี่</h2>
-            <a class="buttonb js-scroll-trigger" href="https://www.facebook.com/SCGHOMEBoonthavornWarin/">SHOP NOW</a>
+            <a class="buttonb js-scroll-trigger" href="https://page.line.me/ezp8839x?openQrModal=true">SHOP NOW</a>
         </div>
     </div>
 </header>
@@ -158,7 +158,7 @@
 
     <main class="container">
 
-    <div class="h1 text-center kanit" id="pageHeader1">บริการหลัก</div>
+        <div class="h1 text-center kanit" id="pageHeader1">บริการหลัก</div>
         <br>
         <article class="postcard blue">
             <a class="postcard__img_link" href="#">
