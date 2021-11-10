@@ -23,7 +23,7 @@
 
 <!-- Masthead-->
 <header class="masthead">
-    
+
 </header>
 
 <body id="page-top">
@@ -85,64 +85,125 @@
             </div>
         </div>
     </nav>
+    <div style="background-color: #000000;">
+        <br>
+        <br>
+        <br>
+        <br>
+        <!-- Projects-->
+        <div class="carousel slide" id="main-carousel" data-ride="carousel">
 
-    <!-- About-->
-    <section class="about-section text-center" id="about">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-8 mx-auto">
-                    <h2 class="text-white mb-4">SCG HOME Boonthavorn เมืองวัสดุ</h2>
-                    <p class="text-white-50">
-                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta rem nihil nostrum deserunt
-                        aspernatur expedita in, quos dolores distinctio repudiandae sint veritatis aliquam ipsam
-                        repellat? Nesciunt labore accusamus repellat distinctio!
-                    </p>
-                </div>
-            </div>
-            <img class="img-fluid" src="imgorigin/pic3.png" alt="" />
         </div>
-    </section>
-
-    <br>
-    <br>
-    <!-- Projects-->
-    <section class="projects-section bg-light" id="projects">
-        <div class="container">
-            <!-- Featured Project Row-->
-            <div class="row align-items-center no-gutters mb-4 mb-lg-5">
-                <div class="col-xl-8 col-lg-7"><img class="img-fluid mb-3 mb-lg-0" src="imgorigin/pic4.jpg" alt="" />
-                </div>
-                <div class="col-xl-4 col-lg-5">
-                    <div class="featured-text text-center text-lg-left">
-                        <h4 style="color:#F21D1D">สินค้าโครงสร้างพร้อมบริการหลากหลาย</h4>
-                        <p class="text-black-50 mb-0">Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla
-                            accusantium dignissimos numquam, quos vero temporibus recusandae nisi voluptates eveniet non
-                            quas quisquam ad sit repellat laborum dicta libero, iste expedita!</p>
-                    </div>
-                </div>
+    </div>
+    <!-- About-->
+    <div class="container">
+        <div class="row">
+            <div class="col-sm">
+                <img class="img-fluid" src="img/promotion/ecomplat.jpg" alt="" />
             </div>
-    </section>
+            <br>
+            <div class="col-sm">
+                <img class="img-fluid" src="img/promotion/ecomplat.jpg" alt="" />
+            </div>
+        </div>
+        <br>
+        <div class="carousel slide" id="main-carousel1" data-ride="carousel">
+            <ol class="carousel-indicators">
+                <li data-target="#main-carousel1" data-slide-to="0" class="active"></li>
+                <li data-target="#main-carousel1" data-slide-to="1"></li>
+                <li data-target="#main-carousel1" data-slide-to="2"></li>
+            </ol><!-- /.carousel-indicators -->
 
+            <div class="carousel-inner">
+                <div class="carousel-item active">
+                    <img class="d-block img-fluid" src="http://stuckincustoms.smugmug.com/Portfolio/i-JSxf5Nm/0/X3/Burning-Man-Day-6%20%28202%20of%201606%29-X3.jpg" alt="">
+                </div>
+                <div class="carousel-item">
+                    <img class="d-block img-fluid" src="http://stuckincustoms.smugmug.com/Portfolio/i-KMjVHRd/0/X3/Andramada-X3.jpg" alt="">
+                </div>
+                <div class="carousel-item">
+                    <img class="d-block img-fluid" src="http://stuckincustoms.smugmug.com/Burning-Man/i-dd9xmfn/0/X3/The%20Steamy%20Car-X3.jpg" alt="">
+                </div>
+            </div><!-- /.carousel-inner -->
 
-    <section class="hotspots--wrapper ">
-        <img src="img/p2.jpg" class="hotspots--figure">
-        <a class="hotspot hotspot--1" href="https://www.facebook.com/SCGHOMEBoonthavornWarin/">
-            <span class="hotspot--title hotspot--title__right kanit" style="background-color:rgba(120, 174, 151, 0.4);">กระเบื้องพื้น</span>
-            <span class="hotspot--cta"></span>
-        </a>
-        <a class="hotspot hotspot--2" href="https://www.facebook.com/SCGHOMEBoonthavornWarin/">
-            <span class="hotspot--title kanit" style="background-color:rgba(120, 174, 151, 0.4);">งานหลังคา & รางน้ำ</span>
-            <span class="hotspot--cta"></span>
-        </a>
-        <a class="hotspot hotspot--3" href="https://www.facebook.com/SCGHOMEBoonthavornWarin/">
-            <span class="hotspot--title hotspot--title__right kanit" style="background-color:rgba(120, 174, 151, 0.4);" )>งานโครงสร้างเหล็ก</span>
-            <span class="hotspot--cta"></span>
-        </a>
-        <a class="hotspot hotspot--4" href="https://www.facebook.com/SCGHOMEBoonthavornWarin/">
-            <span class="hotspot--title hotspot--title__right kanit" style="background-color:rgba(120, 174, 151, 0.4);">งานผนัง</span>
-            <span class="hotspot--cta"></span>
-        </a>
-    </section>
+            <a href="#main-carousel1" class="carousel-control-prev" data-slide="prev">
+                <span class="carousel-control-prev-icon"></span>
+                <span class="sr-only" aria-hidden="true">Prev</span>
+            </a>
+            <a href="#main-carousel1" class="carousel-control-next" data-slide="next">
+                <span class="carousel-control-next-icon"></span>
+                <span class="sr-only" aria-hidden="true">Next</span>
+            </a>
+        </div><!-- /.carousel -->
+        <br>
+        <div class="row">
+            <div class="col-sm">
+                <img class="img-fluid" src="img/promotion/promotionmain.png" alt="" />
+            </div>
+            <br>
+            <div class="col-sm">
+                <img class="img-fluid" src="img/promotion/promotionmain.png" alt="" />
+            </div>
+            <div class="col-sm">
+                <img class="img-fluid" src="img/promotion/promotionmain.png" alt="" />
+            </div>
+            <div class="col-sm">
+                <img class="img-fluid" src="img/promotion/promotionmain.png" alt="" />
+            </div>
+        </div>
+        <br>
+    </div>
+
+    <br>
+    <div style="background-color: #8f8989;">
+
+        <br>
+
+        <!-- kit -->
+        <section class="hotspots--wrapper ">
+            <img src="img/kitchen.jpg" class="hotspots--figure">
+            <a class="hotspot hotspot--5" href="https://www.facebook.com/SCGHOMEBoonthavornWarin/">
+                <span class="hotspot--title hotspot--title__right kanit" style="background-color:rgba(120, 174, 151, 0.4);">ตัวดูดควัน</span>
+                <span class="hotspot--cta"></span>
+            </a>
+            <a class="hotspot hotspot--6" href="https://www.facebook.com/SCGHOMEBoonthavornWarin/">
+                <span class="hotspot--title kanit" style="background-color:rgba(120, 174, 151, 0.4);">ก๊อกน้ำ & ซิ้งครัว</span>
+                <span class="hotspot--cta"></span>
+            </a>
+            <a class="hotspot hotspot--7" href="https://www.facebook.com/SCGHOMEBoonthavornWarin/">
+                <span class="hotspot--title hotspot--title__right kanit" style="background-color:rgba(120, 174, 151, 0.4);" )>เตาแก๊ส</span>
+                <span class="hotspot--cta"></span>
+            </a>
+            <a class="hotspot hotspot--8" href="https://www.facebook.com/SCGHOMEBoonthavornWarin/">
+                <span class="hotspot--title hotspot--title__right kanit" style="background-color:rgba(120, 174, 151, 0.4);">เคาท์เตอร์ครัวสำเร็จรูป</span>
+                <span class="hotspot--cta"></span>
+            </a>
+        </section>
+        <br>
+
+        <!-- bart -->
+        <section class="hotspots--wrapper ">
+            <img src="img/bathroom.jpg" class="hotspots--figure">
+            <a class="hotspot hotspot--9" href="https://www.facebook.com/SCGHOMEBoonthavornWarin/">
+                <span class="hotspot--title hotspot--title__right kanit" style="background-color:rgba(120, 174, 151, 0.4);">ห้องอาบน้ำ & อ่างอาบน้ำ</span>
+                <span class="hotspot--cta"></span>
+            </a>
+            <a class="hotspot hotspot--10" href="https://www.facebook.com/SCGHOMEBoonthavornWarin/">
+                <span class="hotspot--title kanit" style="background-color:rgba(120, 174, 151, 0.4);">ก๊อกน้ำ & ซิ้งห้องน้ำ</span>
+                <span class="hotspot--cta"></span>
+            </a>
+            <a class="hotspot hotspot--11" href="https://www.facebook.com/SCGHOMEBoonthavornWarin/">
+                <span class="hotspot--title hotspot--title__right kanit" style="background-color:rgba(120, 174, 151, 0.4);" )>สุขภัณฑ์</span>
+                <span class="hotspot--cta"></span>
+            </a>
+            <a class="hotspot hotspot--12" href="https://www.facebook.com/SCGHOMEBoonthavornWarin/">
+                <span class="hotspot--title hotspot--title__right kanit" style="background-color:rgba(120, 174, 151, 0.4);">กระเบื้อง & ผนัง</span>
+                <span class="hotspot--cta"></span>
+            </a>
+        </section>
+        <br>
+    </div>
+
 
     <br>
     <br>
@@ -150,7 +211,7 @@
 
     <main class="container">
 
-        <div class="h1 text-center kanit" id="pageHeader1">บริการหลัก</div>
+        <h1 class="text-center" style="color:#F21D1D">บริการหลัก</h1>
         <br>
         <article class="postcard blue">
             <a class="postcard__img_link" href="#">
@@ -219,56 +280,11 @@
 
     </main>
     <br>
-    <br>
-
-    <!-- kit -->
-    <section class="hotspots--wrapper ">
-        <img src="img/kitchen.jpg" class="hotspots--figure">
-        <a class="hotspot hotspot--5" href="https://www.facebook.com/SCGHOMEBoonthavornWarin/">
-            <span class="hotspot--title hotspot--title__right kanit" style="background-color:rgba(120, 174, 151, 0.4);">ตัวดูดควัน</span>
-            <span class="hotspot--cta"></span>
-        </a>
-        <a class="hotspot hotspot--6" href="https://www.facebook.com/SCGHOMEBoonthavornWarin/">
-            <span class="hotspot--title kanit" style="background-color:rgba(120, 174, 151, 0.4);">ก๊อกน้ำ & ซิ้งครัว</span>
-            <span class="hotspot--cta"></span>
-        </a>
-        <a class="hotspot hotspot--7" href="https://www.facebook.com/SCGHOMEBoonthavornWarin/">
-            <span class="hotspot--title hotspot--title__right kanit" style="background-color:rgba(120, 174, 151, 0.4);" )>เตาแก๊ส</span>
-            <span class="hotspot--cta"></span>
-        </a>
-        <a class="hotspot hotspot--8" href="https://www.facebook.com/SCGHOMEBoonthavornWarin/">
-            <span class="hotspot--title hotspot--title__right kanit" style="background-color:rgba(120, 174, 151, 0.4);">เคาท์เตอร์ครัวสำเร็จรูป</span>
-            <span class="hotspot--cta"></span>
-        </a>
-    </section>
-    <br>
-
-    <!-- bart -->
-    <section class="hotspots--wrapper ">
-        <img src="img/bathroom.jpg" class="hotspots--figure">
-        <a class="hotspot hotspot--9" href="https://www.facebook.com/SCGHOMEBoonthavornWarin/">
-            <span class="hotspot--title hotspot--title__right kanit" style="background-color:rgba(120, 174, 151, 0.4);">ห้องอาบน้ำ & อ่างอาบน้ำ</span>
-            <span class="hotspot--cta"></span>
-        </a>
-        <a class="hotspot hotspot--10" href="https://www.facebook.com/SCGHOMEBoonthavornWarin/">
-            <span class="hotspot--title kanit" style="background-color:rgba(120, 174, 151, 0.4);">ก๊อกน้ำ & ซิ้งห้องน้ำ</span>
-            <span class="hotspot--cta"></span>
-        </a>
-        <a class="hotspot hotspot--11" href="https://www.facebook.com/SCGHOMEBoonthavornWarin/">
-            <span class="hotspot--title hotspot--title__right kanit" style="background-color:rgba(120, 174, 151, 0.4);" )>สุขภัณฑ์</span>
-            <span class="hotspot--cta"></span>
-        </a>
-        <a class="hotspot hotspot--12" href="https://www.facebook.com/SCGHOMEBoonthavornWarin/">
-            <span class="hotspot--title hotspot--title__right kanit" style="background-color:rgba(120, 174, 151, 0.4);">กระเบื้อง & ผนัง</span>
-            <span class="hotspot--cta"></span>
-        </a>
-    </section>
-
-    <br>
 
     <!-- cardb -->
     <div class="container">
         <h1 class="text-center" style="color:#F21D1D">ข่าวสาร อัพเดตกิจกรรม</h1>
+        <br>
         <br>
         <div class="card-columns">
             <div class="cardb">
