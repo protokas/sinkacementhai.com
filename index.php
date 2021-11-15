@@ -91,9 +91,7 @@
         <br>
         <br>
         <!-- Projects-->
-        <div class="carousel slide" id="main-carousel" data-ride="carousel">
 
-        </div>
     </div>
     <!-- About-->
     <div class="container">
@@ -156,51 +154,87 @@
 
     <br>
     <div style="background-color: #8f8989;">
-
         <br>
+        <div class="containerhot">
+            <div class="lg-container">
+                <img class="lg-image" src="https://images.pexels.com/photos/162616/coffee-work-desk-mug-keyboard-162616.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260" />
 
-        <!-- kit -->
-        <section class="hotspots--wrapper ">
-            <img src="img/kitchen.jpg" class="hotspots--figure">
-            <a class="hotspot hotspot--5" href="https://www.facebook.com/SCGHOMEBoonthavornWarin/">
-                <span class="hotspot--title hotspot--title__right kanit" style="background-color:rgba(120, 174, 151, 0.4);">ตัวดูดควัน</span>
-                <span class="hotspot--cta"></span>
-            </a>
-            <a class="hotspot hotspot--6" href="https://www.facebook.com/SCGHOMEBoonthavornWarin/">
-                <span class="hotspot--title kanit" style="background-color:rgba(120, 174, 151, 0.4);">ก๊อกน้ำ & ซิ้งครัว</span>
-                <span class="hotspot--cta"></span>
-            </a>
-            <a class="hotspot hotspot--7" href="https://www.facebook.com/SCGHOMEBoonthavornWarin/">
-                <span class="hotspot--title hotspot--title__right kanit" style="background-color:rgba(120, 174, 151, 0.4);" )>เตาแก๊ส</span>
-                <span class="hotspot--cta"></span>
-            </a>
-            <a class="hotspot hotspot--8" href="https://www.facebook.com/SCGHOMEBoonthavornWarin/">
-                <span class="hotspot--title hotspot--title__right kanit" style="background-color:rgba(120, 174, 151, 0.4);">เคาท์เตอร์ครัวสำเร็จรูป</span>
-                <span class="hotspot--cta"></span>
-            </a>
-        </section>
-        <br>
+                <div style="top: 20%; left: 19.9%;" class="lg-hotspot lg-hotspot--top-left">
+                    <div class="lg-hotspot__button"></div>
+                    <div class="lg-hotspot__label">
+                        <h4>This is the title</h4>
+                        <p>This is some text that goes in the label. It describes the item.</p>
+                    </div>
+                </div>
 
-        <!-- bart -->
-        <section class="hotspots--wrapper ">
-            <img src="img/bathroom.jpg" class="hotspots--figure">
-            <a class="hotspot hotspot--9" href="https://www.facebook.com/SCGHOMEBoonthavornWarin/">
-                <span class="hotspot--title hotspot--title__right kanit" style="background-color:rgba(120, 174, 151, 0.4);">ห้องอาบน้ำ & อ่างอาบน้ำ</span>
-                <span class="hotspot--cta"></span>
-            </a>
-            <a class="hotspot hotspot--10" href="https://www.facebook.com/SCGHOMEBoonthavornWarin/">
-                <span class="hotspot--title kanit" style="background-color:rgba(120, 174, 151, 0.4);">ก๊อกน้ำ & ซิ้งห้องน้ำ</span>
-                <span class="hotspot--cta"></span>
-            </a>
-            <a class="hotspot hotspot--11" href="https://www.facebook.com/SCGHOMEBoonthavornWarin/">
-                <span class="hotspot--title hotspot--title__right kanit" style="background-color:rgba(120, 174, 151, 0.4);" )>สุขภัณฑ์</span>
-                <span class="hotspot--cta"></span>
-            </a>
-            <a class="hotspot hotspot--12" href="https://www.facebook.com/SCGHOMEBoonthavornWarin/">
-                <span class="hotspot--title hotspot--title__right kanit" style="background-color:rgba(120, 174, 151, 0.4);">กระเบื้อง & ผนัง</span>
-                <span class="hotspot--cta"></span>
-            </a>
-        </section>
+                <div style="top: 25%; left: 88%;" class="lg-hotspot lg-hotspot--top-right">
+                    <div class="lg-hotspot__button"></div>
+                    <div class="lg-hotspot__label">
+                        <h4>Keyboard</h4>
+                        <p>
+                            A keyboard has letters, and it can write letters. Let's say some more things about keyboards so the text wraps
+                            to multiple lines.
+                        </p>
+                    </div>
+                </div>
+
+                <div style="top: 15.5%; left: 66%;" class="lg-hotspot lg-hotspot--top-right">
+                    <div class="lg-hotspot__button"></div>
+                    <div class="lg-hotspot__label">
+                        <h4>Envelopes</h4>
+                        <p>These can hold letters, bills, and junk mail.</p>
+                    </div>
+                </div>
+
+                <div style="top: 62%; left: 15%;" class="lg-hotspot lg-hotspot--bottom-left">
+                    <div class="lg-hotspot__button"></div>
+                    <div class="lg-hotspot__label">
+                        <h4>Coffee</h4>
+                        <p>Yay coffee!</p>
+                    </div>
+                </div>
+
+                <div style="top: 85%; left: 73%;" class="lg-hotspot lg-hotspot--bottom-right">
+                    <div class="lg-hotspot__button"></div>
+                    <div class="lg-hotspot__label">
+                        <p>This is a label without a title.</p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="lg-container">
+                <img class="lg-image" src="https://images.pexels.com/photos/39317/chihuahua-dog-puppy-cute-39317.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260" />
+
+                <div style="top: 21%; left: 93%;" class="lg-hotspot lg-hotspot--top-right">
+                    <div class="lg-hotspot__button"></div>
+                    <div class="lg-hotspot__label">
+                        <h4>Fence</h4>
+                        <p>
+                            It's a fence to keep pupper safe.
+                        </p>
+                    </div>
+                </div>
+
+                <div style="top: 60%; left: 25%;" class="lg-hotspot lg-hotspot--top-left">
+                    <div class="lg-hotspot__button"></div>
+                    <div class="lg-hotspot__label">
+                        <h4>Grass</h4>
+                        <p>Feels good on pupper's paws.</p>
+                    </div>
+                </div>
+
+                <div style="top: 13.5%; left: 58%;" class="lg-hotspot lg-hotspot--top-right">
+                    <div class="lg-hotspot__button"></div>
+                    <div class="lg-hotspot__label">
+                        <h4>Smol boi</h4>
+                        <p>
+                            Smol boi is a good pupper.
+                        </p>
+                    </div>
+                </div>
+
+            </div>
+        </div>
         <br>
     </div>
 
