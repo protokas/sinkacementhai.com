@@ -23,7 +23,15 @@
 
 <!-- Masthead-->
 <header class="masthead">
-
+    <div class="container d-flex h-100 align-items-center">
+        <div class="mx-auto text-center">
+            <h1 class="mx-auto my-0 text-uppercase">SCG HOME WARIN</h1>
+            <br>
+            <h2 class="text-white-50 mx-auto mt-2 mb-5 ">ศูนย์บริการ วัสดุก่อสร้าง เหล็กรูปพรรณ สินค้าตกแต่ง เรื่องบ้าน
+                ครบวงจร ทุกไอเดียครบจบที่นี่</h2>
+            <a class="buttonb js-scroll-trigger" href="https://page.line.me/ezp8839x?openQrModal=true">SHOP NOW</a>
+        </div>
+    </div>
 </header>
 
 <body id="page-top">
@@ -85,159 +93,64 @@
             </div>
         </div>
     </nav>
-    <div style="background-color: #000000;">
-        <br>
-        <br>
-        <br>
-        <br>
-        <!-- Projects-->
 
-    </div>
     <!-- About-->
-    <div class="container">
-        <div class="row">
-            <div class="col-sm">
-                <img class="img-fluid" src="img/promotion/ecomplat.jpg" alt="" />
+    <section class="about-section text-center" id="about">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-8 mx-auto">
+                    <h2 class="text-white mb-4">SCGhome บุญถาวร วารินฯ</h2>
+                    <p class="text-white-50">
+                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta rem nihil nostrum deserunt
+                        aspernatur expedita in, quos dolores distinctio repudiandae sint veritatis aliquam ipsam
+                        repellat? Nesciunt labore accusamus repellat distinctio!
+                    </p>
+                </div>
             </div>
-            <br>
-            <div class="col-sm">
-                <img class="img-fluid" src="img/promotion/ecomplat.jpg" alt="" />
-            </div>
+            <img class="img-fluid" src="imgorigin/pic3.png" alt="" />
         </div>
-        <br>
-        <div class="carousel slide" id="main-carousel1" data-ride="carousel">
-            <ol class="carousel-indicators">
-                <li data-target="#main-carousel1" data-slide-to="0" class="active"></li>
-                <li data-target="#main-carousel1" data-slide-to="1"></li>
-                <li data-target="#main-carousel1" data-slide-to="2"></li>
-            </ol><!-- /.carousel-indicators -->
-
-            <div class="carousel-inner">
-                <div class="carousel-item active">
-                    <img class="d-block img-fluid" src="http://stuckincustoms.smugmug.com/Portfolio/i-JSxf5Nm/0/X3/Burning-Man-Day-6%20%28202%20of%201606%29-X3.jpg" alt="">
-                </div>
-                <div class="carousel-item">
-                    <img class="d-block img-fluid" src="http://stuckincustoms.smugmug.com/Portfolio/i-KMjVHRd/0/X3/Andramada-X3.jpg" alt="">
-                </div>
-                <div class="carousel-item">
-                    <img class="d-block img-fluid" src="http://stuckincustoms.smugmug.com/Burning-Man/i-dd9xmfn/0/X3/The%20Steamy%20Car-X3.jpg" alt="">
-                </div>
-            </div><!-- /.carousel-inner -->
-
-            <a href="#main-carousel1" class="carousel-control-prev" data-slide="prev">
-                <span class="carousel-control-prev-icon"></span>
-                <span class="sr-only" aria-hidden="true">Prev</span>
-            </a>
-            <a href="#main-carousel1" class="carousel-control-next" data-slide="next">
-                <span class="carousel-control-next-icon"></span>
-                <span class="sr-only" aria-hidden="true">Next</span>
-            </a>
-        </div><!-- /.carousel -->
-        <br>
-        <div class="row">
-            <div class="col-sm">
-                <img class="img-fluid" src="img/promotion/promotionmain.png" alt="" />
-            </div>
-            <br>
-            <div class="col-sm">
-                <img class="img-fluid" src="img/promotion/promotionmain.png" alt="" />
-            </div>
-            <div class="col-sm">
-                <img class="img-fluid" src="img/promotion/promotionmain.png" alt="" />
-            </div>
-            <div class="col-sm">
-                <img class="img-fluid" src="img/promotion/promotionmain.png" alt="" />
-            </div>
-        </div>
-        <br>
-    </div>
+    </section>
 
     <br>
-    <div style="background-color: #8f8989;">
-        <br>
-        <div class="containerhot">
-            <div class="lg-container">
-                <img class="lg-image" src="https://images.pexels.com/photos/162616/coffee-work-desk-mug-keyboard-162616.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260" />
-
-                <div style="top: 20%; left: 19.9%;" class="lg-hotspot lg-hotspot--top-left">
-                    <div class="lg-hotspot__button"></div>
-                    <div class="lg-hotspot__label">
-                        <h4>This is the title</h4>
-                        <p>This is some text that goes in the label. It describes the item.</p>
-                    </div>
+    <br>
+    <!-- Projects-->
+    <section class="projects-section bg-light" id="projects">
+        <div class="container">
+            <!-- Featured Project Row-->
+            <div class="row align-items-center no-gutters mb-4 mb-lg-5">
+                <div class="col-xl-8 col-lg-7"><img class="img-fluid mb-3 mb-lg-0" src="imgorigin/pic4.jpg" alt="" />
                 </div>
-
-                <div style="top: 25%; left: 88%;" class="lg-hotspot lg-hotspot--top-right">
-                    <div class="lg-hotspot__button"></div>
-                    <div class="lg-hotspot__label">
-                        <h4>Keyboard</h4>
-                        <p>
-                            A keyboard has letters, and it can write letters. Let's say some more things about keyboards so the text wraps
-                            to multiple lines.
-                        </p>
-                    </div>
-                </div>
-
-                <div style="top: 15.5%; left: 66%;" class="lg-hotspot lg-hotspot--top-right">
-                    <div class="lg-hotspot__button"></div>
-                    <div class="lg-hotspot__label">
-                        <h4>Envelopes</h4>
-                        <p>These can hold letters, bills, and junk mail.</p>
-                    </div>
-                </div>
-
-                <div style="top: 62%; left: 15%;" class="lg-hotspot lg-hotspot--bottom-left">
-                    <div class="lg-hotspot__button"></div>
-                    <div class="lg-hotspot__label">
-                        <h4>Coffee</h4>
-                        <p>Yay coffee!</p>
-                    </div>
-                </div>
-
-                <div style="top: 85%; left: 73%;" class="lg-hotspot lg-hotspot--bottom-right">
-                    <div class="lg-hotspot__button"></div>
-                    <div class="lg-hotspot__label">
-                        <p>This is a label without a title.</p>
+                <div class="col-xl-4 col-lg-5">
+                    <div class="featured-text text-center text-lg-left">
+                        <h4 style="color:#F21D1D">สินค้าโครงสร้างพร้อมบริการหลากหลาย</h4>
+                        <p class="text-black-50 mb-0">Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla
+                            accusantium dignissimos numquam, quos vero temporibus recusandae nisi voluptates eveniet non
+                            quas quisquam ad sit repellat laborum dicta libero, iste expedita!</p>
                     </div>
                 </div>
             </div>
+    </section>
 
-            <div class="lg-container">
-                <img class="lg-image" src="https://images.pexels.com/photos/39317/chihuahua-dog-puppy-cute-39317.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260" />
 
-                <div style="top: 21%; left: 93%;" class="lg-hotspot lg-hotspot--top-right">
-                    <div class="lg-hotspot__button"></div>
-                    <div class="lg-hotspot__label">
-                        <h4>Fence</h4>
-                        <p>
-                            It's a fence to keep pupper safe.
-                        </p>
-                    </div>
-                </div>
-
-                <div style="top: 60%; left: 25%;" class="lg-hotspot lg-hotspot--top-left">
-                    <div class="lg-hotspot__button"></div>
-                    <div class="lg-hotspot__label">
-                        <h4>Grass</h4>
-                        <p>Feels good on pupper's paws.</p>
-                    </div>
-                </div>
-
-                <div style="top: 13.5%; left: 58%;" class="lg-hotspot lg-hotspot--top-right">
-                    <div class="lg-hotspot__button"></div>
-                    <div class="lg-hotspot__label">
-                        <h4>Smol boi</h4>
-                        <p>
-                            Smol boi is a good pupper.
-                        </p>
-                    </div>
-                </div>
-
-            </div>
-        </div>
-        <br>
-    </div>
-
+    <section class="hotspots--wrapper ">
+        <img src="img/p2.jpg" class="hotspots--figure">
+        <a class="hotspot hotspot--1" href="https://www.facebook.com/SCGHOMEBoonthavornWarin/">
+            <span class="hotspot--title hotspot--title__right kanit" style="background-color:rgba(120, 174, 151, 0.4);">กระเบื้องพื้น</span>
+            <span class="hotspot--cta"></span>
+        </a>
+        <a class="hotspot hotspot--2" href="https://www.facebook.com/SCGHOMEBoonthavornWarin/">
+            <span class="hotspot--title kanit" style="background-color:rgba(120, 174, 151, 0.4);">งานหลังคา & รางน้ำ</span>
+            <span class="hotspot--cta"></span>
+        </a>
+        <a class="hotspot hotspot--3" href="https://www.facebook.com/SCGHOMEBoonthavornWarin/">
+            <span class="hotspot--title hotspot--title__right kanit" style="background-color:rgba(120, 174, 151, 0.4);" )>งานโครงสร้างเหล็ก</span>
+            <span class="hotspot--cta"></span>
+        </a>
+        <a class="hotspot hotspot--4" href="https://www.facebook.com/SCGHOMEBoonthavornWarin/">
+            <span class="hotspot--title hotspot--title__right kanit" style="background-color:rgba(120, 174, 151, 0.4);">งานผนัง</span>
+            <span class="hotspot--cta"></span>
+        </a>
+    </section>
 
     <br>
     <br>
@@ -245,7 +158,7 @@
 
     <main class="container">
 
-        <h1 class="text-center" style="color:#F21D1D">บริการหลัก</h1>
+        <div class="h1 text-center kanit" id="pageHeader1">บริการหลัก</div>
         <br>
         <article class="postcard blue">
             <a class="postcard__img_link" href="#">
@@ -314,11 +227,56 @@
 
     </main>
     <br>
+    <br>
+
+    <!-- kit -->
+    <section class="hotspots--wrapper ">
+        <img src="img/kitchen.jpg" class="hotspots--figure">
+        <a class="hotspot hotspot--5" href="https://www.facebook.com/SCGHOMEBoonthavornWarin/">
+            <span class="hotspot--title hotspot--title__right kanit" style="background-color:rgba(120, 174, 151, 0.4);">ตัวดูดควัน</span>
+            <span class="hotspot--cta"></span>
+        </a>
+        <a class="hotspot hotspot--6" href="https://www.facebook.com/SCGHOMEBoonthavornWarin/">
+            <span class="hotspot--title kanit" style="background-color:rgba(120, 174, 151, 0.4);">ก๊อกน้ำ & ซิ้งครัว</span>
+            <span class="hotspot--cta"></span>
+        </a>
+        <a class="hotspot hotspot--7" href="https://www.facebook.com/SCGHOMEBoonthavornWarin/">
+            <span class="hotspot--title hotspot--title__right kanit" style="background-color:rgba(120, 174, 151, 0.4);" )>เตาแก๊ส</span>
+            <span class="hotspot--cta"></span>
+        </a>
+        <a class="hotspot hotspot--8" href="https://www.facebook.com/SCGHOMEBoonthavornWarin/">
+            <span class="hotspot--title hotspot--title__right kanit" style="background-color:rgba(120, 174, 151, 0.4);">เคาท์เตอร์ครัวสำเร็จรูป</span>
+            <span class="hotspot--cta"></span>
+        </a>
+    </section>
+    <br>
+
+    <!-- bart -->
+    <section class="hotspots--wrapper ">
+        <img src="img/bathroom.jpg" class="hotspots--figure">
+        <a class="hotspot hotspot--9" href="https://www.facebook.com/SCGHOMEBoonthavornWarin/">
+            <span class="hotspot--title hotspot--title__right kanit" style="background-color:rgba(120, 174, 151, 0.4);">ห้องอาบน้ำ & อ่างอาบน้ำ</span>
+            <span class="hotspot--cta"></span>
+        </a>
+        <a class="hotspot hotspot--10" href="https://www.facebook.com/SCGHOMEBoonthavornWarin/">
+            <span class="hotspot--title kanit" style="background-color:rgba(120, 174, 151, 0.4);">ก๊อกน้ำ & ซิ้งห้องน้ำ</span>
+            <span class="hotspot--cta"></span>
+        </a>
+        <a class="hotspot hotspot--11" href="https://www.facebook.com/SCGHOMEBoonthavornWarin/">
+            <span class="hotspot--title hotspot--title__right kanit" style="background-color:rgba(120, 174, 151, 0.4);" )>สุขภัณฑ์</span>
+            <span class="hotspot--cta"></span>
+        </a>
+        <a class="hotspot hotspot--12" href="https://www.facebook.com/SCGHOMEBoonthavornWarin/">
+            <span class="hotspot--title hotspot--title__right kanit" style="background-color:rgba(120, 174, 151, 0.4);">กระเบื้อง & ผนัง</span>
+            <span class="hotspot--cta"></span>
+        </a>
+    </section>
+
+    <br>
 
     <!-- cardb -->
     <div class="container">
-        <h1 class="text-center" style="color:#F21D1D">ข่าวสาร อัพเดตกิจกรรม</h1>
-        <br>
+        <h1 class="text-center" style="color:#F21D1D">บทความน่าสนใจ</h1>
         <br>
         <div class="card-columns">
             <div class="cardb">
