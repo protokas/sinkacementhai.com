@@ -28,33 +28,6 @@ include("navmain.php");
 
 <body id="page-top">
     <br>
-    <br>
-    <br>
-    <br>
-    <br>
-
-    <div class="ccontainer">
-            <section class="hotspots--wrapper ">
-                <img src="img/p2.jpg" class="hotspots--figure">
-                <a class="hotspot hotspot--1" href="https://www.facebook.com/SCGHOMEBoonthavornWarin/">
-                    <span class="hotspot--title hotspot--title__right kanit" style="background-color:rgba(120, 174, 151, 0.4);">กระเบื้องพื้น</span>
-                    <span class="hotspot--cta"></span>
-                </a>
-                <a class="hotspot hotspot--2" href="https://www.facebook.com/SCGHOMEBoonthavornWarin/">
-                    <span class="hotspot--title kanit" style="background-color:rgba(120, 174, 151, 0.4);">งานหลังคา & รางน้ำ</span>
-                    <span class="hotspot--cta"></span>
-                </a>
-                <a class="hotspot hotspot--3" href="https://www.facebook.com/SCGHOMEBoonthavornWarin/">
-                    <span class="hotspot--title hotspot--title__right kanit" style="background-color:rgba(120, 174, 151, 0.4);" )>งานโครงสร้างเหล็ก</span>
-                    <span class="hotspot--cta"></span>
-                </a>
-                <a class="hotspot hotspot--4" href="https://www.facebook.com/SCGHOMEBoonthavornWarin/">
-                    <span class="hotspot--title hotspot--title__right kanit" style="background-color:rgba(120, 174, 151, 0.4);">งานผนัง</span>
-                    <span class="hotspot--cta"></span>
-                </a>
-            </section>
-    </div>
-    <br>
 
     <div class="container">
         <h2 class="text-center" id="A">ประเภทสินค้า</h2>
