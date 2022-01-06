@@ -131,35 +131,11 @@
             </div>
     </section>
 
-
-    <section class="hotspots--wrapper ">
-        <img src="img/p2.jpg" class="hotspots--figure">
-        <a class="hotspot hotspot--1" href="https://www.facebook.com/SCGHOMEBoonthavornWarin/">
-            <span class="hotspot--title hotspot--title__right kanit" style="background-color:rgba(120, 174, 151, 0.4);">กระเบื้องพื้น</span>
-            <span class="hotspot--cta"></span>
-        </a>
-        <a class="hotspot hotspot--2" href="https://www.facebook.com/SCGHOMEBoonthavornWarin/">
-            <span class="hotspot--title kanit" style="background-color:rgba(120, 174, 151, 0.4);">งานหลังคา & รางน้ำ</span>
-            <span class="hotspot--cta"></span>
-        </a>
-        <a class="hotspot hotspot--3" href="https://www.facebook.com/SCGHOMEBoonthavornWarin/">
-            <span class="hotspot--title hotspot--title__right kanit" style="background-color:rgba(120, 174, 151, 0.4);" )>งานโครงสร้างเหล็ก</span>
-            <span class="hotspot--cta"></span>
-        </a>
-        <a class="hotspot hotspot--4" href="https://www.facebook.com/SCGHOMEBoonthavornWarin/">
-            <span class="hotspot--title hotspot--title__right kanit" style="background-color:rgba(120, 174, 151, 0.4);">งานผนัง</span>
-            <span class="hotspot--cta"></span>
-        </a>
-    </section>
-
+    <hr>
+    <div class="h1 text-center kanit" id="pageHeader1">บริการหลัก</div>
+    <hr>
     <br>
-    <br>
-
-
     <main class="container">
-
-        <div class="h1 text-center kanit" id="pageHeader1">บริการหลัก</div>
-        <br>
         <article class="postcard blue">
             <a class="postcard__img_link" href="#">
                 <img class="postcard__img" src="img/service_mv/ออกแบบ.jpg" alt="Image Title" />
@@ -227,56 +203,12 @@
 
     </main>
     <br>
+    <hr>
+    <h1 class="text-center" style="color:#F21D1D">บทความน่าสนใจ</h1>
+    <hr>
     <br>
-
-    <!-- kit -->
-    <section class="hotspots--wrapper ">
-        <img src="img/kitchen.jpg" class="hotspots--figure">
-        <a class="hotspot hotspot--5" href="https://www.facebook.com/SCGHOMEBoonthavornWarin/">
-            <span class="hotspot--title hotspot--title__right kanit" style="background-color:rgba(120, 174, 151, 0.4);">ตัวดูดควัน</span>
-            <span class="hotspot--cta"></span>
-        </a>
-        <a class="hotspot hotspot--6" href="https://www.facebook.com/SCGHOMEBoonthavornWarin/">
-            <span class="hotspot--title kanit" style="background-color:rgba(120, 174, 151, 0.4);">ก๊อกน้ำ & ซิ้งครัว</span>
-            <span class="hotspot--cta"></span>
-        </a>
-        <a class="hotspot hotspot--7" href="https://www.facebook.com/SCGHOMEBoonthavornWarin/">
-            <span class="hotspot--title hotspot--title__right kanit" style="background-color:rgba(120, 174, 151, 0.4);" )>เตาแก๊ส</span>
-            <span class="hotspot--cta"></span>
-        </a>
-        <a class="hotspot hotspot--8" href="https://www.facebook.com/SCGHOMEBoonthavornWarin/">
-            <span class="hotspot--title hotspot--title__right kanit" style="background-color:rgba(120, 174, 151, 0.4);">เคาท์เตอร์ครัวสำเร็จรูป</span>
-            <span class="hotspot--cta"></span>
-        </a>
-    </section>
-    <br>
-
-    <!-- bart -->
-    <section class="hotspots--wrapper ">
-        <img src="img/bathroom.jpg" class="hotspots--figure">
-        <a class="hotspot hotspot--9" href="https://www.facebook.com/SCGHOMEBoonthavornWarin/">
-            <span class="hotspot--title hotspot--title__right kanit" style="background-color:rgba(120, 174, 151, 0.4);">ห้องอาบน้ำ & อ่างอาบน้ำ</span>
-            <span class="hotspot--cta"></span>
-        </a>
-        <a class="hotspot hotspot--10" href="https://www.facebook.com/SCGHOMEBoonthavornWarin/">
-            <span class="hotspot--title kanit" style="background-color:rgba(120, 174, 151, 0.4);">ก๊อกน้ำ & ซิ้งห้องน้ำ</span>
-            <span class="hotspot--cta"></span>
-        </a>
-        <a class="hotspot hotspot--11" href="https://www.facebook.com/SCGHOMEBoonthavornWarin/">
-            <span class="hotspot--title hotspot--title__right kanit" style="background-color:rgba(120, 174, 151, 0.4);" )>สุขภัณฑ์</span>
-            <span class="hotspot--cta"></span>
-        </a>
-        <a class="hotspot hotspot--12" href="https://www.facebook.com/SCGHOMEBoonthavornWarin/">
-            <span class="hotspot--title hotspot--title__right kanit" style="background-color:rgba(120, 174, 151, 0.4);">กระเบื้อง & ผนัง</span>
-            <span class="hotspot--cta"></span>
-        </a>
-    </section>
-
-    <br>
-
     <!-- cardb -->
     <div class="container">
-        <h1 class="text-center" style="color:#F21D1D">บทความน่าสนใจ</h1>
         <br>
         <div class="card-columns">
             <div class="cardb">
